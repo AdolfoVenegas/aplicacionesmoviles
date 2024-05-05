@@ -1,0 +1,6 @@
+com.example.calculadoraimc.test.app-annotation-experimental-1.4.0-0 C:\Users\jesus\.gradle\caches\transforms-3\935ca2afead505062205016701139742\transformed\annotation-experimental-1.4.0\res
+com.example.calculadoraimc.test.app-core-1.5.0-1 C:\Users\jesus\.gradle\caches\transforms-3\a398584d6b5cd441ab396e8538531035\transformed\core-1.5.0\res
+com.example.calculadoraimc.test.app-androidTest-2 E:\ENE-MAY 2024\Aplicaciones moviles\Practicas\Calculadora IMC\app\build\generated\res\resValues\androidTest\debug
+com.example.calculadoraimc.test.app-mergeDebugAndroidTestResources-3 E:\ENE-MAY 2024\Aplicaciones moviles\Practicas\Calculadora IMC\app\build\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\merged.dir
+com.example.calculadoraimc.test.app-mergeDebugAndroidTestResources-4 E:\ENE-MAY 2024\Aplicaciones moviles\Practicas\Calculadora IMC\app\build\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\stripped.dir
+com.example.calculadoraimc.test.app-merged_res-5 E:\ENE-MAY 2024\Aplicaciones moviles\Practicas\Calculadora IMC\app\build\intermediates\merged_res\debugAndroidTest

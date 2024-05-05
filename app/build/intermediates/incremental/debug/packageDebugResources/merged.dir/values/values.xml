@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="colorBrown">#950101</color>
+    <color name="colorGreen">#4caf50</color>
+    <color name="colorGreenish">#8bc34a</color>
+    <color name="colorOrange">#ff5722</color>
+    <color name="colorRed">#cf0101</color>
+    <color name="colorYellow">#ffc107</color>
+    <color name="white">#FFFFFFFF</color>
+    <string name="app_name">Calculadora IMC</string>
+    <style name="Base.Theme.CalculadoraIMC" parent="Theme.Material3.DayNight.NoActionBar">
+        
+        
+    </style>
+    <style name="Theme.CalculadoraIMC" parent="Base.Theme.CalculadoraIMC"/>
+</resources>
