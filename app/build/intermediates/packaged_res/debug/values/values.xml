@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="darkblue">#18173a</color>
+    <color name="mustrad">#f0c851</color>
+    <color name="navyblue">#211d50</color>
+    <color name="orange">#e79e2c</color>
+    <color name="white">#FFFFFFFF</color>
+    <string name="app_name">TheGuessNumber</string>
+    <style name="Base.Theme.TheGuessNumber" parent="Theme.Material3.DayNight.NoActionBar">
+        
+        
+        <item name="colorPrimary">@color/navyblue</item>
+        <item name="colorPrimaryVariant">@color/darkblue</item>
+        <item name="colorOnPrimary">@color/white</item>
+        <item name="colorSecondary">@color/mustrad</item>
+        <item name="colorSecondaryVariant">@color/orange</item>
+        <item name="colorOnSecondary">@color/black</item>
+
+        <item name="android:statusBarColor">?attr/colorPrimaryVariant</item>
+    </style>
+    <style name="Theme.TheGuessNumber" parent="Base.Theme.TheGuessNumber"/>
+</resources>

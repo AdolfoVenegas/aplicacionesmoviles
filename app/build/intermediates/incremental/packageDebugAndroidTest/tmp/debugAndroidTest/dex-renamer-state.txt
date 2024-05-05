@@ -1,0 +1,10 @@
+#Sat May 04 22:55:47 MST 2024
+base.0=E\:\\ENE-MAY 2024\\Aplicaciones moviles\\Practicas\\app\\build\\intermediates\\dex\\debugAndroidTest\\mergeExtDexDebugAndroidTest\\classes.dex
+base.1=E\:\\ENE-MAY 2024\\Aplicaciones moviles\\Practicas\\app\\build\\intermediates\\dex\\debugAndroidTest\\mergeProjectDexDebugAndroidTest\\0\\classes.dex
+base.2=E\:\\ENE-MAY 2024\\Aplicaciones moviles\\Practicas\\app\\build\\intermediates\\dex\\debugAndroidTest\\mergeProjectDexDebugAndroidTest\\8\\classes.dex
+path.0=classes.dex
+path.1=0/classes.dex
+path.2=8/classes.dex
+renamed.0=classes.dex
+renamed.1=classes2.dex
+renamed.2=classes3.dex
