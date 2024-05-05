@@ -1,0 +1,2 @@
+com.example.calculadora_venegasadolfo_133643.test:style/WhiteBackgroundTheme = 0x7f010001
+com.example.calculadora_venegasadolfo_133643.test:style/WhiteBackgroundDialogTheme = 0x7f010000

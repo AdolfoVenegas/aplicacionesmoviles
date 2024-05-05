@@ -1,0 +1,214 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".MainActivity">
+
+
+    <TextView
+        android:id="@+id/title"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Calculadora"
+        android:textSize="34sp"
+        tools:layout_editor_absoluteX="116dp"
+        tools:layout_editor_absoluteY="32dp" />
+
+    <TextView
+        android:id="@+id/tvNumber2"
+        android:layout_width="335dp"
+        android:layout_height="70dp"
+        android:hint="0.0"
+        android:textAlignment="textEnd"
+        android:textSize="24sp"
+        tools:layout_editor_absoluteX="38dp"
+        tools:layout_editor_absoluteY="159dp" />
+
+    <TextView
+        android:id="@+id/tvNumber1"
+        android:layout_width="335dp"
+        android:layout_height="70dp"
+        android:hint="0.0"
+        android:textAlignment="textEnd"
+        android:textSize="24sp"
+        tools:layout_editor_absoluteX="38dp"
+        tools:layout_editor_absoluteY="89dp" />
+
+    <Button
+        android:id="@+id/numberFive"
+        android:layout_width="70dp"
+        android:layout_height="70dp"
+        android:onClick="presionarDigito"
+        android:text="5"
+        app:cornerRadius="5dp"
+        tools:layout_editor_absoluteX="128dp"
+        tools:layout_editor_absoluteY="361dp"
+        tools:textSize="20sp" />
+
+    <Button
+        android:id="@+id/numberNine"
+        android:layout_width="70dp"
+        android:layout_height="70dp"
+        android:onClick="presionarDigito"
+        android:text="9"
+        app:cornerRadius="5dp"
+        tools:layout_editor_absoluteX="216dp"
+        tools:layout_editor_absoluteY="267dp"
+        tools:textSize="20sp" />
+
+    <Button
+        android:id="@+id/numberTwo"
+        android:layout_width="70dp"
+        android:layout_height="70dp"
+        android:onClick="presionarDigito"
+        android:text="2"
+        app:cornerRadius="5dp"
+        tools:layout_editor_absoluteX="128dp"
+        tools:layout_editor_absoluteY="445dp"
+        tools:textSize="20sp" />
+
+    <Button
+        android:id="@+id/resta"
+        android:layout_width="70dp"
+        android:layout_height="70dp"
+        android:onClick="clickOperation"
+        android:text="-"
+        app:cornerRadius="5dp"
+        tools:layout_editor_absoluteX="303dp"
+        tools:layout_editor_absoluteY="361dp"
+        tools:textSize="20sp" />
+
+    <Button
+        android:id="@+id/numberOne"
+        android:layout_width="70dp"
+        android:layout_height="70dp"
+        android:onClick="presionarDigito"
+        android:text="1"
+        app:cornerRadius="5dp"
+        tools:layout_editor_absoluteX="38dp"
+        tools:layout_editor_absoluteY="445dp"
+        tools:textSize="20sp" />
+
+    <Button
+        android:id="@+id/divide"
+        android:layout_width="70dp"
+        android:layout_height="70dp"
+        android:onClick="clickOperation"
+        android:text="/"
+        app:cornerRadius="5dp"
+        tools:layout_editor_absoluteX="304dp"
+        tools:layout_editor_absoluteY="528dp"
+        tools:textSize="20sp" />
+
+    <Button
+        android:id="@+id/multiplica"
+        android:layout_width="70dp"
+        android:layout_height="70dp"
+        android:onClick="clickOperation"
+        android:text="*"
+        app:cornerRadius="5dp"
+        tools:layout_editor_absoluteX="304dp"
+        tools:layout_editor_absoluteY="445dp"
+        tools:textSize="20sp" />
+
+    <Button
+        android:id="@+id/suma"
+        android:layout_width="70dp"
+        android:layout_height="70dp"
+        android:onClick="clickOperation"
+        android:text="+"
+        app:cornerRadius="5dp"
+        tools:layout_editor_absoluteX="304dp"
+        tools:layout_editor_absoluteY="268dp"
+        tools:textSize="20sp" />
+
+    <Button
+        android:id="@+id/numberCero"
+        android:layout_width="70dp"
+        android:layout_height="70dp"
+        android:onClick="presionarDigito"
+        android:text="0"
+        app:cornerRadius="5dp"
+        tools:layout_editor_absoluteX="39dp"
+        tools:layout_editor_absoluteY="528dp"
+        tools:textSize="20sp" />
+
+    <Button
+        android:id="@+id/numberEight"
+        android:layout_width="70dp"
+        android:layout_height="70dp"
+        android:onClick="presionarDigito"
+        android:text="8"
+        app:cornerRadius="5dp"
+        tools:layout_editor_absoluteX="128dp"
+        tools:layout_editor_absoluteY="268dp"
+        tools:textSize="20sp" />
+
+    <Button
+        android:id="@+id/result"
+        android:layout_width="70dp"
+        android:layout_height="70dp"
+        android:text="="
+        app:cornerRadius="5dp"
+        tools:layout_editor_absoluteX="128dp"
+        tools:layout_editor_absoluteY="528dp"
+        tools:textSize="20sp" />
+
+    <Button
+        android:id="@+id/delete"
+        android:layout_width="70dp"
+        android:layout_height="70dp"
+        android:text="C"
+        app:cornerRadius="5dp"
+        tools:layout_editor_absoluteX="216dp"
+        tools:layout_editor_absoluteY="528dp"
+        tools:textSize="20sp" />
+
+    <Button
+        android:id="@+id/numberSeven"
+        android:layout_width="70dp"
+        android:layout_height="70dp"
+        android:onClick="presionarDigito"
+        android:text="7"
+        app:cornerRadius="5dp"
+        tools:layout_editor_absoluteX="39dp"
+        tools:layout_editor_absoluteY="268dp"
+        tools:textSize="20sp" />
+
+    <Button
+        android:id="@+id/numberFour"
+        android:layout_width="70dp"
+        android:layout_height="70dp"
+        android:onClick="presionarDigito"
+        android:text="4"
+        app:cornerRadius="5dp"
+        tools:layout_editor_absoluteX="39dp"
+        tools:layout_editor_absoluteY="361dp"
+        tools:textSize="20sp" />
+
+    <Button
+        android:id="@+id/numberThree"
+        android:layout_width="70dp"
+        android:layout_height="70dp"
+        android:onClick="presionarDigito"
+        android:text="3"
+        app:cornerRadius="5dp"
+        tools:layout_editor_absoluteX="216dp"
+        tools:layout_editor_absoluteY="445dp"
+        tools:textSize="20sp" />
+
+    <Button
+        android:id="@+id/numberSix"
+        android:layout_width="70dp"
+        android:layout_height="70dp"
+        android:onClick="presionarDigito"
+        android:text="6"
+        app:cornerRadius="5dp"
+        tools:layout_editor_absoluteX="216dp"
+        tools:layout_editor_absoluteY="361dp"
+        tools:textSize="20sp" />
+
+
+</androidx.constraintlayout.widget.ConstraintLayout>

@@ -1,0 +1,3 @@
+com.example.calculadora_venegasadolfo_133643.test
+style WhiteBackgroundDialogTheme
+style WhiteBackgroundTheme

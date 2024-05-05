@@ -1,0 +1,33 @@
+R_DEF: Internal format may change without notice
+local
+color black
+color white
+drawable ic_launcher_background
+drawable ic_launcher_foreground
+id delete
+id divide
+id multiplica
+id numberCero
+id numberEight
+id numberFive
+id numberFour
+id numberNine
+id numberOne
+id numberSeven
+id numberSix
+id numberThree
+id numberTwo
+id resta
+id result
+id suma
+id title
+id tvNumber1
+id tvNumber2
+layout activity_main
+mipmap ic_launcher
+mipmap ic_launcher_round
+string app_name
+style Base.Theme.Calculadora_venegasAdolfo_133643
+style Theme.Calculadora_venegasAdolfo_133643
+xml backup_rules
+xml data_extraction_rules
