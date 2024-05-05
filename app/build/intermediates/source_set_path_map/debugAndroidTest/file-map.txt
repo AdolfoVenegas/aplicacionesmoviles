@@ -1,0 +1,6 @@
+com.example.examenu1.test.app-annotation-experimental-1.4.0-0 C:\Users\jesus\.gradle\caches\transforms-3\935ca2afead505062205016701139742\transformed\annotation-experimental-1.4.0\res
+com.example.examenu1.test.app-core-1.5.0-1 C:\Users\jesus\.gradle\caches\transforms-3\a398584d6b5cd441ab396e8538531035\transformed\core-1.5.0\res
+com.example.examenu1.test.app-androidTest-2 E:\ENE-MAY 2024\Aplicaciones moviles\Practicas\ExamenU1\app\build\generated\res\resValues\androidTest\debug
+com.example.examenu1.test.app-mergeDebugAndroidTestResources-3 E:\ENE-MAY 2024\Aplicaciones moviles\Practicas\ExamenU1\app\build\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\merged.dir
+com.example.examenu1.test.app-mergeDebugAndroidTestResources-4 E:\ENE-MAY 2024\Aplicaciones moviles\Practicas\ExamenU1\app\build\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\stripped.dir
+com.example.examenu1.test.app-merged_res-5 E:\ENE-MAY 2024\Aplicaciones moviles\Practicas\ExamenU1\app\build\intermediates\merged_res\debugAndroidTest
