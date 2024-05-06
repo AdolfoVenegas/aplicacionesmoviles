@@ -1,0 +1,3 @@
+mx.edu.iton.potros.practica5.test
+style WhiteBackgroundDialogTheme
+style WhiteBackgroundTheme

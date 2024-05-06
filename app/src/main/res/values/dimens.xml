@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="input_margin">15dp</dimen>
+    <dimen name="menu_buttons_paddings">20dp</dimen>
+    <dimen name="menu_buttons_margin">2dp</dimen>
+    <dimen name="menu_buttons_text">15dp</dimen>
+</resources>
