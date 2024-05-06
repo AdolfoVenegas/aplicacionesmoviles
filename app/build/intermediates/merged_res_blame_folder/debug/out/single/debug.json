@@ -1,0 +1,686 @@
+[
+    {
+        "merged": "mx.edu.iton.potros.practica6.app-merged_res-31:/mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "mx.edu.iton.potros.practica6.app-main-33:/mipmap-xxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "mx.edu.iton.potros.practica6.app-merged_res-31:/drawable-ldpi_madame.jpg.flat",
+        "source": "mx.edu.iton.potros.practica6.app-main-33:/drawable-ldpi/madame.jpg"
+    },
+    {
+        "merged": "mx.edu.iton.potros.practica6.app-merged_res-31:/drawable-hdpi_demo.jpg.flat",
+        "source": "mx.edu.iton.potros.practica6.app-main-33:/drawable-hdpi/demo.jpg"
+    },
+    {
+        "merged": "mx.edu.iton.potros.practica6.app-merged_res-31:/drawable-xxxhdpi_elmonstruo.jpg.flat",
+        "source": "mx.edu.iton.potros.practica6.app-main-33:/drawable-xxxhdpi/elmonstruo.jpg"
+    },
+    {
+        "merged": "mx.edu.iton.potros.practica6.app-merged_res-31:/drawable-ldpi_adorabledemonios.jpg.flat",
+        "source": "mx.edu.iton.potros.practica6.app-main-33:/drawable-ldpi/adorabledemonios.jpg"
+    },
+    {
+        "merged": "mx.edu.iton.potros.practica6.app-merged_res-31:/drawable-hdpi_dune.jpg.flat",
+        "source": "mx.edu.iton.potros.practica6.app-main-33:/drawable-hdpi/dune.jpg"
+    },
+    {
+        "merged": "mx.edu.iton.potros.practica6.app-merged_res-31:/drawable-mdpi_heroexencargo.jpg.flat",
+        "source": "mx.edu.iton.potros.practica6.app-main-33:/drawable-mdpi/heroexencargo.jpg"
+    },
+    {
+        "merged": "mx.edu.iton.potros.practica6.app-merged_res-31:/xml_data_extraction_rules.xml.flat",
+        "source": "mx.edu.iton.potros.practica6.app-main-33:/xml/data_extraction_rules.xml"
+    },
+    {
+        "merged": "mx.edu.iton.potros.practica6.app-merged_res-31:/drawable-xhdpi_thewitchers.jpg.flat",
+        "source": "mx.edu.iton.potros.practica6.app-main-33:/drawable-xhdpi/thewitchers.jpg"
+    },
+    {
+        "merged": "mx.edu.iton.potros.practica6.app-merged_res-31:/drawable-ldpi_sololeveling.jpg.flat",
+        "source": "mx.edu.iton.potros.practica6.app-main-33:/drawable-ldpi/sololeveling.jpg"
+    },
+    {
+        "merged": "mx.edu.iton.potros.practica6.app-merged_res-31:/drawable-hdpi_ant.jpeg.flat",
+        "source": "mx.edu.iton.potros.practica6.app-main-33:/drawable-hdpi/ant.jpeg"
+    },
+    {
+        "merged": "mx.edu.iton.potros.practica6.app-merged_res-31:/drawable-xxhdpi_sololevelings.jpg.flat",
+        "source": "mx.edu.iton.potros.practica6.app-main-33:/drawable-xxhdpi/sololevelings.jpg"
+    },
+    {
+        "merged": "mx.edu.iton.potros.practica6.app-merged_res-31:/drawable-hdpi_ghostbusters.jpg.flat",
+        "source": "mx.edu.iton.potros.practica6.app-main-33:/drawable-hdpi/ghostbusters.jpg"
+    },
+    {
+        "merged": "mx.edu.iton.potros.practica6.app-merged_res-31:/drawable-xhdpi_ghostbusters2.jpeg.flat",
+        "source": "mx.edu.iton.potros.practica6.app-main-33:/drawable-xhdpi/ghostbusters2.jpeg"
+    },
+    {
+        "merged": "mx.edu.iton.potros.practica6.app-merged_res-31:/drawable-xhdpi_elmonstruovieja.jpg.flat",
+        "source": "mx.edu.iton.potros.practica6.app-main-33:/drawable-xhdpi/elmonstruovieja.jpg"
+    },
+    {
+        "merged": "mx.edu.iton.potros.practica6.app-merged_res-31:/drawable-ldpi_vidaspasadas1.jpg.flat",
+        "source": "mx.edu.iton.potros.practica6.app-main-33:/drawable-ldpi/vidaspasadas1.jpg"
+    },
+    {
+        "merged": "mx.edu.iton.potros.practica6.app-merged_res-31:/drawable-ldpi_sololevelings.jpg.flat",
+        "source": "mx.edu.iton.potros.practica6.app-main-33:/drawable-ldpi/sololevelings.jpg"
+    },
+    {
+        "merged": "mx.edu.iton.potros.practica6.app-merged_res-31:/mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "mx.edu.iton.potros.practica6.app-main-33:/mipmap-xhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "mx.edu.iton.potros.practica6.app-merged_res-31:/drawable-xxxhdpi_heroexencargo.jpg.flat",
+        "source": "mx.edu.iton.potros.practica6.app-main-33:/drawable-xxxhdpi/heroexencargo.jpg"
+    },
+    {
+        "merged": "mx.edu.iton.potros.practica6.app-merged_res-31:/drawable-xxxhdpi_sololeveling.jpg.flat",
+        "source": "mx.edu.iton.potros.practica6.app-main-33:/drawable-xxxhdpi/sololeveling.jpg"
+    },
+    {
+        "merged": "mx.edu.iton.potros.practica6.app-merged_res-31:/drawable-ldpi_popcorn.png.flat",
+        "source": "mx.edu.iton.potros.practica6.app-main-33:/drawable-ldpi/popcorn.png"
+    },
+    {
+        "merged": "mx.edu.iton.potros.practica6.app-merged_res-31:/drawable-ldpi_dune2.jpg.flat",
+        "source": "mx.edu.iton.potros.practica6.app-main-33:/drawable-ldpi/dune2.jpg"
+    },
+    {
+        "merged": "mx.edu.iton.potros.practica6.app-merged_res-31:/drawable-xxxhdpi_heroeencargo.jpg.flat",
+        "source": "mx.edu.iton.potros.practica6.app-main-33:/drawable-xxxhdpi/heroeencargo.jpg"
+    },
+    {
+        "merged": "mx.edu.iton.potros.practica6.app-merged_res-31:/drawable-ldpi_ghostbusters.jpg.flat",
+        "source": "mx.edu.iton.potros.practica6.app-main-33:/drawable-ldpi/ghostbusters.jpg"
+    },
+    {
+        "merged": "mx.edu.iton.potros.practica6.app-merged_res-31:/drawable-xxxhdpi_popcorn.png.flat",
+        "source": "mx.edu.iton.potros.practica6.app-main-33:/drawable-xxxhdpi/popcorn.png"
+    },
+    {
+        "merged": "mx.edu.iton.potros.practica6.app-merged_res-31:/drawable-mdpi_dune2.jpg.flat",
+        "source": "mx.edu.iton.potros.practica6.app-main-33:/drawable-mdpi/dune2.jpg"
+    },
+    {
+        "merged": "mx.edu.iton.potros.practica6.app-merged_res-31:/drawable-ldpi_vidaspasadas.jpg.flat",
+        "source": "mx.edu.iton.potros.practica6.app-main-33:/drawable-ldpi/vidaspasadas.jpg"
+    },
+    {
+        "merged": "mx.edu.iton.potros.practica6.app-merged_res-31:/drawable-mdpi_adorabledemonio.jpg.flat",
+        "source": "mx.edu.iton.potros.practica6.app-main-33:/drawable-mdpi/adorabledemonio.jpg"
+    },
+    {
+        "merged": "mx.edu.iton.potros.practica6.app-merged_res-31:/drawable-ldpi_heroeencargo.jpg.flat",
+        "source": "mx.edu.iton.potros.practica6.app-main-33:/drawable-ldpi/heroeencargo.jpg"
+    },
+    {
+        "merged": "mx.edu.iton.potros.practica6.app-merged_res-31:/drawable-hdpi_adorabledemonio.jpg.flat",
+        "source": "mx.edu.iton.potros.practica6.app-main-33:/drawable-hdpi/adorabledemonio.jpg"
+    },
+    {
+        "merged": "mx.edu.iton.potros.practica6.app-merged_res-31:/drawable_ic_launcher_foreground.xml.flat",
+        "source": "mx.edu.iton.potros.practica6.app-main-33:/drawable/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "mx.edu.iton.potros.practica6.app-merged_res-31:/drawable-ldpi_elmonstruo.jpg.flat",
+        "source": "mx.edu.iton.potros.practica6.app-main-33:/drawable-ldpi/elmonstruo.jpg"
+    },
+    {
+        "merged": "mx.edu.iton.potros.practica6.app-merged_res-31:/drawable-xhdpi_dune.jpg.flat",
+        "source": "mx.edu.iton.potros.practica6.app-main-33:/drawable-xhdpi/dune.jpg"
+    },
+    {
+        "merged": "mx.edu.iton.potros.practica6.app-merged_res-31:/drawable-mdpi_popcorn.png.flat",
+        "source": "mx.edu.iton.potros.practica6.app-main-33:/drawable-mdpi/popcorn.png"
+    },
+    {
+        "merged": "mx.edu.iton.potros.practica6.app-merged_res-31:/drawable-ldpi_madameweb.jpg.flat",
+        "source": "mx.edu.iton.potros.practica6.app-main-33:/drawable-ldpi/madameweb.jpg"
+    },
+    {
+        "merged": "mx.edu.iton.potros.practica6.app-merged_res-31:/layout_activity_catalago.xml.flat",
+        "source": "mx.edu.iton.potros.practica6.app-main-33:/layout/activity_catalago.xml"
+    },
+    {
+        "merged": "mx.edu.iton.potros.practica6.app-merged_res-31:/layout_detalle_pelicula.xml.flat",
+        "source": "mx.edu.iton.potros.practica6.app-main-33:/layout/detalle_pelicula.xml"
+    },
+    {
+        "merged": "mx.edu.iton.potros.practica6.app-merged_res-31:/drawable-xhdpi_demo.jpg.flat",
+        "source": "mx.edu.iton.potros.practica6.app-main-33:/drawable-xhdpi/demo.jpg"
+    },
+    {
+        "merged": "mx.edu.iton.potros.practica6.app-merged_res-31:/drawable-xhdpi_thewitcher.jpg.flat",
+        "source": "mx.edu.iton.potros.practica6.app-main-33:/drawable-xhdpi/thewitcher.jpg"
+    },
+    {
+        "merged": "mx.edu.iton.potros.practica6.app-merged_res-31:/drawable-xhdpi_ant.jpeg.flat",
+        "source": "mx.edu.iton.potros.practica6.app-main-33:/drawable-xhdpi/ant.jpeg"
+    },
+    {
+        "merged": "mx.edu.iton.potros.practica6.app-merged_res-31:/drawable-xhdpi_vidaspasadas1.jpg.flat",
+        "source": "mx.edu.iton.potros.practica6.app-main-33:/drawable-xhdpi/vidaspasadas1.jpg"
+    },
+    {
+        "merged": "mx.edu.iton.potros.practica6.app-merged_res-31:/drawable-mdpi_halo.jpg.flat",
+        "source": "mx.edu.iton.potros.practica6.app-main-33:/drawable-mdpi/halo.jpg"
+    },
+    {
+        "merged": "mx.edu.iton.potros.practica6.app-merged_res-31:/drawable-xxxhdpi_elmonstruovieja.jpg.flat",
+        "source": "mx.edu.iton.potros.practica6.app-main-33:/drawable-xxxhdpi/elmonstruovieja.jpg"
+    },
+    {
+        "merged": "mx.edu.iton.potros.practica6.app-merged_res-31:/drawable-xxhdpi_dune2.jpg.flat",
+        "source": "mx.edu.iton.potros.practica6.app-main-33:/drawable-xxhdpi/dune2.jpg"
+    },
+    {
+        "merged": "mx.edu.iton.potros.practica6.app-merged_res-31:/drawable-xhdpi_madame.jpg.flat",
+        "source": "mx.edu.iton.potros.practica6.app-main-33:/drawable-xhdpi/madame.jpg"
+    },
+    {
+        "merged": "mx.edu.iton.potros.practica6.app-merged_res-31:/drawable-mdpi_elmonstruovieja.jpg.flat",
+        "source": "mx.edu.iton.potros.practica6.app-main-33:/drawable-mdpi/elmonstruovieja.jpg"
+    },
+    {
+        "merged": "mx.edu.iton.potros.practica6.app-merged_res-31:/drawable-mdpi_vidaspasadas.jpg.flat",
+        "source": "mx.edu.iton.potros.practica6.app-main-33:/drawable-mdpi/vidaspasadas.jpg"
+    },
+    {
+        "merged": "mx.edu.iton.potros.practica6.app-merged_res-31:/drawable-hdpi_vidaspasadas1.jpg.flat",
+        "source": "mx.edu.iton.potros.practica6.app-main-33:/drawable-hdpi/vidaspasadas1.jpg"
+    },
+    {
+        "merged": "mx.edu.iton.potros.practica6.app-merged_res-31:/drawable-xxhdpi_madame.jpg.flat",
+        "source": "mx.edu.iton.potros.practica6.app-main-33:/drawable-xxhdpi/madame.jpg"
+    },
+    {
+        "merged": "mx.edu.iton.potros.practica6.app-merged_res-31:/drawable-xxhdpi_adorabledemonio.jpg.flat",
+        "source": "mx.edu.iton.potros.practica6.app-main-33:/drawable-xxhdpi/adorabledemonio.jpg"
+    },
+    {
+        "merged": "mx.edu.iton.potros.practica6.app-merged_res-31:/drawable-hdpi_halos.jpg.flat",
+        "source": "mx.edu.iton.potros.practica6.app-main-33:/drawable-hdpi/halos.jpg"
+    },
+    {
+        "merged": "mx.edu.iton.potros.practica6.app-merged_res-31:/mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "mx.edu.iton.potros.practica6.app-main-33:/mipmap-xxxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "mx.edu.iton.potros.practica6.app-merged_res-31:/drawable-xxxhdpi_adorabledemonio.jpg.flat",
+        "source": "mx.edu.iton.potros.practica6.app-main-33:/drawable-xxxhdpi/adorabledemonio.jpg"
+    },
+    {
+        "merged": "mx.edu.iton.potros.practica6.app-merged_res-31:/drawable-xhdpi_halos.jpg.flat",
+        "source": "mx.edu.iton.potros.practica6.app-main-33:/drawable-xhdpi/halos.jpg"
+    },
+    {
+        "merged": "mx.edu.iton.potros.practica6.app-merged_res-31:/drawable-xxhdpi_vidaspasadas1.jpg.flat",
+        "source": "mx.edu.iton.potros.practica6.app-main-33:/drawable-xxhdpi/vidaspasadas1.jpg"
+    },
+    {
+        "merged": "mx.edu.iton.potros.practica6.app-merged_res-31:/mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "mx.edu.iton.potros.practica6.app-main-33:/mipmap-xhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "mx.edu.iton.potros.practica6.app-merged_res-31:/drawable-ldpi_adorabledemonio.jpg.flat",
+        "source": "mx.edu.iton.potros.practica6.app-main-33:/drawable-ldpi/adorabledemonio.jpg"
+    },
+    {
+        "merged": "mx.edu.iton.potros.practica6.app-merged_res-31:/drawable-xxxhdpi_ghostbusters2.jpeg.flat",
+        "source": "mx.edu.iton.potros.practica6.app-main-33:/drawable-xxxhdpi/ghostbusters2.jpeg"
+    },
+    {
+        "merged": "mx.edu.iton.potros.practica6.app-merged_res-31:/drawable-ldpi_demo.jpg.flat",
+        "source": "mx.edu.iton.potros.practica6.app-main-33:/drawable-ldpi/demo.jpg"
+    },
+    {
+        "merged": "mx.edu.iton.potros.practica6.app-merged_res-31:/drawable-xxxhdpi_thewitcher.jpg.flat",
+        "source": "mx.edu.iton.potros.practica6.app-main-33:/drawable-xxxhdpi/thewitcher.jpg"
+    },
+    {
+        "merged": "mx.edu.iton.potros.practica6.app-merged_res-31:/drawable-xhdpi_heroeencargo.jpg.flat",
+        "source": "mx.edu.iton.potros.practica6.app-main-33:/drawable-xhdpi/heroeencargo.jpg"
+    },
+    {
+        "merged": "mx.edu.iton.potros.practica6.app-merged_res-31:/drawable-mdpi_madame.jpg.flat",
+        "source": "mx.edu.iton.potros.practica6.app-main-33:/drawable-mdpi/madame.jpg"
+    },
+    {
+        "merged": "mx.edu.iton.potros.practica6.app-merged_res-31:/drawable-hdpi_halo.jpg.flat",
+        "source": "mx.edu.iton.potros.practica6.app-main-33:/drawable-hdpi/halo.jpg"
+    },
+    {
+        "merged": "mx.edu.iton.potros.practica6.app-merged_res-31:/drawable-ldpi_halos.jpg.flat",
+        "source": "mx.edu.iton.potros.practica6.app-main-33:/drawable-ldpi/halos.jpg"
+    },
+    {
+        "merged": "mx.edu.iton.potros.practica6.app-merged_res-31:/drawable-mdpi_adorabledemonios.jpg.flat",
+        "source": "mx.edu.iton.potros.practica6.app-main-33:/drawable-mdpi/adorabledemonios.jpg"
+    },
+    {
+        "merged": "mx.edu.iton.potros.practica6.app-merged_res-31:/drawable-xxxhdpi_vidaspasadas1.jpg.flat",
+        "source": "mx.edu.iton.potros.practica6.app-main-33:/drawable-xxxhdpi/vidaspasadas1.jpg"
+    },
+    {
+        "merged": "mx.edu.iton.potros.practica6.app-merged_res-31:/drawable-mdpi_halos.jpg.flat",
+        "source": "mx.edu.iton.potros.practica6.app-main-33:/drawable-mdpi/halos.jpg"
+    },
+    {
+        "merged": "mx.edu.iton.potros.practica6.app-merged_res-31:/drawable-hdpi_heroeencargo.jpg.flat",
+        "source": "mx.edu.iton.potros.practica6.app-main-33:/drawable-hdpi/heroeencargo.jpg"
+    },
+    {
+        "merged": "mx.edu.iton.potros.practica6.app-merged_res-31:/drawable-xxxhdpi_demon.jpg.flat",
+        "source": "mx.edu.iton.potros.practica6.app-main-33:/drawable-xxxhdpi/demon.jpg"
+    },
+    {
+        "merged": "mx.edu.iton.potros.practica6.app-merged_res-31:/drawable-ldpi_ghostbusters2.jpeg.flat",
+        "source": "mx.edu.iton.potros.practica6.app-main-33:/drawable-ldpi/ghostbusters2.jpeg"
+    },
+    {
+        "merged": "mx.edu.iton.potros.practica6.app-merged_res-31:/drawable-xxhdpi_halo.jpg.flat",
+        "source": "mx.edu.iton.potros.practica6.app-main-33:/drawable-xxhdpi/halo.jpg"
+    },
+    {
+        "merged": "mx.edu.iton.potros.practica6.app-merged_res-31:/drawable-hdpi_avatar.jpeg.flat",
+        "source": "mx.edu.iton.potros.practica6.app-main-33:/drawable-hdpi/avatar.jpeg"
+    },
+    {
+        "merged": "mx.edu.iton.potros.practica6.app-merged_res-31:/drawable-xhdpi_halo.jpg.flat",
+        "source": "mx.edu.iton.potros.practica6.app-main-33:/drawable-xhdpi/halo.jpg"
+    },
+    {
+        "merged": "mx.edu.iton.potros.practica6.app-merged_res-31:/drawable-hdpi_heroexencargo.jpg.flat",
+        "source": "mx.edu.iton.potros.practica6.app-main-33:/drawable-hdpi/heroexencargo.jpg"
+    },
+    {
+        "merged": "mx.edu.iton.potros.practica6.app-merged_res-31:/drawable-xxhdpi_elmonstruovieja.jpg.flat",
+        "source": "mx.edu.iton.potros.practica6.app-main-33:/drawable-xxhdpi/elmonstruovieja.jpg"
+    },
+    {
+        "merged": "mx.edu.iton.potros.practica6.app-merged_res-31:/drawable-mdpi_sololeveling.jpg.flat",
+        "source": "mx.edu.iton.potros.practica6.app-main-33:/drawable-mdpi/sololeveling.jpg"
+    },
+    {
+        "merged": "mx.edu.iton.potros.practica6.app-merged_res-31:/drawable-ldpi_heroexencargo.jpg.flat",
+        "source": "mx.edu.iton.potros.practica6.app-main-33:/drawable-ldpi/heroexencargo.jpg"
+    },
+    {
+        "merged": "mx.edu.iton.potros.practica6.app-merged_res-31:/layout_pelicula.xml.flat",
+        "source": "mx.edu.iton.potros.practica6.app-main-33:/layout/pelicula.xml"
+    },
+    {
+        "merged": "mx.edu.iton.potros.practica6.app-merged_res-31:/drawable-hdpi_elmonstruo.jpg.flat",
+        "source": "mx.edu.iton.potros.practica6.app-main-33:/drawable-hdpi/elmonstruo.jpg"
+    },
+    {
+        "merged": "mx.edu.iton.potros.practica6.app-merged_res-31:/drawable-mdpi_ant.jpeg.flat",
+        "source": "mx.edu.iton.potros.practica6.app-main-33:/drawable-mdpi/ant.jpeg"
+    },
+    {
+        "merged": "mx.edu.iton.potros.practica6.app-merged_res-31:/drawable-hdpi_demon.jpg.flat",
+        "source": "mx.edu.iton.potros.practica6.app-main-33:/drawable-hdpi/demon.jpg"
+    },
+    {
+        "merged": "mx.edu.iton.potros.practica6.app-merged_res-31:/drawable-mdpi_heroeencargo.jpg.flat",
+        "source": "mx.edu.iton.potros.practica6.app-main-33:/drawable-mdpi/heroeencargo.jpg"
+    },
+    {
+        "merged": "mx.edu.iton.potros.practica6.app-merged_res-31:/drawable-mdpi_thewitcher.jpg.flat",
+        "source": "mx.edu.iton.potros.practica6.app-main-33:/drawable-mdpi/thewitcher.jpg"
+    },
+    {
+        "merged": "mx.edu.iton.potros.practica6.app-merged_res-31:/drawable-xxhdpi_demo.jpg.flat",
+        "source": "mx.edu.iton.potros.practica6.app-main-33:/drawable-xxhdpi/demo.jpg"
+    },
+    {
+        "merged": "mx.edu.iton.potros.practica6.app-merged_res-31:/drawable-mdpi_demo.jpg.flat",
+        "source": "mx.edu.iton.potros.practica6.app-main-33:/drawable-mdpi/demo.jpg"
+    },
+    {
+        "merged": "mx.edu.iton.potros.practica6.app-merged_res-31:/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "mx.edu.iton.potros.practica6.app-main-33:/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "mx.edu.iton.potros.practica6.app-merged_res-31:/drawable-xxhdpi_dune.jpg.flat",
+        "source": "mx.edu.iton.potros.practica6.app-main-33:/drawable-xxhdpi/dune.jpg"
+    },
+    {
+        "merged": "mx.edu.iton.potros.practica6.app-merged_res-31:/drawable-xxhdpi_madameweb.jpg.flat",
+        "source": "mx.edu.iton.potros.practica6.app-main-33:/drawable-xxhdpi/madameweb.jpg"
+    },
+    {
+        "merged": "mx.edu.iton.potros.practica6.app-merged_res-31:/mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "mx.edu.iton.potros.practica6.app-main-33:/mipmap-hdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "mx.edu.iton.potros.practica6.app-merged_res-31:/drawable-ldpi_demon.jpg.flat",
+        "source": "mx.edu.iton.potros.practica6.app-main-33:/drawable-ldpi/demon.jpg"
+    },
+    {
+        "merged": "mx.edu.iton.potros.practica6.app-merged_res-31:/mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "mx.edu.iton.potros.practica6.app-main-33:/mipmap-hdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "mx.edu.iton.potros.practica6.app-merged_res-31:/xml_backup_rules.xml.flat",
+        "source": "mx.edu.iton.potros.practica6.app-main-33:/xml/backup_rules.xml"
+    },
+    {
+        "merged": "mx.edu.iton.potros.practica6.app-merged_res-31:/layout_activity_main.xml.flat",
+        "source": "mx.edu.iton.potros.practica6.app-main-33:/layout/activity_main.xml"
+    },
+    {
+        "merged": "mx.edu.iton.potros.practica6.app-merged_res-31:/drawable-hdpi_adorabledemonios.jpg.flat",
+        "source": "mx.edu.iton.potros.practica6.app-main-33:/drawable-hdpi/adorabledemonios.jpg"
+    },
+    {
+        "merged": "mx.edu.iton.potros.practica6.app-merged_res-31:/drawable-xxhdpi_ant.jpeg.flat",
+        "source": "mx.edu.iton.potros.practica6.app-main-33:/drawable-xxhdpi/ant.jpeg"
+    },
+    {
+        "merged": "mx.edu.iton.potros.practica6.app-merged_res-31:/drawable-xxhdpi_thewitcher.jpg.flat",
+        "source": "mx.edu.iton.potros.practica6.app-main-33:/drawable-xxhdpi/thewitcher.jpg"
+    },
+    {
+        "merged": "mx.edu.iton.potros.practica6.app-merged_res-31:/drawable-xxhdpi_sololeveling.jpg.flat",
+        "source": "mx.edu.iton.potros.practica6.app-main-33:/drawable-xxhdpi/sololeveling.jpg"
+    },
+    {
+        "merged": "mx.edu.iton.potros.practica6.app-merged_res-31:/drawable-xxhdpi_vidaspasadas.jpg.flat",
+        "source": "mx.edu.iton.potros.practica6.app-main-33:/drawable-xxhdpi/vidaspasadas.jpg"
+    },
+    {
+        "merged": "mx.edu.iton.potros.practica6.app-merged_res-31:/drawable-xhdpi_elmonstruo.jpg.flat",
+        "source": "mx.edu.iton.potros.practica6.app-main-33:/drawable-xhdpi/elmonstruo.jpg"
+    },
+    {
+        "merged": "mx.edu.iton.potros.practica6.app-merged_res-31:/drawable-mdpi_madameweb.jpg.flat",
+        "source": "mx.edu.iton.potros.practica6.app-main-33:/drawable-mdpi/madameweb.jpg"
+    },
+    {
+        "merged": "mx.edu.iton.potros.practica6.app-merged_res-31:/drawable-hdpi_elmonstruovieja.jpg.flat",
+        "source": "mx.edu.iton.potros.practica6.app-main-33:/drawable-hdpi/elmonstruovieja.jpg"
+    },
+    {
+        "merged": "mx.edu.iton.potros.practica6.app-merged_res-31:/drawable-ldpi_elmonstruovieja.jpg.flat",
+        "source": "mx.edu.iton.potros.practica6.app-main-33:/drawable-ldpi/elmonstruovieja.jpg"
+    },
+    {
+        "merged": "mx.edu.iton.potros.practica6.app-merged_res-31:/drawable-xhdpi_ghostbusters.jpg.flat",
+        "source": "mx.edu.iton.potros.practica6.app-main-33:/drawable-xhdpi/ghostbusters.jpg"
+    },
+    {
+        "merged": "mx.edu.iton.potros.practica6.app-merged_res-31:/drawable-mdpi_ghostbusters2.jpeg.flat",
+        "source": "mx.edu.iton.potros.practica6.app-main-33:/drawable-mdpi/ghostbusters2.jpeg"
+    },
+    {
+        "merged": "mx.edu.iton.potros.practica6.app-merged_res-31:/drawable-mdpi_dune.jpg.flat",
+        "source": "mx.edu.iton.potros.practica6.app-main-33:/drawable-mdpi/dune.jpg"
+    },
+    {
+        "merged": "mx.edu.iton.potros.practica6.app-merged_res-31:/drawable-ldpi_ant.jpeg.flat",
+        "source": "mx.edu.iton.potros.practica6.app-main-33:/drawable-ldpi/ant.jpeg"
+    },
+    {
+        "merged": "mx.edu.iton.potros.practica6.app-merged_res-31:/drawable-xhdpi_madameweb.jpg.flat",
+        "source": "mx.edu.iton.potros.practica6.app-main-33:/drawable-xhdpi/madameweb.jpg"
+    },
+    {
+        "merged": "mx.edu.iton.potros.practica6.app-merged_res-31:/drawable-mdpi_vidaspasadas1.jpg.flat",
+        "source": "mx.edu.iton.potros.practica6.app-main-33:/drawable-mdpi/vidaspasadas1.jpg"
+    },
+    {
+        "merged": "mx.edu.iton.potros.practica6.app-merged_res-31:/drawable-xhdpi_dune2.jpg.flat",
+        "source": "mx.edu.iton.potros.practica6.app-main-33:/drawable-xhdpi/dune2.jpg"
+    },
+    {
+        "merged": "mx.edu.iton.potros.practica6.app-merged_res-31:/drawable-xxxhdpi_thewitchers.jpg.flat",
+        "source": "mx.edu.iton.potros.practica6.app-main-33:/drawable-xxxhdpi/thewitchers.jpg"
+    },
+    {
+        "merged": "mx.edu.iton.potros.practica6.app-merged_res-31:/drawable-xxxhdpi_vidaspasadas.jpg.flat",
+        "source": "mx.edu.iton.potros.practica6.app-main-33:/drawable-xxxhdpi/vidaspasadas.jpg"
+    },
+    {
+        "merged": "mx.edu.iton.potros.practica6.app-merged_res-31:/drawable-hdpi_thewitcher.jpg.flat",
+        "source": "mx.edu.iton.potros.practica6.app-main-33:/drawable-hdpi/thewitcher.jpg"
+    },
+    {
+        "merged": "mx.edu.iton.potros.practica6.app-merged_res-31:/drawable-xxhdpi_heroexencargo.jpg.flat",
+        "source": "mx.edu.iton.potros.practica6.app-main-33:/drawable-xxhdpi/heroexencargo.jpg"
+    },
+    {
+        "merged": "mx.edu.iton.potros.practica6.app-merged_res-31:/drawable-mdpi_sololevelings.jpg.flat",
+        "source": "mx.edu.iton.potros.practica6.app-main-33:/drawable-mdpi/sololevelings.jpg"
+    },
+    {
+        "merged": "mx.edu.iton.potros.practica6.app-merged_res-31:/drawable-xxhdpi_demon.jpg.flat",
+        "source": "mx.edu.iton.potros.practica6.app-main-33:/drawable-xxhdpi/demon.jpg"
+    },
+    {
+        "merged": "mx.edu.iton.potros.practica6.app-merged_res-31:/drawable-hdpi_madameweb.jpg.flat",
+        "source": "mx.edu.iton.potros.practica6.app-main-33:/drawable-hdpi/madameweb.jpg"
+    },
+    {
+        "merged": "mx.edu.iton.potros.practica6.app-merged_res-31:/drawable-hdpi_ghostbusters2.jpeg.flat",
+        "source": "mx.edu.iton.potros.practica6.app-main-33:/drawable-hdpi/ghostbusters2.jpeg"
+    },
+    {
+        "merged": "mx.edu.iton.potros.practica6.app-merged_res-31:/mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "mx.edu.iton.potros.practica6.app-main-33:/mipmap-xxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "mx.edu.iton.potros.practica6.app-merged_res-31:/drawable-mdpi_elmonstruo.jpg.flat",
+        "source": "mx.edu.iton.potros.practica6.app-main-33:/drawable-mdpi/elmonstruo.jpg"
+    },
+    {
+        "merged": "mx.edu.iton.potros.practica6.app-merged_res-31:/drawable-xxhdpi_heroeencargo.jpg.flat",
+        "source": "mx.edu.iton.potros.practica6.app-main-33:/drawable-xxhdpi/heroeencargo.jpg"
+    },
+    {
+        "merged": "mx.edu.iton.potros.practica6.app-merged_res-31:/drawable-mdpi_ghostbusters.jpg.flat",
+        "source": "mx.edu.iton.potros.practica6.app-main-33:/drawable-mdpi/ghostbusters.jpg"
+    },
+    {
+        "merged": "mx.edu.iton.potros.practica6.app-merged_res-31:/mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "mx.edu.iton.potros.practica6.app-main-33:/mipmap-mdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "mx.edu.iton.potros.practica6.app-merged_res-31:/drawable-xhdpi_adorabledemonio.jpg.flat",
+        "source": "mx.edu.iton.potros.practica6.app-main-33:/drawable-xhdpi/adorabledemonio.jpg"
+    },
+    {
+        "merged": "mx.edu.iton.potros.practica6.app-merged_res-31:/drawable-hdpi_popcorn.png.flat",
+        "source": "mx.edu.iton.potros.practica6.app-main-33:/drawable-hdpi/popcorn.png"
+    },
+    {
+        "merged": "mx.edu.iton.potros.practica6.app-merged_res-31:/drawable-mdpi_avatar.jpeg.flat",
+        "source": "mx.edu.iton.potros.practica6.app-main-33:/drawable-mdpi/avatar.jpeg"
+    },
+    {
+        "merged": "mx.edu.iton.potros.practica6.app-merged_res-31:/drawable-ldpi_dune.jpg.flat",
+        "source": "mx.edu.iton.potros.practica6.app-main-33:/drawable-ldpi/dune.jpg"
+    },
+    {
+        "merged": "mx.edu.iton.potros.practica6.app-merged_res-31:/drawable-xxxhdpi_halos.jpg.flat",
+        "source": "mx.edu.iton.potros.practica6.app-main-33:/drawable-xxxhdpi/halos.jpg"
+    },
+    {
+        "merged": "mx.edu.iton.potros.practica6.app-merged_res-31:/drawable-xxhdpi_popcorn.png.flat",
+        "source": "mx.edu.iton.potros.practica6.app-main-33:/drawable-xxhdpi/popcorn.png"
+    },
+    {
+        "merged": "mx.edu.iton.potros.practica6.app-merged_res-31:/drawable-xhdpi_demon.jpg.flat",
+        "source": "mx.edu.iton.potros.practica6.app-main-33:/drawable-xhdpi/demon.jpg"
+    },
+    {
+        "merged": "mx.edu.iton.potros.practica6.app-merged_res-31:/drawable-ldpi_halo.jpg.flat",
+        "source": "mx.edu.iton.potros.practica6.app-main-33:/drawable-ldpi/halo.jpg"
+    },
+    {
+        "merged": "mx.edu.iton.potros.practica6.app-merged_res-31:/drawable-xhdpi_heroexencargo.jpg.flat",
+        "source": "mx.edu.iton.potros.practica6.app-main-33:/drawable-xhdpi/heroexencargo.jpg"
+    },
+    {
+        "merged": "mx.edu.iton.potros.practica6.app-merged_res-31:/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "mx.edu.iton.potros.practica6.app-main-33:/mipmap-anydpi-v26/ic_launcher_round.xml"
+    },
+    {
+        "merged": "mx.edu.iton.potros.practica6.app-merged_res-31:/drawable-xhdpi_popcorn.png.flat",
+        "source": "mx.edu.iton.potros.practica6.app-main-33:/drawable-xhdpi/popcorn.png"
+    },
+    {
+        "merged": "mx.edu.iton.potros.practica6.app-merged_res-31:/drawable-xhdpi_sololevelings.jpg.flat",
+        "source": "mx.edu.iton.potros.practica6.app-main-33:/drawable-xhdpi/sololevelings.jpg"
+    },
+    {
+        "merged": "mx.edu.iton.potros.practica6.app-merged_res-31:/drawable-xxxhdpi_adorabledemonios.jpg.flat",
+        "source": "mx.edu.iton.potros.practica6.app-main-33:/drawable-xxxhdpi/adorabledemonios.jpg"
+    },
+    {
+        "merged": "mx.edu.iton.potros.practica6.app-merged_res-31:/drawable-xxxhdpi_halo.jpg.flat",
+        "source": "mx.edu.iton.potros.practica6.app-main-33:/drawable-xxxhdpi/halo.jpg"
+    },
+    {
+        "merged": "mx.edu.iton.potros.practica6.app-merged_res-31:/drawable-xhdpi_avatar.jpeg.flat",
+        "source": "mx.edu.iton.potros.practica6.app-main-33:/drawable-xhdpi/avatar.jpeg"
+    },
+    {
+        "merged": "mx.edu.iton.potros.practica6.app-merged_res-31:/drawable-xxhdpi_elmonstruo.jpg.flat",
+        "source": "mx.edu.iton.potros.practica6.app-main-33:/drawable-xxhdpi/elmonstruo.jpg"
+    },
+    {
+        "merged": "mx.edu.iton.potros.practica6.app-merged_res-31:/drawable-ldpi_avatar.jpeg.flat",
+        "source": "mx.edu.iton.potros.practica6.app-main-33:/drawable-ldpi/avatar.jpeg"
+    },
+    {
+        "merged": "mx.edu.iton.potros.practica6.app-merged_res-31:/drawable-ldpi_thewitcher.jpg.flat",
+        "source": "mx.edu.iton.potros.practica6.app-main-33:/drawable-ldpi/thewitcher.jpg"
+    },
+    {
+        "merged": "mx.edu.iton.potros.practica6.app-merged_res-31:/drawable-hdpi_sololeveling.jpg.flat",
+        "source": "mx.edu.iton.potros.practica6.app-main-33:/drawable-hdpi/sololeveling.jpg"
+    },
+    {
+        "merged": "mx.edu.iton.potros.practica6.app-merged_res-31:/drawable-xxxhdpi_madame.jpg.flat",
+        "source": "mx.edu.iton.potros.practica6.app-main-33:/drawable-xxxhdpi/madame.jpg"
+    },
+    {
+        "merged": "mx.edu.iton.potros.practica6.app-merged_res-31:/drawable-xxhdpi_ghostbusters2.jpeg.flat",
+        "source": "mx.edu.iton.potros.practica6.app-main-33:/drawable-xxhdpi/ghostbusters2.jpeg"
+    },
+    {
+        "merged": "mx.edu.iton.potros.practica6.app-merged_res-31:/drawable_round_button.xml.flat",
+        "source": "mx.edu.iton.potros.practica6.app-main-33:/drawable/round_button.xml"
+    },
+    {
+        "merged": "mx.edu.iton.potros.practica6.app-merged_res-31:/drawable-hdpi_dune2.jpg.flat",
+        "source": "mx.edu.iton.potros.practica6.app-main-33:/drawable-hdpi/dune2.jpg"
+    },
+    {
+        "merged": "mx.edu.iton.potros.practica6.app-merged_res-31:/drawable-mdpi_demon.jpg.flat",
+        "source": "mx.edu.iton.potros.practica6.app-main-33:/drawable-mdpi/demon.jpg"
+    },
+    {
+        "merged": "mx.edu.iton.potros.practica6.app-merged_res-31:/drawable-xxxhdpi_dune2.jpg.flat",
+        "source": "mx.edu.iton.potros.practica6.app-main-33:/drawable-xxxhdpi/dune2.jpg"
+    },
+    {
+        "merged": "mx.edu.iton.potros.practica6.app-merged_res-31:/drawable-xxxhdpi_demo.jpg.flat",
+        "source": "mx.edu.iton.potros.practica6.app-main-33:/drawable-xxxhdpi/demo.jpg"
+    },
+    {
+        "merged": "mx.edu.iton.potros.practica6.app-merged_res-31:/drawable-xxhdpi_adorabledemonios.jpg.flat",
+        "source": "mx.edu.iton.potros.practica6.app-main-33:/drawable-xxhdpi/adorabledemonios.jpg"
+    },
+    {
+        "merged": "mx.edu.iton.potros.practica6.app-merged_res-31:/drawable-hdpi_sololevelings.jpg.flat",
+        "source": "mx.edu.iton.potros.practica6.app-main-33:/drawable-hdpi/sololevelings.jpg"
+    },
+    {
+        "merged": "mx.edu.iton.potros.practica6.app-merged_res-31:/drawable-hdpi_thewitchers.jpg.flat",
+        "source": "mx.edu.iton.potros.practica6.app-main-33:/drawable-hdpi/thewitchers.jpg"
+    },
+    {
+        "merged": "mx.edu.iton.potros.practica6.app-merged_res-31:/drawable-xxhdpi_ghostbusters.jpg.flat",
+        "source": "mx.edu.iton.potros.practica6.app-main-33:/drawable-xxhdpi/ghostbusters.jpg"
+    },
+    {
+        "merged": "mx.edu.iton.potros.practica6.app-merged_res-31:/mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "mx.edu.iton.potros.practica6.app-main-33:/mipmap-mdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "mx.edu.iton.potros.practica6.app-merged_res-31:/drawable-xxxhdpi_ant.jpeg.flat",
+        "source": "mx.edu.iton.potros.practica6.app-main-33:/drawable-xxxhdpi/ant.jpeg"
+    },
+    {
+        "merged": "mx.edu.iton.potros.practica6.app-merged_res-31:/mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "mx.edu.iton.potros.practica6.app-main-33:/mipmap-xxxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "mx.edu.iton.potros.practica6.app-merged_res-31:/drawable-hdpi_vidaspasadas.jpg.flat",
+        "source": "mx.edu.iton.potros.practica6.app-main-33:/drawable-hdpi/vidaspasadas.jpg"
+    },
+    {
+        "merged": "mx.edu.iton.potros.practica6.app-merged_res-31:/drawable-xxxhdpi_sololevelings.jpg.flat",
+        "source": "mx.edu.iton.potros.practica6.app-main-33:/drawable-xxxhdpi/sololevelings.jpg"
+    },
+    {
+        "merged": "mx.edu.iton.potros.practica6.app-merged_res-31:/drawable-xhdpi_vidaspasadas.jpg.flat",
+        "source": "mx.edu.iton.potros.practica6.app-main-33:/drawable-xhdpi/vidaspasadas.jpg"
+    },
+    {
+        "merged": "mx.edu.iton.potros.practica6.app-merged_res-31:/drawable-xhdpi_sololeveling.jpg.flat",
+        "source": "mx.edu.iton.potros.practica6.app-main-33:/drawable-xhdpi/sololeveling.jpg"
+    },
+    {
+        "merged": "mx.edu.iton.potros.practica6.app-merged_res-31:/drawable_ic_launcher_background.xml.flat",
+        "source": "mx.edu.iton.potros.practica6.app-main-33:/drawable/ic_launcher_background.xml"
+    },
+    {
+        "merged": "mx.edu.iton.potros.practica6.app-merged_res-31:/drawable-xxxhdpi_ghostbusters.jpg.flat",
+        "source": "mx.edu.iton.potros.practica6.app-main-33:/drawable-xxxhdpi/ghostbusters.jpg"
+    },
+    {
+        "merged": "mx.edu.iton.potros.practica6.app-merged_res-31:/drawable-xxxhdpi_avatar.jpeg.flat",
+        "source": "mx.edu.iton.potros.practica6.app-main-33:/drawable-xxxhdpi/avatar.jpeg"
+    },
+    {
+        "merged": "mx.edu.iton.potros.practica6.app-merged_res-31:/drawable-hdpi_madame.jpg.flat",
+        "source": "mx.edu.iton.potros.practica6.app-main-33:/drawable-hdpi/madame.jpg"
+    },
+    {
+        "merged": "mx.edu.iton.potros.practica6.app-merged_res-31:/drawable-ldpi_thewitchers.jpg.flat",
+        "source": "mx.edu.iton.potros.practica6.app-main-33:/drawable-ldpi/thewitchers.jpg"
+    },
+    {
+        "merged": "mx.edu.iton.potros.practica6.app-merged_res-31:/drawable-xxhdpi_halos.jpg.flat",
+        "source": "mx.edu.iton.potros.practica6.app-main-33:/drawable-xxhdpi/halos.jpg"
+    },
+    {
+        "merged": "mx.edu.iton.potros.practica6.app-merged_res-31:/drawable-xxhdpi_avatar.jpeg.flat",
+        "source": "mx.edu.iton.potros.practica6.app-main-33:/drawable-xxhdpi/avatar.jpeg"
+    },
+    {
+        "merged": "mx.edu.iton.potros.practica6.app-merged_res-31:/drawable-xxhdpi_thewitchers.jpg.flat",
+        "source": "mx.edu.iton.potros.practica6.app-main-33:/drawable-xxhdpi/thewitchers.jpg"
+    },
+    {
+        "merged": "mx.edu.iton.potros.practica6.app-merged_res-31:/drawable-xxxhdpi_dune.jpg.flat",
+        "source": "mx.edu.iton.potros.practica6.app-main-33:/drawable-xxxhdpi/dune.jpg"
+    },
+    {
+        "merged": "mx.edu.iton.potros.practica6.app-merged_res-31:/drawable-xhdpi_adorabledemonios.jpg.flat",
+        "source": "mx.edu.iton.potros.practica6.app-main-33:/drawable-xhdpi/adorabledemonios.jpg"
+    },
+    {
+        "merged": "mx.edu.iton.potros.practica6.app-merged_res-31:/drawable-mdpi_thewitchers.jpg.flat",
+        "source": "mx.edu.iton.potros.practica6.app-main-33:/drawable-mdpi/thewitchers.jpg"
+    },
+    {
+        "merged": "mx.edu.iton.potros.practica6.app-merged_res-31:/drawable-xxxhdpi_madameweb.jpg.flat",
+        "source": "mx.edu.iton.potros.practica6.app-main-33:/drawable-xxxhdpi/madameweb.jpg"
+    }
+]
