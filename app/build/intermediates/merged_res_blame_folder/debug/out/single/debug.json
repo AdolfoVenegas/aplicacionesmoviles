@@ -4,160 +4,224 @@
         "source": "C:\\Users\\jesus\\.gradle\\daemon\\8.2\\mx.edu.iton.potros.practica5.app-main-33:\\drawable-xxhdpi\\grupo1.png"
     },
     {
-        "merged": "C:\\Users\\jesus\\.gradle\\daemon\\8.2\\mx.edu.iton.potros.practica5.app-merged_res-31:\\mipmap-xxxhdpi_ic_launcher_round.webp.flat",
-        "source": "C:\\Users\\jesus\\.gradle\\daemon\\8.2\\mx.edu.iton.potros.practica5.app-main-33:\\mipmap-xxxhdpi\\ic_launcher_round.webp"
+        "merged": "mx.edu.iton.potros.practica5.app-merged_res-31:/drawable-ldpi_smallmexican.png.flat",
+        "source": "mx.edu.iton.potros.practica5.app-main-33:/drawable-ldpi/smallmexican.png"
+    },
+    {
+        "merged": "mx.edu.iton.potros.practica5.app-merged_res-31:/drawable-xxxhdpi_sopas.png.flat",
+        "source": "mx.edu.iton.potros.practica5.app-main-33:/drawable-xxxhdpi/sopas.png"
+    },
+    {
+        "merged": "mx.edu.iton.potros.practica5.app-merged_res-31:/drawable-xxxhdpi_combinations.png.flat",
+        "source": "mx.edu.iton.potros.practica5.app-main-33:/drawable-xxxhdpi/combinations.png"
+    },
+    {
+        "merged": "mx.edu.iton.potros.practica5.app-merged_res-31:/drawable-xxxhdpi_huaraches.png.flat",
+        "source": "mx.edu.iton.potros.practica5.app-main-33:/drawable-xxxhdpi/huaraches.png"
+    },
+    {
+        "merged": "mx.edu.iton.potros.practica5.app-merged_res-31:/drawable-xxhdpi_combinations.png.flat",
+        "source": "mx.edu.iton.potros.practica5.app-main-33:/drawable-xxhdpi/combinations.png"
+    },
+    {
+        "merged": "mx.edu.iton.potros.practica5.app-merged_res-31:/drawable-hdpi_cominationburros.png.flat",
+        "source": "mx.edu.iton.potros.practica5.app-main-33:/drawable-hdpi/cominationburros.png"
+    },
+    {
+        "merged": "mx.edu.iton.potros.practica5.app-merged_res-31:/drawable-mdpi_burritos.png.flat",
+        "source": "mx.edu.iton.potros.practica5.app-main-33:/drawable-mdpi/burritos.png"
+    },
+    {
+        "merged": "mx.edu.iton.potros.practica5.app-merged_res-31:/drawable-xxxhdpi_mojarra.png.flat",
+        "source": "mx.edu.iton.potros.practica5.app-main-33:/drawable-xxxhdpi/mojarra.png"
+    },
+    {
+        "merged": "mx.edu.iton.potros.practica5.app-merged_res-31:/drawable-xhdpi_quesadillas.png.flat",
+        "source": "mx.edu.iton.potros.practica5.app-main-33:/drawable-xhdpi/quesadillas.png"
     },
     {
         "merged": "C:\\Users\\jesus\\.gradle\\daemon\\8.2\\mx.edu.iton.potros.practica5.app-merged_res-31:\\mipmap-xxhdpi_ic_launcher_round.webp.flat",
         "source": "C:\\Users\\jesus\\.gradle\\daemon\\8.2\\mx.edu.iton.potros.practica5.app-main-33:\\mipmap-xxhdpi\\ic_launcher_round.webp"
     },
     {
-        "merged": "mx.edu.iton.potros.practica5.app-merged_res-31:/layout_activity_register.xml.flat",
-        "source": "mx.edu.iton.potros.practica5.app-main-33:/layout/activity_register.xml"
+        "merged": "mx.edu.iton.potros.practica5.app-merged_res-31:/drawable-hdpi_combinationtaco.png.flat",
+        "source": "mx.edu.iton.potros.practica5.app-main-33:/drawable-hdpi/combinationtaco.png"
     },
     {
-        "merged": "C:\\Users\\jesus\\.gradle\\daemon\\8.2\\mx.edu.iton.potros.practica5.app-merged_res-31:\\drawable_ic_launcher_background.xml.flat",
-        "source": "C:\\Users\\jesus\\.gradle\\daemon\\8.2\\mx.edu.iton.potros.practica5.app-main-33:\\drawable\\ic_launcher_background.xml"
+        "merged": "mx.edu.iton.potros.practica5.app-merged_res-31:/drawable-mdpi_cubetazo.png.flat",
+        "source": "mx.edu.iton.potros.practica5.app-main-33:/drawable-mdpi/cubetazo.png"
     },
     {
-        "merged": "C:\\Users\\jesus\\.gradle\\daemon\\8.2\\mx.edu.iton.potros.practica5.app-merged_res-31:\\layout_activity_register.xml.flat",
-        "source": "C:\\Users\\jesus\\.gradle\\daemon\\8.2\\mx.edu.iton.potros.practica5.app-main-33:\\layout\\activity_register.xml"
+        "merged": "mx.edu.iton.potros.practica5.app-merged_res-31:/drawable-hdpi_sopamariscos.png.flat",
+        "source": "mx.edu.iton.potros.practica5.app-main-33:/drawable-hdpi/sopamariscos.png"
     },
     {
-        "merged": "C:\\Users\\jesus\\.gradle\\daemon\\8.2\\mx.edu.iton.potros.practica5.app-merged_res-31:\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
-        "source": "C:\\Users\\jesus\\.gradle\\daemon\\8.2\\mx.edu.iton.potros.practica5.app-main-33:\\mipmap-anydpi-v26\\ic_launcher_round.xml"
-    },
-    {
-        "merged": "C:\\Users\\jesus\\.gradle\\daemon\\8.2\\mx.edu.iton.potros.practica5.app-merged_res-31:\\drawable-xhdpi_portales.png.flat",
-        "source": "C:\\Users\\jesus\\.gradle\\daemon\\8.2\\mx.edu.iton.potros.practica5.app-main-33:\\drawable-xhdpi\\portales.png"
-    },
-    {
-        "merged": "C:\\Users\\jesus\\.gradle\\daemon\\8.2\\mx.edu.iton.potros.practica5.app-merged_res-31:\\layout_activity_menu.xml.flat",
-        "source": "C:\\Users\\jesus\\.gradle\\daemon\\8.2\\mx.edu.iton.potros.practica5.app-main-33:\\layout\\activity_menu.xml"
-    },
-    {
-        "merged": "C:\\Users\\jesus\\.gradle\\daemon\\8.2\\mx.edu.iton.potros.practica5.app-merged_res-31:\\drawable_ic_launcher_foreground.xml.flat",
-        "source": "C:\\Users\\jesus\\.gradle\\daemon\\8.2\\mx.edu.iton.potros.practica5.app-main-33:\\drawable\\ic_launcher_foreground.xml"
+        "merged": "mx.edu.iton.potros.practica5.app-merged_res-31:/drawable-xhdpi_michelada.png.flat",
+        "source": "mx.edu.iton.potros.practica5.app-main-33:/drawable-xhdpi/michelada.png"
     },
     {
         "merged": "C:\\Users\\jesus\\.gradle\\daemon\\8.2\\mx.edu.iton.potros.practica5.app-merged_res-31:\\mipmap-xxhdpi_ic_launcher.webp.flat",
         "source": "C:\\Users\\jesus\\.gradle\\daemon\\8.2\\mx.edu.iton.potros.practica5.app-main-33:\\mipmap-xxhdpi\\ic_launcher.webp"
     },
     {
-        "merged": "C:\\Users\\jesus\\.gradle\\daemon\\8.2\\mx.edu.iton.potros.practica5.app-merged_res-31:\\drawable-xxxhdpi_imagen1.png.flat",
-        "source": "C:\\Users\\jesus\\.gradle\\daemon\\8.2\\mx.edu.iton.potros.practica5.app-main-33:\\drawable-xxxhdpi\\imagen1.png"
+        "merged": "mx.edu.iton.potros.practica5.app-merged_res-31:/drawable-ldpi_caldocamaron.png.flat",
+        "source": "mx.edu.iton.potros.practica5.app-main-33:/drawable-ldpi/caldocamaron.png"
     },
     {
-        "merged": "C:\\Users\\jesus\\.gradle\\daemon\\8.2\\mx.edu.iton.potros.practica5.app-merged_res-31:\\drawable-mdpi_taco.png.flat",
-        "source": "C:\\Users\\jesus\\.gradle\\daemon\\8.2\\mx.edu.iton.potros.practica5.app-main-33:\\drawable-mdpi\\taco.png"
+        "merged": "mx.edu.iton.potros.practica5.app-merged_res-31:/drawable-ldpi_caldores.png.flat",
+        "source": "mx.edu.iton.potros.practica5.app-main-33:/drawable-ldpi/caldores.png"
     },
     {
-        "merged": "C:\\Users\\jesus\\.gradle\\daemon\\8.2\\mx.edu.iton.potros.practica5.app-merged_res-31:\\drawable-xxxhdpi_portales.png.flat",
-        "source": "C:\\Users\\jesus\\.gradle\\daemon\\8.2\\mx.edu.iton.potros.practica5.app-main-33:\\drawable-xxxhdpi\\portales.png"
+        "merged": "mx.edu.iton.potros.practica5.app-merged_res-31:/drawable-xxxhdpi_sodas.png.flat",
+        "source": "mx.edu.iton.potros.practica5.app-main-33:/drawable-xxxhdpi/sodas.png"
+    },
+    {
+        "merged": "mx.edu.iton.potros.practica5.app-merged_res-31:/drawable-ldpi_tortacubana.png.flat",
+        "source": "mx.edu.iton.potros.practica5.app-main-33:/drawable-ldpi/tortacubana.png"
+    },
+    {
+        "merged": "mx.edu.iton.potros.practica5.app-merged_res-31:/drawable-xhdpi_combinations.png.flat",
+        "source": "mx.edu.iton.potros.practica5.app-main-33:/drawable-xhdpi/combinations.png"
+    },
+    {
+        "merged": "mx.edu.iton.potros.practica5.app-merged_res-31:/drawable-ldpi_huaraches.png.flat",
+        "source": "mx.edu.iton.potros.practica5.app-main-33:/drawable-ldpi/huaraches.png"
+    },
+    {
+        "merged": "mx.edu.iton.potros.practica5.app-merged_res-31:/drawable-xxxhdpi_tortas.png.flat",
+        "source": "mx.edu.iton.potros.practica5.app-main-33:/drawable-xxxhdpi/tortas.png"
+    },
+    {
+        "merged": "mx.edu.iton.potros.practica5.app-merged_res-31:/drawable-xhdpi_tortas.png.flat",
+        "source": "mx.edu.iton.potros.practica5.app-main-33:/drawable-xhdpi/tortas.png"
     },
     {
         "merged": "C:\\Users\\jesus\\.gradle\\daemon\\8.2\\mx.edu.iton.potros.practica5.app-merged_res-31:\\drawable_round_button.xml.flat",
         "source": "C:\\Users\\jesus\\.gradle\\daemon\\8.2\\mx.edu.iton.potros.practica5.app-main-33:\\drawable\\round_button.xml"
     },
     {
-        "merged": "C:\\Users\\jesus\\.gradle\\daemon\\8.2\\mx.edu.iton.potros.practica5.app-merged_res-31:\\drawable-xxhdpi_portales.png.flat",
-        "source": "C:\\Users\\jesus\\.gradle\\daemon\\8.2\\mx.edu.iton.potros.practica5.app-main-33:\\drawable-xxhdpi\\portales.png"
+        "merged": "mx.edu.iton.potros.practica5.app-merged_res-31:/drawable-mdpi_tortas.png.flat",
+        "source": "mx.edu.iton.potros.practica5.app-main-33:/drawable-mdpi/tortas.png"
     },
     {
-        "merged": "C:\\Users\\jesus\\.gradle\\daemon\\8.2\\mx.edu.iton.potros.practica5.app-merged_res-31:\\drawable-ldpi_grupo1.png.flat",
-        "source": "C:\\Users\\jesus\\.gradle\\daemon\\8.2\\mx.edu.iton.potros.practica5.app-main-33:\\drawable-ldpi\\grupo1.png"
+        "merged": "mx.edu.iton.potros.practica5.app-merged_res-31:/drawable-mdpi_dosamigos.png.flat",
+        "source": "mx.edu.iton.potros.practica5.app-main-33:/drawable-mdpi/dosamigos.png"
     },
     {
-        "merged": "C:\\Users\\jesus\\.gradle\\daemon\\8.2\\mx.edu.iton.potros.practica5.app-merged_res-31:\\drawable-xxxhdpi_grupo2.png.flat",
-        "source": "C:\\Users\\jesus\\.gradle\\daemon\\8.2\\mx.edu.iton.potros.practica5.app-main-33:\\drawable-xxxhdpi\\grupo2.png"
+        "merged": "mx.edu.iton.potros.practica5.app-merged_res-31:/drawable-hdpi_burritosportales.png.flat",
+        "source": "mx.edu.iton.potros.practica5.app-main-33:/drawable-hdpi/burritosportales.png"
     },
     {
-        "merged": "C:\\Users\\jesus\\.gradle\\daemon\\8.2\\mx.edu.iton.potros.practica5.app-merged_res-31:\\mipmap-xxxhdpi_ic_launcher.webp.flat",
-        "source": "C:\\Users\\jesus\\.gradle\\daemon\\8.2\\mx.edu.iton.potros.practica5.app-main-33:\\mipmap-xxxhdpi\\ic_launcher.webp"
+        "merged": "mx.edu.iton.potros.practica5.app-merged_res-31:/drawable-hdpi_coctel.png.flat",
+        "source": "mx.edu.iton.potros.practica5.app-main-33:/drawable-hdpi/coctel.png"
     },
     {
-        "merged": "C:\\Users\\jesus\\.gradle\\daemon\\8.2\\mx.edu.iton.potros.practica5.app-merged_res-31:\\mipmap-hdpi_ic_launcher_round.webp.flat",
-        "source": "C:\\Users\\jesus\\.gradle\\daemon\\8.2\\mx.edu.iton.potros.practica5.app-main-33:\\mipmap-hdpi\\ic_launcher_round.webp"
+        "merged": "mx.edu.iton.potros.practica5.app-merged_res-31:/drawable-hdpi_menudo.png.flat",
+        "source": "mx.edu.iton.potros.practica5.app-main-33:/drawable-hdpi/menudo.png"
     },
     {
         "merged": "C:\\Users\\jesus\\.gradle\\daemon\\8.2\\mx.edu.iton.potros.practica5.app-merged_res-31:\\drawable-xxhdpi_grupo2.png.flat",
         "source": "C:\\Users\\jesus\\.gradle\\daemon\\8.2\\mx.edu.iton.potros.practica5.app-main-33:\\drawable-xxhdpi\\grupo2.png"
     },
     {
-        "merged": "C:\\Users\\jesus\\.gradle\\daemon\\8.2\\mx.edu.iton.potros.practica5.app-merged_res-31:\\drawable-hdpi_imagen1.png.flat",
-        "source": "C:\\Users\\jesus\\.gradle\\daemon\\8.2\\mx.edu.iton.potros.practica5.app-main-33:\\drawable-hdpi\\imagen1.png"
+        "merged": "mx.edu.iton.potros.practica5.app-merged_res-31:/drawable-xhdpi_antojitos.png.flat",
+        "source": "mx.edu.iton.potros.practica5.app-main-33:/drawable-xhdpi/antojitos.png"
     },
     {
-        "merged": "C:\\Users\\jesus\\.gradle\\daemon\\8.2\\mx.edu.iton.potros.practica5.app-merged_res-31:\\drawable-ldpi_taco.png.flat",
-        "source": "C:\\Users\\jesus\\.gradle\\daemon\\8.2\\mx.edu.iton.potros.practica5.app-main-33:\\drawable-ldpi\\taco.png"
+        "merged": "mx.edu.iton.potros.practica5.app-merged_res-31:/drawable-hdpi_smallmexican.png.flat",
+        "source": "mx.edu.iton.potros.practica5.app-main-33:/drawable-hdpi/smallmexican.png"
     },
     {
-        "merged": "C:\\Users\\jesus\\.gradle\\daemon\\8.2\\mx.edu.iton.potros.practica5.app-merged_res-31:\\drawable-mdpi_imagen1.png.flat",
-        "source": "C:\\Users\\jesus\\.gradle\\daemon\\8.2\\mx.edu.iton.potros.practica5.app-main-33:\\drawable-mdpi\\imagen1.png"
-    },
-    {
-        "merged": "C:\\Users\\jesus\\.gradle\\daemon\\8.2\\mx.edu.iton.potros.practica5.app-merged_res-31:\\mipmap-xhdpi_ic_launcher_round.webp.flat",
-        "source": "C:\\Users\\jesus\\.gradle\\daemon\\8.2\\mx.edu.iton.potros.practica5.app-main-33:\\mipmap-xhdpi\\ic_launcher_round.webp"
+        "merged": "mx.edu.iton.potros.practica5.app-merged_res-31:/drawable-xhdpi_dosamigos.png.flat",
+        "source": "mx.edu.iton.potros.practica5.app-main-33:/drawable-xhdpi/dosamigos.png"
     },
     {
         "merged": "C:\\Users\\jesus\\.gradle\\daemon\\8.2\\mx.edu.iton.potros.practica5.app-merged_res-31:\\drawable-xhdpi_grupo2.png.flat",
         "source": "C:\\Users\\jesus\\.gradle\\daemon\\8.2\\mx.edu.iton.potros.practica5.app-main-33:\\drawable-xhdpi\\grupo2.png"
     },
     {
-        "merged": "C:\\Users\\jesus\\.gradle\\daemon\\8.2\\mx.edu.iton.potros.practica5.app-merged_res-31:\\drawable-mdpi_portales.png.flat",
-        "source": "C:\\Users\\jesus\\.gradle\\daemon\\8.2\\mx.edu.iton.potros.practica5.app-main-33:\\drawable-mdpi\\portales.png"
+        "merged": "mx.edu.iton.potros.practica5.app-merged_res-31:/drawable-ldpi_antojitos.png.flat",
+        "source": "mx.edu.iton.potros.practica5.app-main-33:/drawable-ldpi/antojitos.png"
     },
     {
-        "merged": "C:\\Users\\jesus\\.gradle\\daemon\\8.2\\mx.edu.iton.potros.practica5.app-merged_res-31:\\drawable-hdpi_grupo1.png.flat",
-        "source": "C:\\Users\\jesus\\.gradle\\daemon\\8.2\\mx.edu.iton.potros.practica5.app-main-33:\\drawable-hdpi\\grupo1.png"
+        "merged": "mx.edu.iton.potros.practica5.app-merged_res-31:/drawable-xxhdpi_caguamamichelada.png.flat",
+        "source": "mx.edu.iton.potros.practica5.app-main-33:/drawable-xxhdpi/caguamamichelada.png"
     },
     {
-        "merged": "C:\\Users\\jesus\\.gradle\\daemon\\8.2\\mx.edu.iton.potros.practica5.app-merged_res-31:\\mipmap-mdpi_ic_launcher.webp.flat",
-        "source": "C:\\Users\\jesus\\.gradle\\daemon\\8.2\\mx.edu.iton.potros.practica5.app-main-33:\\mipmap-mdpi\\ic_launcher.webp"
+        "merged": "mx.edu.iton.potros.practica5.app-merged_res-31:/drawable-xhdpi_sopas.png.flat",
+        "source": "mx.edu.iton.potros.practica5.app-main-33:/drawable-xhdpi/sopas.png"
+    },
+    {
+        "merged": "mx.edu.iton.potros.practica5.app-merged_res-31:/drawable-xxhdpi_fajitaquesadilla.png.flat",
+        "source": "mx.edu.iton.potros.practica5.app-main-33:/drawable-xxhdpi/fajitaquesadilla.png"
+    },
+    {
+        "merged": "mx.edu.iton.potros.practica5.app-merged_res-31:/drawable-ldpi_menudo.png.flat",
+        "source": "mx.edu.iton.potros.practica5.app-main-33:/drawable-ldpi/menudo.png"
+    },
+    {
+        "merged": "mx.edu.iton.potros.practica5.app-merged_res-31:/drawable-hdpi_dosamigos.png.flat",
+        "source": "mx.edu.iton.potros.practica5.app-main-33:/drawable-hdpi/dosamigos.png"
+    },
+    {
+        "merged": "mx.edu.iton.potros.practica5.app-merged_res-31:/drawable-hdpi_tostadas.png.flat",
+        "source": "mx.edu.iton.potros.practica5.app-main-33:/drawable-hdpi/tostadas.png"
     },
     {
         "merged": "C:\\Users\\jesus\\.gradle\\daemon\\8.2\\mx.edu.iton.potros.practica5.app-merged_res-31:\\drawable-mdpi_grupo1.png.flat",
         "source": "C:\\Users\\jesus\\.gradle\\daemon\\8.2\\mx.edu.iton.potros.practica5.app-main-33:\\drawable-mdpi\\grupo1.png"
     },
     {
-        "merged": "C:\\Users\\jesus\\.gradle\\daemon\\8.2\\mx.edu.iton.potros.practica5.app-merged_res-31:\\drawable-xxxhdpi_grupo1.png.flat",
-        "source": "C:\\Users\\jesus\\.gradle\\daemon\\8.2\\mx.edu.iton.potros.practica5.app-main-33:\\drawable-xxxhdpi\\grupo1.png"
+        "merged": "mx.edu.iton.potros.practica5.app-merged_res-31:/drawable-ldpi_combinationtaco.png.flat",
+        "source": "mx.edu.iton.potros.practica5.app-main-33:/drawable-ldpi/combinationtaco.png"
     },
     {
-        "merged": "C:\\Users\\jesus\\.gradle\\daemon\\8.2\\mx.edu.iton.potros.practica5.app-merged_res-31:\\drawable-ldpi_imagen1.png.flat",
-        "source": "C:\\Users\\jesus\\.gradle\\daemon\\8.2\\mx.edu.iton.potros.practica5.app-main-33:\\drawable-ldpi\\imagen1.png"
+        "merged": "mx.edu.iton.potros.practica5.app-merged_res-31:/drawable-xxhdpi_dosamigos.png.flat",
+        "source": "mx.edu.iton.potros.practica5.app-main-33:/drawable-xxhdpi/dosamigos.png"
     },
     {
         "merged": "C:\\Users\\jesus\\.gradle\\daemon\\8.2\\mx.edu.iton.potros.practica5.app-merged_res-31:\\drawable-xhdpi_taco.png.flat",
         "source": "C:\\Users\\jesus\\.gradle\\daemon\\8.2\\mx.edu.iton.potros.practica5.app-main-33:\\drawable-xhdpi\\taco.png"
     },
     {
-        "merged": "C:\\Users\\jesus\\.gradle\\daemon\\8.2\\mx.edu.iton.potros.practica5.app-merged_res-31:\\drawable-ldpi_portales.png.flat",
-        "source": "C:\\Users\\jesus\\.gradle\\daemon\\8.2\\mx.edu.iton.potros.practica5.app-main-33:\\drawable-ldpi\\portales.png"
+        "merged": "mx.edu.iton.potros.practica5.app-merged_res-31:/drawable-xxxhdpi_antojitos.png.flat",
+        "source": "mx.edu.iton.potros.practica5.app-main-33:/drawable-xxxhdpi/antojitos.png"
     },
     {
-        "merged": "C:\\Users\\jesus\\.gradle\\daemon\\8.2\\mx.edu.iton.potros.practica5.app-merged_res-31:\\mipmap-anydpi-v26_ic_launcher.xml.flat",
-        "source": "C:\\Users\\jesus\\.gradle\\daemon\\8.2\\mx.edu.iton.potros.practica5.app-main-33:\\mipmap-anydpi-v26\\ic_launcher.xml"
+        "merged": "mx.edu.iton.potros.practica5.app-merged_res-31:/drawable-hdpi_caguama.png.flat",
+        "source": "mx.edu.iton.potros.practica5.app-main-33:/drawable-hdpi/caguama.png"
+    },
+    {
+        "merged": "mx.edu.iton.potros.practica5.app-merged_res-31:/drawable-xhdpi_sodas.png.flat",
+        "source": "mx.edu.iton.potros.practica5.app-main-33:/drawable-xhdpi/sodas.png"
+    },
+    {
+        "merged": "mx.edu.iton.potros.practica5.app-merged_res-31:/drawable-xhdpi_mexicanbeer.png.flat",
+        "source": "mx.edu.iton.potros.practica5.app-main-33:/drawable-xhdpi/mexicanbeer.png"
     },
     {
         "merged": "C:\\Users\\jesus\\.gradle\\daemon\\8.2\\mx.edu.iton.potros.practica5.app-merged_res-31:\\layout_activity_main.xml.flat",
         "source": "C:\\Users\\jesus\\.gradle\\daemon\\8.2\\mx.edu.iton.potros.practica5.app-main-33:\\layout\\activity_main.xml"
     },
     {
-        "merged": "C:\\Users\\jesus\\.gradle\\daemon\\8.2\\mx.edu.iton.potros.practica5.app-merged_res-31:\\drawable-hdpi_portales.png.flat",
-        "source": "C:\\Users\\jesus\\.gradle\\daemon\\8.2\\mx.edu.iton.potros.practica5.app-main-33:\\drawable-hdpi\\portales.png"
+        "merged": "mx.edu.iton.potros.practica5.app-merged_res-31:/drawable-xxxhdpi_fajitaquesadilla.png.flat",
+        "source": "mx.edu.iton.potros.practica5.app-main-33:/drawable-xxxhdpi/fajitaquesadilla.png"
     },
     {
-        "merged": "C:\\Users\\jesus\\.gradle\\daemon\\8.2\\mx.edu.iton.potros.practica5.app-merged_res-31:\\drawable-hdpi_taco.png.flat",
-        "source": "C:\\Users\\jesus\\.gradle\\daemon\\8.2\\mx.edu.iton.potros.practica5.app-main-33:\\drawable-hdpi\\taco.png"
+        "merged": "mx.edu.iton.potros.practica5.app-merged_res-31:/drawable-hdpi_michelada.png.flat",
+        "source": "mx.edu.iton.potros.practica5.app-main-33:/drawable-hdpi/michelada.png"
     },
     {
-        "merged": "C:\\Users\\jesus\\.gradle\\daemon\\8.2\\mx.edu.iton.potros.practica5.app-merged_res-31:\\drawable-mdpi_grupo2.png.flat",
-        "source": "C:\\Users\\jesus\\.gradle\\daemon\\8.2\\mx.edu.iton.potros.practica5.app-main-33:\\drawable-mdpi\\grupo2.png"
+        "merged": "mx.edu.iton.potros.practica5.app-merged_res-31:/drawable-xxxhdpi_tortamixta.png.flat",
+        "source": "mx.edu.iton.potros.practica5.app-main-33:/drawable-xxxhdpi/tortamixta.png"
     },
     {
         "merged": "C:\\Users\\jesus\\.gradle\\daemon\\8.2\\mx.edu.iton.potros.practica5.app-merged_res-31:\\drawable-xhdpi_imagen1.png.flat",
         "source": "C:\\Users\\jesus\\.gradle\\daemon\\8.2\\mx.edu.iton.potros.practica5.app-main-33:\\drawable-xhdpi\\imagen1.png"
+    },
+    {
+        "merged": "mx.edu.iton.potros.practica5.app-merged_res-31:/drawable-xxxhdpi_caguama.png.flat",
+        "source": "mx.edu.iton.potros.practica5.app-main-33:/drawable-xxxhdpi/caguama.png"
     },
     {
         "merged": "C:\\Users\\jesus\\.gradle\\daemon\\8.2\\mx.edu.iton.potros.practica5.app-merged_res-31:\\mipmap-hdpi_ic_launcher.webp.flat",
@@ -168,32 +232,40 @@
         "source": "C:\\Users\\jesus\\.gradle\\daemon\\8.2\\mx.edu.iton.potros.practica5.app-main-33:\\mipmap-xhdpi\\ic_launcher.webp"
     },
     {
-        "merged": "C:\\Users\\jesus\\.gradle\\daemon\\8.2\\mx.edu.iton.potros.practica5.app-merged_res-31:\\drawable-xxxhdpi_taco.png.flat",
-        "source": "C:\\Users\\jesus\\.gradle\\daemon\\8.2\\mx.edu.iton.potros.practica5.app-main-33:\\drawable-xxxhdpi\\taco.png"
+        "merged": "mx.edu.iton.potros.practica5.app-merged_res-31:/drawable-xxxhdpi_caguamamichelada.png.flat",
+        "source": "mx.edu.iton.potros.practica5.app-main-33:/drawable-xxxhdpi/caguamamichelada.png"
     },
     {
-        "merged": "C:\\Users\\jesus\\.gradle\\daemon\\8.2\\mx.edu.iton.potros.practica5.app-merged_res-31:\\drawable-ldpi_grupo2.png.flat",
-        "source": "C:\\Users\\jesus\\.gradle\\daemon\\8.2\\mx.edu.iton.potros.practica5.app-main-33:\\drawable-ldpi\\grupo2.png"
+        "merged": "mx.edu.iton.potros.practica5.app-merged_res-31:/drawable-xxhdpi_menudo.png.flat",
+        "source": "mx.edu.iton.potros.practica5.app-main-33:/drawable-xxhdpi/menudo.png"
     },
     {
-        "merged": "C:\\Users\\jesus\\.gradle\\daemon\\8.2\\mx.edu.iton.potros.practica5.app-merged_res-31:\\drawable-xhdpi_grupo1.png.flat",
-        "source": "C:\\Users\\jesus\\.gradle\\daemon\\8.2\\mx.edu.iton.potros.practica5.app-main-33:\\drawable-xhdpi\\grupo1.png"
+        "merged": "mx.edu.iton.potros.practica5.app-merged_res-31:/drawable-hdpi_gringas.png.flat",
+        "source": "mx.edu.iton.potros.practica5.app-main-33:/drawable-hdpi/gringas.png"
     },
     {
-        "merged": "C:\\Users\\jesus\\.gradle\\daemon\\8.2\\mx.edu.iton.potros.practica5.app-merged_res-31:\\drawable-hdpi_grupo2.png.flat",
-        "source": "C:\\Users\\jesus\\.gradle\\daemon\\8.2\\mx.edu.iton.potros.practica5.app-main-33:\\drawable-hdpi\\grupo2.png"
+        "merged": "mx.edu.iton.potros.practica5.app-merged_res-31:/drawable-xhdpi_combinationtaco.png.flat",
+        "source": "mx.edu.iton.potros.practica5.app-main-33:/drawable-xhdpi/combinationtaco.png"
+    },
+    {
+        "merged": "mx.edu.iton.potros.practica5.app-merged_res-31:/drawable-hdpi_mojarra.png.flat",
+        "source": "mx.edu.iton.potros.practica5.app-main-33:/drawable-hdpi/mojarra.png"
     },
     {
         "merged": "C:\\Users\\jesus\\.gradle\\daemon\\8.2\\mx.edu.iton.potros.practica5.app-merged_res-31:\\drawable_second_gradient.xml.flat",
         "source": "C:\\Users\\jesus\\.gradle\\daemon\\8.2\\mx.edu.iton.potros.practica5.app-main-33:\\drawable\\second_gradient.xml"
     },
     {
-        "merged": "C:\\Users\\jesus\\.gradle\\daemon\\8.2\\mx.edu.iton.potros.practica5.app-merged_res-31:\\drawable-xxhdpi_imagen1.png.flat",
-        "source": "C:\\Users\\jesus\\.gradle\\daemon\\8.2\\mx.edu.iton.potros.practica5.app-main-33:\\drawable-xxhdpi\\imagen1.png"
+        "merged": "mx.edu.iton.potros.practica5.app-merged_res-31:/drawable-xxhdpi_michelada.png.flat",
+        "source": "mx.edu.iton.potros.practica5.app-main-33:/drawable-xxhdpi/michelada.png"
     },
     {
-        "merged": "C:\\Users\\jesus\\.gradle\\daemon\\8.2\\mx.edu.iton.potros.practica5.app-merged_res-31:\\drawable-xxhdpi_taco.png.flat",
-        "source": "C:\\Users\\jesus\\.gradle\\daemon\\8.2\\mx.edu.iton.potros.practica5.app-main-33:\\drawable-xxhdpi\\taco.png"
+        "merged": "mx.edu.iton.potros.practica5.app-merged_res-31:/drawable-xxhdpi_caguama.png.flat",
+        "source": "mx.edu.iton.potros.practica5.app-main-33:/drawable-xxhdpi/caguama.png"
+    },
+    {
+        "merged": "mx.edu.iton.potros.practica5.app-merged_res-31:/drawable-xxxhdpi_gringas.png.flat",
+        "source": "mx.edu.iton.potros.practica5.app-main-33:/drawable-xxxhdpi/gringas.png"
     },
     {
         "merged": "C:\\Users\\jesus\\.gradle\\daemon\\8.2\\mx.edu.iton.potros.practica5.app-merged_res-31:\\xml_backup_rules.xml.flat",
@@ -204,11 +276,999 @@
         "source": "C:\\Users\\jesus\\.gradle\\daemon\\8.2\\mx.edu.iton.potros.practica5.app-main-33:\\xml\\data_extraction_rules.xml"
     },
     {
+        "merged": "mx.edu.iton.potros.practica5.app-merged_res-31:/drawable-xxhdpi_mojarra.png.flat",
+        "source": "mx.edu.iton.potros.practica5.app-main-33:/drawable-xxhdpi/mojarra.png"
+    },
+    {
         "merged": "C:\\Users\\jesus\\.gradle\\daemon\\8.2\\mx.edu.iton.potros.practica5.app-merged_res-31:\\drawable_first_gradient.xml.flat",
         "source": "C:\\Users\\jesus\\.gradle\\daemon\\8.2\\mx.edu.iton.potros.practica5.app-main-33:\\drawable\\first_gradient.xml"
     },
     {
+        "merged": "mx.edu.iton.potros.practica5.app-merged_res-31:/drawable-xhdpi_tortamixta.png.flat",
+        "source": "mx.edu.iton.potros.practica5.app-main-33:/drawable-xhdpi/tortamixta.png"
+    },
+    {
+        "merged": "mx.edu.iton.potros.practica5.app-merged_res-31:/drawable-xxxhdpi_drinks.png.flat",
+        "source": "mx.edu.iton.potros.practica5.app-main-33:/drawable-xxxhdpi/drinks.png"
+    },
+    {
+        "merged": "mx.edu.iton.potros.practica5.app-merged_res-31:/drawable-mdpi_cinco.png.flat",
+        "source": "mx.edu.iton.potros.practica5.app-main-33:/drawable-mdpi/cinco.png"
+    },
+    {
+        "merged": "mx.edu.iton.potros.practica5.app-merged_res-31:/drawable-hdpi_torta.png.flat",
+        "source": "mx.edu.iton.potros.practica5.app-main-33:/drawable-hdpi/torta.png"
+    },
+    {
+        "merged": "mx.edu.iton.potros.practica5.app-merged_res-31:/drawable-mdpi_tortamixta.png.flat",
+        "source": "mx.edu.iton.potros.practica5.app-main-33:/drawable-mdpi/tortamixta.png"
+    },
+    {
+        "merged": "mx.edu.iton.potros.practica5.app-merged_res-31:/drawable-hdpi_tortamilanesa.png.flat",
+        "source": "mx.edu.iton.potros.practica5.app-main-33:/drawable-hdpi/tortamilanesa.png"
+    },
+    {
+        "merged": "mx.edu.iton.potros.practica5.app-merged_res-31:/drawable-xxhdpi_gringas.png.flat",
+        "source": "mx.edu.iton.potros.practica5.app-main-33:/drawable-xxhdpi/gringas.png"
+    },
+    {
+        "merged": "mx.edu.iton.potros.practica5.app-merged_res-31:/drawable-ldpi_pozole.png.flat",
+        "source": "mx.edu.iton.potros.practica5.app-main-33:/drawable-ldpi/pozole.png"
+    },
+    {
+        "merged": "mx.edu.iton.potros.practica5.app-merged_res-31:/drawable-ldpi_torta.png.flat",
+        "source": "mx.edu.iton.potros.practica5.app-main-33:/drawable-ldpi/torta.png"
+    },
+    {
+        "merged": "mx.edu.iton.potros.practica5.app-merged_res-31:/drawable-ldpi_fajitaquesadilla.png.flat",
+        "source": "mx.edu.iton.potros.practica5.app-main-33:/drawable-ldpi/fajitaquesadilla.png"
+    },
+    {
+        "merged": "mx.edu.iton.potros.practica5.app-merged_res-31:/drawable-xxhdpi_torta.png.flat",
+        "source": "mx.edu.iton.potros.practica5.app-main-33:/drawable-xxhdpi/torta.png"
+    },
+    {
+        "merged": "mx.edu.iton.potros.practica5.app-merged_res-31:/drawable-ldpi_tostadas.png.flat",
+        "source": "mx.edu.iton.potros.practica5.app-main-33:/drawable-ldpi/tostadas.png"
+    },
+    {
+        "merged": "mx.edu.iton.potros.practica5.app-merged_res-31:/drawable-xxhdpi_sincronizadas.png.flat",
+        "source": "mx.edu.iton.potros.practica5.app-main-33:/drawable-xxhdpi/sincronizadas.png"
+    },
+    {
+        "merged": "mx.edu.iton.potros.practica5.app-merged_res-31:/drawable-xhdpi_sincronizadas.png.flat",
+        "source": "mx.edu.iton.potros.practica5.app-main-33:/drawable-xhdpi/sincronizadas.png"
+    },
+    {
+        "merged": "mx.edu.iton.potros.practica5.app-merged_res-31:/drawable-ldpi_coctel.png.flat",
+        "source": "mx.edu.iton.potros.practica5.app-main-33:/drawable-ldpi/coctel.png"
+    },
+    {
+        "merged": "mx.edu.iton.potros.practica5.app-merged_res-31:/drawable-hdpi_tortamixta.png.flat",
+        "source": "mx.edu.iton.potros.practica5.app-main-33:/drawable-hdpi/tortamixta.png"
+    },
+    {
+        "merged": "mx.edu.iton.potros.practica5.app-merged_res-31:/drawable-ldpi_domesticbeer.png.flat",
+        "source": "mx.edu.iton.potros.practica5.app-main-33:/drawable-ldpi/domesticbeer.png"
+    },
+    {
+        "merged": "mx.edu.iton.potros.practica5.app-merged_res-31:/drawable-xhdpi_ceviche.png.flat",
+        "source": "mx.edu.iton.potros.practica5.app-main-33:/drawable-xhdpi/ceviche.png"
+    },
+    {
+        "merged": "mx.edu.iton.potros.practica5.app-merged_res-31:/drawable-mdpi_smallmexican.png.flat",
+        "source": "mx.edu.iton.potros.practica5.app-main-33:/drawable-mdpi/smallmexican.png"
+    },
+    {
+        "merged": "mx.edu.iton.potros.practica5.app-merged_res-31:/drawable-ldpi_charolazo.png.flat",
+        "source": "mx.edu.iton.potros.practica5.app-main-33:/drawable-ldpi/charolazo.png"
+    },
+    {
+        "merged": "mx.edu.iton.potros.practica5.app-merged_res-31:/drawable-mdpi_tostadas.png.flat",
+        "source": "mx.edu.iton.potros.practica5.app-main-33:/drawable-mdpi/tostadas.png"
+    },
+    {
+        "merged": "mx.edu.iton.potros.practica5.app-merged_res-31:/drawable-hdpi_combinations.png.flat",
+        "source": "mx.edu.iton.potros.practica5.app-main-33:/drawable-hdpi/combinations.png"
+    },
+    {
+        "merged": "mx.edu.iton.potros.practica5.app-merged_res-31:/drawable-mdpi_caguama.png.flat",
+        "source": "mx.edu.iton.potros.practica5.app-main-33:/drawable-mdpi/caguama.png"
+    },
+    {
+        "merged": "mx.edu.iton.potros.practica5.app-merged_res-31:/drawable-xxhdpi_caldores.png.flat",
+        "source": "mx.edu.iton.potros.practica5.app-main-33:/drawable-xxhdpi/caldores.png"
+    },
+    {
+        "merged": "mx.edu.iton.potros.practica5.app-merged_res-31:/drawable-xxhdpi_pozole.png.flat",
+        "source": "mx.edu.iton.potros.practica5.app-main-33:/drawable-xxhdpi/pozole.png"
+    },
+    {
+        "merged": "mx.edu.iton.potros.practica5.app-merged_res-31:/drawable-xhdpi_caldores.png.flat",
+        "source": "mx.edu.iton.potros.practica5.app-main-33:/drawable-xhdpi/caldores.png"
+    },
+    {
+        "merged": "mx.edu.iton.potros.practica5.app-merged_res-31:/drawable-ldpi_cominationburros.png.flat",
+        "source": "mx.edu.iton.potros.practica5.app-main-33:/drawable-ldpi/cominationburros.png"
+    },
+    {
+        "merged": "mx.edu.iton.potros.practica5.app-merged_res-31:/drawable-hdpi_tortas.png.flat",
+        "source": "mx.edu.iton.potros.practica5.app-main-33:/drawable-hdpi/tortas.png"
+    },
+    {
+        "merged": "mx.edu.iton.potros.practica5.app-merged_res-31:/drawable-ldpi_burritopepe.png.flat",
+        "source": "mx.edu.iton.potros.practica5.app-main-33:/drawable-ldpi/burritopepe.png"
+    },
+    {
+        "merged": "mx.edu.iton.potros.practica5.app-merged_res-31:/drawable-xhdpi_menudo.png.flat",
+        "source": "mx.edu.iton.potros.practica5.app-main-33:/drawable-xhdpi/menudo.png"
+    },
+    {
+        "merged": "mx.edu.iton.potros.practica5.app-merged_res-31:/drawable-hdpi_sincronizadas.png.flat",
+        "source": "mx.edu.iton.potros.practica5.app-main-33:/drawable-hdpi/sincronizadas.png"
+    },
+    {
+        "merged": "mx.edu.iton.potros.practica5.app-merged_res-31:/drawable-ldpi_tortamilanesa.png.flat",
+        "source": "mx.edu.iton.potros.practica5.app-main-33:/drawable-ldpi/tortamilanesa.png"
+    },
+    {
+        "merged": "mx.edu.iton.potros.practica5.app-merged_res-31:/drawable-hdpi_jarritos.png.flat",
+        "source": "mx.edu.iton.potros.practica5.app-main-33:/drawable-hdpi/jarritos.png"
+    },
+    {
+        "merged": "C:\\Users\\jesus\\.gradle\\daemon\\8.2\\mx.edu.iton.potros.practica5.app-merged_res-31:\\mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\jesus\\.gradle\\daemon\\8.2\\mx.edu.iton.potros.practica5.app-main-33:\\mipmap-hdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "mx.edu.iton.potros.practica5.app-merged_res-31:/drawable-xxxhdpi_menudo.png.flat",
+        "source": "mx.edu.iton.potros.practica5.app-main-33:/drawable-xxxhdpi/menudo.png"
+    },
+    {
+        "merged": "mx.edu.iton.potros.practica5.app-merged_res-31:/drawable-xhdpi_drinks.png.flat",
+        "source": "mx.edu.iton.potros.practica5.app-main-33:/drawable-xhdpi/drinks.png"
+    },
+    {
+        "merged": "mx.edu.iton.potros.practica5.app-merged_res-31:/drawable-xhdpi_caguamamichelada.png.flat",
+        "source": "mx.edu.iton.potros.practica5.app-main-33:/drawable-xhdpi/caguamamichelada.png"
+    },
+    {
+        "merged": "mx.edu.iton.potros.practica5.app-merged_res-31:/drawable-mdpi_coctel.png.flat",
+        "source": "mx.edu.iton.potros.practica5.app-main-33:/drawable-mdpi/coctel.png"
+    },
+    {
+        "merged": "mx.edu.iton.potros.practica5.app-merged_res-31:/drawable-mdpi_mojarra.png.flat",
+        "source": "mx.edu.iton.potros.practica5.app-main-33:/drawable-mdpi/mojarra.png"
+    },
+    {
+        "merged": "C:\\Users\\jesus\\.gradle\\daemon\\8.2\\mx.edu.iton.potros.practica5.app-merged_res-31:\\drawable-hdpi_imagen1.png.flat",
+        "source": "C:\\Users\\jesus\\.gradle\\daemon\\8.2\\mx.edu.iton.potros.practica5.app-main-33:\\drawable-hdpi\\imagen1.png"
+    },
+    {
+        "merged": "mx.edu.iton.potros.practica5.app-merged_res-31:/drawable-ldpi_especialidades.png.flat",
+        "source": "mx.edu.iton.potros.practica5.app-main-33:/drawable-ldpi/especialidades.png"
+    },
+    {
+        "merged": "mx.edu.iton.potros.practica5.app-merged_res-31:/layout_producto_view.xml.flat",
+        "source": "mx.edu.iton.potros.practica5.app-main-33:/layout/producto_view.xml"
+    },
+    {
+        "merged": "mx.edu.iton.potros.practica5.app-merged_res-31:/drawable-xxxhdpi_tortamilanesa.png.flat",
+        "source": "mx.edu.iton.potros.practica5.app-main-33:/drawable-xxxhdpi/tortamilanesa.png"
+    },
+    {
+        "merged": "mx.edu.iton.potros.practica5.app-merged_res-31:/drawable-mdpi_torta.png.flat",
+        "source": "mx.edu.iton.potros.practica5.app-main-33:/drawable-mdpi/torta.png"
+    },
+    {
+        "merged": "mx.edu.iton.potros.practica5.app-merged_res-31:/drawable-ldpi_dosamigos.png.flat",
+        "source": "mx.edu.iton.potros.practica5.app-main-33:/drawable-ldpi/dosamigos.png"
+    },
+    {
+        "merged": "mx.edu.iton.potros.practica5.app-merged_res-31:/drawable-hdpi_cubetazo.png.flat",
+        "source": "mx.edu.iton.potros.practica5.app-main-33:/drawable-hdpi/cubetazo.png"
+    },
+    {
+        "merged": "mx.edu.iton.potros.practica5.app-merged_res-31:/drawable-xxhdpi_cinco.png.flat",
+        "source": "mx.edu.iton.potros.practica5.app-main-33:/drawable-xxhdpi/cinco.png"
+    },
+    {
+        "merged": "mx.edu.iton.potros.practica5.app-merged_res-31:/drawable-hdpi_domesticbeer.png.flat",
+        "source": "mx.edu.iton.potros.practica5.app-main-33:/drawable-hdpi/domesticbeer.png"
+    },
+    {
+        "merged": "mx.edu.iton.potros.practica5.app-merged_res-31:/drawable-mdpi_caldores.png.flat",
+        "source": "mx.edu.iton.potros.practica5.app-main-33:/drawable-mdpi/caldores.png"
+    },
+    {
+        "merged": "mx.edu.iton.potros.practica5.app-merged_res-31:/drawable-hdpi_cinco.png.flat",
+        "source": "mx.edu.iton.potros.practica5.app-main-33:/drawable-hdpi/cinco.png"
+    },
+    {
+        "merged": "C:\\Users\\jesus\\.gradle\\daemon\\8.2\\mx.edu.iton.potros.practica5.app-merged_res-31:\\mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\jesus\\.gradle\\daemon\\8.2\\mx.edu.iton.potros.practica5.app-main-33:\\mipmap-mdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "mx.edu.iton.potros.practica5.app-merged_res-31:/drawable-ldpi_cinco.png.flat",
+        "source": "mx.edu.iton.potros.practica5.app-main-33:/drawable-ldpi/cinco.png"
+    },
+    {
+        "merged": "mx.edu.iton.potros.practica5.app-merged_res-31:/drawable-xxxhdpi_caldores.png.flat",
+        "source": "mx.edu.iton.potros.practica5.app-main-33:/drawable-xxxhdpi/caldores.png"
+    },
+    {
+        "merged": "mx.edu.iton.potros.practica5.app-merged_res-31:/drawable-xxxhdpi_sopes.png.flat",
+        "source": "mx.edu.iton.potros.practica5.app-main-33:/drawable-xxxhdpi/sopes.png"
+    },
+    {
+        "merged": "mx.edu.iton.potros.practica5.app-merged_res-31:/layout_activity_productos.xml.flat",
+        "source": "mx.edu.iton.potros.practica5.app-main-33:/layout/activity_productos.xml"
+    },
+    {
+        "merged": "mx.edu.iton.potros.practica5.app-merged_res-31:/drawable-ldpi_combinations.png.flat",
+        "source": "mx.edu.iton.potros.practica5.app-main-33:/drawable-ldpi/combinations.png"
+    },
+    {
+        "merged": "mx.edu.iton.potros.practica5.app-merged_res-31:/drawable-mdpi_pozole.png.flat",
+        "source": "mx.edu.iton.potros.practica5.app-main-33:/drawable-mdpi/pozole.png"
+    },
+    {
+        "merged": "mx.edu.iton.potros.practica5.app-merged_res-31:/drawable-ldpi_michelada.png.flat",
+        "source": "mx.edu.iton.potros.practica5.app-main-33:/drawable-ldpi/michelada.png"
+    },
+    {
+        "merged": "mx.edu.iton.potros.practica5.app-merged_res-31:/drawable-mdpi_sopamariscos.png.flat",
+        "source": "mx.edu.iton.potros.practica5.app-main-33:/drawable-mdpi/sopamariscos.png"
+    },
+    {
+        "merged": "mx.edu.iton.potros.practica5.app-merged_res-31:/drawable-ldpi_ceviche.png.flat",
+        "source": "mx.edu.iton.potros.practica5.app-main-33:/drawable-ldpi/ceviche.png"
+    },
+    {
+        "merged": "mx.edu.iton.potros.practica5.app-merged_res-31:/drawable-xxxhdpi_combinationtaco.png.flat",
+        "source": "mx.edu.iton.potros.practica5.app-main-33:/drawable-xxxhdpi/combinationtaco.png"
+    },
+    {
+        "merged": "mx.edu.iton.potros.practica5.app-merged_res-31:/drawable-mdpi_caguamamichelada.png.flat",
+        "source": "mx.edu.iton.potros.practica5.app-main-33:/drawable-mdpi/caguamamichelada.png"
+    },
+    {
+        "merged": "mx.edu.iton.potros.practica5.app-merged_res-31:/drawable-xhdpi_botanacamarones.png.flat",
+        "source": "mx.edu.iton.potros.practica5.app-main-33:/drawable-xhdpi/botanacamarones.png"
+    },
+    {
+        "merged": "mx.edu.iton.potros.practica5.app-merged_res-31:/drawable-xxhdpi_tortas.png.flat",
+        "source": "mx.edu.iton.potros.practica5.app-main-33:/drawable-xxhdpi/tortas.png"
+    },
+    {
+        "merged": "mx.edu.iton.potros.practica5.app-merged_res-31:/drawable-xxhdpi_tortamixta.png.flat",
+        "source": "mx.edu.iton.potros.practica5.app-main-33:/drawable-xxhdpi/tortamixta.png"
+    },
+    {
+        "merged": "mx.edu.iton.potros.practica5.app-merged_res-31:/drawable-ldpi_sopamariscos.png.flat",
+        "source": "mx.edu.iton.potros.practica5.app-main-33:/drawable-ldpi/sopamariscos.png"
+    },
+    {
+        "merged": "mx.edu.iton.potros.practica5.app-merged_res-31:/drawable-ldpi_burritosportales.png.flat",
+        "source": "mx.edu.iton.potros.practica5.app-main-33:/drawable-ldpi/burritosportales.png"
+    },
+    {
+        "merged": "mx.edu.iton.potros.practica5.app-merged_res-31:/drawable-xxhdpi_coctel.png.flat",
+        "source": "mx.edu.iton.potros.practica5.app-main-33:/drawable-xxhdpi/coctel.png"
+    },
+    {
+        "merged": "mx.edu.iton.potros.practica5.app-merged_res-31:/drawable-mdpi_mexicanbeer.png.flat",
+        "source": "mx.edu.iton.potros.practica5.app-main-33:/drawable-mdpi/mexicanbeer.png"
+    },
+    {
+        "merged": "mx.edu.iton.potros.practica5.app-merged_res-31:/drawable-xxhdpi_combinationtaco.png.flat",
+        "source": "mx.edu.iton.potros.practica5.app-main-33:/drawable-xxhdpi/combinationtaco.png"
+    },
+    {
+        "merged": "mx.edu.iton.potros.practica5.app-merged_res-31:/drawable-mdpi_combinations.png.flat",
+        "source": "mx.edu.iton.potros.practica5.app-main-33:/drawable-mdpi/combinations.png"
+    },
+    {
+        "merged": "mx.edu.iton.potros.practica5.app-merged_res-31:/drawable-ldpi_cubetasix.png.flat",
+        "source": "mx.edu.iton.potros.practica5.app-main-33:/drawable-ldpi/cubetasix.png"
+    },
+    {
+        "merged": "mx.edu.iton.potros.practica5.app-merged_res-31:/drawable-hdpi_especialidades.png.flat",
+        "source": "mx.edu.iton.potros.practica5.app-main-33:/drawable-hdpi/especialidades.png"
+    },
+    {
+        "merged": "mx.edu.iton.potros.practica5.app-merged_res-31:/drawable-ldpi_cubetazo.png.flat",
+        "source": "mx.edu.iton.potros.practica5.app-main-33:/drawable-ldpi/cubetazo.png"
+    },
+    {
+        "merged": "mx.edu.iton.potros.practica5.app-merged_res-31:/drawable-xhdpi_sopes.png.flat",
+        "source": "mx.edu.iton.potros.practica5.app-main-33:/drawable-xhdpi/sopes.png"
+    },
+    {
+        "merged": "mx.edu.iton.potros.practica5.app-merged_res-31:/drawable-ldpi_burritos.png.flat",
+        "source": "mx.edu.iton.potros.practica5.app-main-33:/drawable-ldpi/burritos.png"
+    },
+    {
+        "merged": "mx.edu.iton.potros.practica5.app-merged_res-31:/drawable-xhdpi_torta.png.flat",
+        "source": "mx.edu.iton.potros.practica5.app-main-33:/drawable-xhdpi/torta.png"
+    },
+    {
+        "merged": "mx.edu.iton.potros.practica5.app-merged_res-31:/drawable-xhdpi_especialidades.png.flat",
+        "source": "mx.edu.iton.potros.practica5.app-main-33:/drawable-xhdpi/especialidades.png"
+    },
+    {
+        "merged": "mx.edu.iton.potros.practica5.app-merged_res-31:/drawable-mdpi_domesticbeer.png.flat",
+        "source": "mx.edu.iton.potros.practica5.app-main-33:/drawable-mdpi/domesticbeer.png"
+    },
+    {
+        "merged": "mx.edu.iton.potros.practica5.app-merged_res-31:/drawable-xxhdpi_charolazo.png.flat",
+        "source": "mx.edu.iton.potros.practica5.app-main-33:/drawable-xxhdpi/charolazo.png"
+    },
+    {
+        "merged": "C:\\Users\\jesus\\.gradle\\daemon\\8.2\\mx.edu.iton.potros.practica5.app-merged_res-31:\\mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\jesus\\.gradle\\daemon\\8.2\\mx.edu.iton.potros.practica5.app-main-33:\\mipmap-xxxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "mx.edu.iton.potros.practica5.app-merged_res-31:/drawable-xxxhdpi_cinco.png.flat",
+        "source": "mx.edu.iton.potros.practica5.app-main-33:/drawable-xxxhdpi/cinco.png"
+    },
+    {
+        "merged": "mx.edu.iton.potros.practica5.app-merged_res-31:/drawable-xxxhdpi_botanacamarones.png.flat",
+        "source": "mx.edu.iton.potros.practica5.app-main-33:/drawable-xxxhdpi/botanacamarones.png"
+    },
+    {
+        "merged": "mx.edu.iton.potros.practica5.app-merged_res-31:/drawable-xxxhdpi_cubetasix.png.flat",
+        "source": "mx.edu.iton.potros.practica5.app-main-33:/drawable-xxxhdpi/cubetasix.png"
+    },
+    {
+        "merged": "mx.edu.iton.potros.practica5.app-merged_res-31:/drawable-mdpi_gringas.png.flat",
+        "source": "mx.edu.iton.potros.practica5.app-main-33:/drawable-mdpi/gringas.png"
+    },
+    {
+        "merged": "mx.edu.iton.potros.practica5.app-merged_res-31:/drawable-xxhdpi_smallmexican.png.flat",
+        "source": "mx.edu.iton.potros.practica5.app-main-33:/drawable-xxhdpi/smallmexican.png"
+    },
+    {
+        "merged": "C:\\Users\\jesus\\.gradle\\daemon\\8.2\\mx.edu.iton.potros.practica5.app-merged_res-31:\\drawable-xhdpi_portales.png.flat",
+        "source": "C:\\Users\\jesus\\.gradle\\daemon\\8.2\\mx.edu.iton.potros.practica5.app-main-33:\\drawable-xhdpi\\portales.png"
+    },
+    {
+        "merged": "mx.edu.iton.potros.practica5.app-merged_res-31:/drawable-hdpi_charolazo.png.flat",
+        "source": "mx.edu.iton.potros.practica5.app-main-33:/drawable-hdpi/charolazo.png"
+    },
+    {
+        "merged": "C:\\Users\\jesus\\.gradle\\daemon\\8.2\\mx.edu.iton.potros.practica5.app-merged_res-31:\\layout_activity_menu.xml.flat",
+        "source": "C:\\Users\\jesus\\.gradle\\daemon\\8.2\\mx.edu.iton.potros.practica5.app-main-33:\\layout\\activity_menu.xml"
+    },
+    {
+        "merged": "C:\\Users\\jesus\\.gradle\\daemon\\8.2\\mx.edu.iton.potros.practica5.app-merged_res-31:\\drawable_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\jesus\\.gradle\\daemon\\8.2\\mx.edu.iton.potros.practica5.app-main-33:\\drawable\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "mx.edu.iton.potros.practica5.app-merged_res-31:/drawable-xxxhdpi_smallmexican.png.flat",
+        "source": "mx.edu.iton.potros.practica5.app-main-33:/drawable-xxxhdpi/smallmexican.png"
+    },
+    {
+        "merged": "mx.edu.iton.potros.practica5.app-merged_res-31:/drawable-xxxhdpi_tortacubana.png.flat",
+        "source": "mx.edu.iton.potros.practica5.app-main-33:/drawable-xxxhdpi/tortacubana.png"
+    },
+    {
+        "merged": "mx.edu.iton.potros.practica5.app-merged_res-31:/drawable-mdpi_especialidades.png.flat",
+        "source": "mx.edu.iton.potros.practica5.app-main-33:/drawable-mdpi/especialidades.png"
+    },
+    {
+        "merged": "mx.edu.iton.potros.practica5.app-merged_res-31:/drawable-xxhdpi_tostadas.png.flat",
+        "source": "mx.edu.iton.potros.practica5.app-main-33:/drawable-xxhdpi/tostadas.png"
+    },
+    {
+        "merged": "mx.edu.iton.potros.practica5.app-merged_res-31:/drawable-mdpi_burritosportales.png.flat",
+        "source": "mx.edu.iton.potros.practica5.app-main-33:/drawable-mdpi/burritosportales.png"
+    },
+    {
+        "merged": "mx.edu.iton.potros.practica5.app-merged_res-31:/drawable-hdpi_caguamamichelada.png.flat",
+        "source": "mx.edu.iton.potros.practica5.app-main-33:/drawable-hdpi/caguamamichelada.png"
+    },
+    {
+        "merged": "mx.edu.iton.potros.practica5.app-merged_res-31:/drawable-hdpi_fajitaquesadilla.png.flat",
+        "source": "mx.edu.iton.potros.practica5.app-main-33:/drawable-hdpi/fajitaquesadilla.png"
+    },
+    {
+        "merged": "C:\\Users\\jesus\\.gradle\\daemon\\8.2\\mx.edu.iton.potros.practica5.app-merged_res-31:\\drawable-mdpi_taco.png.flat",
+        "source": "C:\\Users\\jesus\\.gradle\\daemon\\8.2\\mx.edu.iton.potros.practica5.app-main-33:\\drawable-mdpi\\taco.png"
+    },
+    {
+        "merged": "mx.edu.iton.potros.practica5.app-merged_res-31:/drawable-xxxhdpi_especialidades.png.flat",
+        "source": "mx.edu.iton.potros.practica5.app-main-33:/drawable-xxxhdpi/especialidades.png"
+    },
+    {
+        "merged": "mx.edu.iton.potros.practica5.app-merged_res-31:/drawable-xhdpi_tostadas.png.flat",
+        "source": "mx.edu.iton.potros.practica5.app-main-33:/drawable-xhdpi/tostadas.png"
+    },
+    {
+        "merged": "mx.edu.iton.potros.practica5.app-merged_res-31:/drawable-mdpi_tortacubana.png.flat",
+        "source": "mx.edu.iton.potros.practica5.app-main-33:/drawable-mdpi/tortacubana.png"
+    },
+    {
+        "merged": "C:\\Users\\jesus\\.gradle\\daemon\\8.2\\mx.edu.iton.potros.practica5.app-merged_res-31:\\drawable-ldpi_grupo1.png.flat",
+        "source": "C:\\Users\\jesus\\.gradle\\daemon\\8.2\\mx.edu.iton.potros.practica5.app-main-33:\\drawable-ldpi\\grupo1.png"
+    },
+    {
+        "merged": "C:\\Users\\jesus\\.gradle\\daemon\\8.2\\mx.edu.iton.potros.practica5.app-merged_res-31:\\drawable-xxxhdpi_grupo2.png.flat",
+        "source": "C:\\Users\\jesus\\.gradle\\daemon\\8.2\\mx.edu.iton.potros.practica5.app-main-33:\\drawable-xxxhdpi\\grupo2.png"
+    },
+    {
+        "merged": "mx.edu.iton.potros.practica5.app-merged_res-31:/drawable-ldpi_tortas.png.flat",
+        "source": "mx.edu.iton.potros.practica5.app-main-33:/drawable-ldpi/tortas.png"
+    },
+    {
+        "merged": "mx.edu.iton.potros.practica5.app-merged_res-31:/drawable-mdpi_burritopepe.png.flat",
+        "source": "mx.edu.iton.potros.practica5.app-main-33:/drawable-mdpi/burritopepe.png"
+    },
+    {
+        "merged": "mx.edu.iton.potros.practica5.app-merged_res-31:/drawable-xxxhdpi_burritopepe.png.flat",
+        "source": "mx.edu.iton.potros.practica5.app-main-33:/drawable-xxxhdpi/burritopepe.png"
+    },
+    {
+        "merged": "mx.edu.iton.potros.practica5.app-merged_res-31:/drawable-mdpi_quesadillas.png.flat",
+        "source": "mx.edu.iton.potros.practica5.app-main-33:/drawable-mdpi/quesadillas.png"
+    },
+    {
+        "merged": "mx.edu.iton.potros.practica5.app-merged_res-31:/drawable-xxxhdpi_tostadas.png.flat",
+        "source": "mx.edu.iton.potros.practica5.app-main-33:/drawable-xxxhdpi/tostadas.png"
+    },
+    {
+        "merged": "mx.edu.iton.potros.practica5.app-merged_res-31:/drawable-xxhdpi_tortacubana.png.flat",
+        "source": "mx.edu.iton.potros.practica5.app-main-33:/drawable-xxhdpi/tortacubana.png"
+    },
+    {
+        "merged": "mx.edu.iton.potros.practica5.app-merged_res-31:/drawable-hdpi_drinks.png.flat",
+        "source": "mx.edu.iton.potros.practica5.app-main-33:/drawable-hdpi/drinks.png"
+    },
+    {
+        "merged": "mx.edu.iton.potros.practica5.app-merged_res-31:/drawable-xhdpi_smallmexican.png.flat",
+        "source": "mx.edu.iton.potros.practica5.app-main-33:/drawable-xhdpi/smallmexican.png"
+    },
+    {
+        "merged": "C:\\Users\\jesus\\.gradle\\daemon\\8.2\\mx.edu.iton.potros.practica5.app-merged_res-31:\\drawable-ldpi_taco.png.flat",
+        "source": "C:\\Users\\jesus\\.gradle\\daemon\\8.2\\mx.edu.iton.potros.practica5.app-main-33:\\drawable-ldpi\\taco.png"
+    },
+    {
+        "merged": "C:\\Users\\jesus\\.gradle\\daemon\\8.2\\mx.edu.iton.potros.practica5.app-merged_res-31:\\drawable-mdpi_imagen1.png.flat",
+        "source": "C:\\Users\\jesus\\.gradle\\daemon\\8.2\\mx.edu.iton.potros.practica5.app-main-33:\\drawable-mdpi\\imagen1.png"
+    },
+    {
+        "merged": "mx.edu.iton.potros.practica5.app-merged_res-31:/drawable-xhdpi_caldocamaron.png.flat",
+        "source": "mx.edu.iton.potros.practica5.app-main-33:/drawable-xhdpi/caldocamaron.png"
+    },
+    {
+        "merged": "mx.edu.iton.potros.practica5.app-merged_res-31:/drawable-mdpi_tortamilanesa.png.flat",
+        "source": "mx.edu.iton.potros.practica5.app-main-33:/drawable-mdpi/tortamilanesa.png"
+    },
+    {
+        "merged": "mx.edu.iton.potros.practica5.app-merged_res-31:/drawable-xhdpi_cubetasix.png.flat",
+        "source": "mx.edu.iton.potros.practica5.app-main-33:/drawable-xhdpi/cubetasix.png"
+    },
+    {
+        "merged": "mx.edu.iton.potros.practica5.app-merged_res-31:/drawable-xxhdpi_burritosportales.png.flat",
+        "source": "mx.edu.iton.potros.practica5.app-main-33:/drawable-xxhdpi/burritosportales.png"
+    },
+    {
+        "merged": "mx.edu.iton.potros.practica5.app-merged_res-31:/drawable-xxxhdpi_ceviche.png.flat",
+        "source": "mx.edu.iton.potros.practica5.app-main-33:/drawable-xxxhdpi/ceviche.png"
+    },
+    {
+        "merged": "mx.edu.iton.potros.practica5.app-merged_res-31:/drawable-hdpi_botanacamarones.png.flat",
+        "source": "mx.edu.iton.potros.practica5.app-main-33:/drawable-hdpi/botanacamarones.png"
+    },
+    {
+        "merged": "mx.edu.iton.potros.practica5.app-merged_res-31:/drawable-hdpi_burritos.png.flat",
+        "source": "mx.edu.iton.potros.practica5.app-main-33:/drawable-hdpi/burritos.png"
+    },
+    {
+        "merged": "mx.edu.iton.potros.practica5.app-merged_res-31:/drawable-xxxhdpi_torta.png.flat",
+        "source": "mx.edu.iton.potros.practica5.app-main-33:/drawable-xxxhdpi/torta.png"
+    },
+    {
+        "merged": "C:\\Users\\jesus\\.gradle\\daemon\\8.2\\mx.edu.iton.potros.practica5.app-merged_res-31:\\drawable-mdpi_portales.png.flat",
+        "source": "C:\\Users\\jesus\\.gradle\\daemon\\8.2\\mx.edu.iton.potros.practica5.app-main-33:\\drawable-mdpi\\portales.png"
+    },
+    {
+        "merged": "mx.edu.iton.potros.practica5.app-merged_res-31:/drawable-xhdpi_cinco.png.flat",
+        "source": "mx.edu.iton.potros.practica5.app-main-33:/drawable-xhdpi/cinco.png"
+    },
+    {
+        "merged": "mx.edu.iton.potros.practica5.app-merged_res-31:/drawable-mdpi_sopes.png.flat",
+        "source": "mx.edu.iton.potros.practica5.app-main-33:/drawable-mdpi/sopes.png"
+    },
+    {
+        "merged": "mx.edu.iton.potros.practica5.app-merged_res-31:/drawable-xxhdpi_burritopepe.png.flat",
+        "source": "mx.edu.iton.potros.practica5.app-main-33:/drawable-xxhdpi/burritopepe.png"
+    },
+    {
+        "merged": "mx.edu.iton.potros.practica5.app-merged_res-31:/drawable-mdpi_combinationtaco.png.flat",
+        "source": "mx.edu.iton.potros.practica5.app-main-33:/drawable-mdpi/combinationtaco.png"
+    },
+    {
+        "merged": "mx.edu.iton.potros.practica5.app-merged_res-31:/drawable-xxxhdpi_cominationburros.png.flat",
+        "source": "mx.edu.iton.potros.practica5.app-main-33:/drawable-xxxhdpi/cominationburros.png"
+    },
+    {
+        "merged": "mx.edu.iton.potros.practica5.app-merged_res-31:/drawable-ldpi_tortamixta.png.flat",
+        "source": "mx.edu.iton.potros.practica5.app-main-33:/drawable-ldpi/tortamixta.png"
+    },
+    {
+        "merged": "C:\\Users\\jesus\\.gradle\\daemon\\8.2\\mx.edu.iton.potros.practica5.app-merged_res-31:\\drawable-xxxhdpi_grupo1.png.flat",
+        "source": "C:\\Users\\jesus\\.gradle\\daemon\\8.2\\mx.edu.iton.potros.practica5.app-main-33:\\drawable-xxxhdpi\\grupo1.png"
+    },
+    {
+        "merged": "mx.edu.iton.potros.practica5.app-merged_res-31:/drawable-xxhdpi_ceviche.png.flat",
+        "source": "mx.edu.iton.potros.practica5.app-main-33:/drawable-xxhdpi/ceviche.png"
+    },
+    {
+        "merged": "mx.edu.iton.potros.practica5.app-merged_res-31:/drawable-hdpi_ceviche.png.flat",
+        "source": "mx.edu.iton.potros.practica5.app-main-33:/drawable-hdpi/ceviche.png"
+    },
+    {
+        "merged": "C:\\Users\\jesus\\.gradle\\daemon\\8.2\\mx.edu.iton.potros.practica5.app-merged_res-31:\\drawable-ldpi_imagen1.png.flat",
+        "source": "C:\\Users\\jesus\\.gradle\\daemon\\8.2\\mx.edu.iton.potros.practica5.app-main-33:\\drawable-ldpi\\imagen1.png"
+    },
+    {
+        "merged": "mx.edu.iton.potros.practica5.app-merged_res-31:/drawable-xxhdpi_caldocamaron.png.flat",
+        "source": "mx.edu.iton.potros.practica5.app-main-33:/drawable-xxhdpi/caldocamaron.png"
+    },
+    {
+        "merged": "mx.edu.iton.potros.practica5.app-merged_res-31:/drawable-xxhdpi_botanacamarones.png.flat",
+        "source": "mx.edu.iton.potros.practica5.app-main-33:/drawable-xxhdpi/botanacamarones.png"
+    },
+    {
+        "merged": "mx.edu.iton.potros.practica5.app-merged_res-31:/drawable-xxhdpi_cubetasix.png.flat",
+        "source": "mx.edu.iton.potros.practica5.app-main-33:/drawable-xxhdpi/cubetasix.png"
+    },
+    {
+        "merged": "mx.edu.iton.potros.practica5.app-merged_res-31:/drawable-xxxhdpi_burritosportales.png.flat",
+        "source": "mx.edu.iton.potros.practica5.app-main-33:/drawable-xxxhdpi/burritosportales.png"
+    },
+    {
+        "merged": "C:\\Users\\jesus\\.gradle\\daemon\\8.2\\mx.edu.iton.potros.practica5.app-merged_res-31:\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Users\\jesus\\.gradle\\daemon\\8.2\\mx.edu.iton.potros.practica5.app-main-33:\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "mx.edu.iton.potros.practica5.app-merged_res-31:/drawable-xxhdpi_cominationburros.png.flat",
+        "source": "mx.edu.iton.potros.practica5.app-main-33:/drawable-xxhdpi/cominationburros.png"
+    },
+    {
+        "merged": "mx.edu.iton.potros.practica5.app-merged_res-31:/drawable-hdpi_pozole.png.flat",
+        "source": "mx.edu.iton.potros.practica5.app-main-33:/drawable-hdpi/pozole.png"
+    },
+    {
+        "merged": "mx.edu.iton.potros.practica5.app-merged_res-31:/drawable-xxxhdpi_caldocamaron.png.flat",
+        "source": "mx.edu.iton.potros.practica5.app-main-33:/drawable-xxxhdpi/caldocamaron.png"
+    },
+    {
+        "merged": "mx.edu.iton.potros.practica5.app-merged_res-31:/drawable-xhdpi_charolazo.png.flat",
+        "source": "mx.edu.iton.potros.practica5.app-main-33:/drawable-xhdpi/charolazo.png"
+    },
+    {
+        "merged": "mx.edu.iton.potros.practica5.app-merged_res-31:/drawable-xhdpi_tortamilanesa.png.flat",
+        "source": "mx.edu.iton.potros.practica5.app-main-33:/drawable-xhdpi/tortamilanesa.png"
+    },
+    {
+        "merged": "mx.edu.iton.potros.practica5.app-merged_res-31:/drawable-hdpi_burritopepe.png.flat",
+        "source": "mx.edu.iton.potros.practica5.app-main-33:/drawable-hdpi/burritopepe.png"
+    },
+    {
+        "merged": "mx.edu.iton.potros.practica5.app-merged_res-31:/drawable-mdpi_caldocamaron.png.flat",
+        "source": "mx.edu.iton.potros.practica5.app-main-33:/drawable-mdpi/caldocamaron.png"
+    },
+    {
+        "merged": "mx.edu.iton.potros.practica5.app-merged_res-31:/drawable-mdpi_antojitos.png.flat",
+        "source": "mx.edu.iton.potros.practica5.app-main-33:/drawable-mdpi/antojitos.png"
+    },
+    {
+        "merged": "mx.edu.iton.potros.practica5.app-merged_res-31:/drawable-xxhdpi_tortamilanesa.png.flat",
+        "source": "mx.edu.iton.potros.practica5.app-main-33:/drawable-xxhdpi/tortamilanesa.png"
+    },
+    {
+        "merged": "C:\\Users\\jesus\\.gradle\\daemon\\8.2\\mx.edu.iton.potros.practica5.app-merged_res-31:\\drawable-xxxhdpi_taco.png.flat",
+        "source": "C:\\Users\\jesus\\.gradle\\daemon\\8.2\\mx.edu.iton.potros.practica5.app-main-33:\\drawable-xxxhdpi\\taco.png"
+    },
+    {
+        "merged": "mx.edu.iton.potros.practica5.app-merged_res-31:/drawable-xxxhdpi_sincronizadas.png.flat",
+        "source": "mx.edu.iton.potros.practica5.app-main-33:/drawable-xxxhdpi/sincronizadas.png"
+    },
+    {
+        "merged": "mx.edu.iton.potros.practica5.app-merged_res-31:/drawable-hdpi_cubetasix.png.flat",
+        "source": "mx.edu.iton.potros.practica5.app-main-33:/drawable-hdpi/cubetasix.png"
+    },
+    {
+        "merged": "mx.edu.iton.potros.practica5.app-merged_res-31:/drawable-ldpi_jarritos.png.flat",
+        "source": "mx.edu.iton.potros.practica5.app-main-33:/drawable-ldpi/jarritos.png"
+    },
+    {
+        "merged": "C:\\Users\\jesus\\.gradle\\daemon\\8.2\\mx.edu.iton.potros.practica5.app-merged_res-31:\\drawable-hdpi_grupo2.png.flat",
+        "source": "C:\\Users\\jesus\\.gradle\\daemon\\8.2\\mx.edu.iton.potros.practica5.app-main-33:\\drawable-hdpi\\grupo2.png"
+    },
+    {
+        "merged": "mx.edu.iton.potros.practica5.app-merged_res-31:/drawable-xhdpi_cominationburros.png.flat",
+        "source": "mx.edu.iton.potros.practica5.app-main-33:/drawable-xhdpi/cominationburros.png"
+    },
+    {
+        "merged": "mx.edu.iton.potros.practica5.app-merged_res-31:/drawable-xxhdpi_drinks.png.flat",
+        "source": "mx.edu.iton.potros.practica5.app-main-33:/drawable-xxhdpi/drinks.png"
+    },
+    {
+        "merged": "C:\\Users\\jesus\\.gradle\\daemon\\8.2\\mx.edu.iton.potros.practica5.app-merged_res-31:\\drawable-xxhdpi_imagen1.png.flat",
+        "source": "C:\\Users\\jesus\\.gradle\\daemon\\8.2\\mx.edu.iton.potros.practica5.app-main-33:\\drawable-xxhdpi\\imagen1.png"
+    },
+    {
+        "merged": "C:\\Users\\jesus\\.gradle\\daemon\\8.2\\mx.edu.iton.potros.practica5.app-merged_res-31:\\drawable-xxhdpi_taco.png.flat",
+        "source": "C:\\Users\\jesus\\.gradle\\daemon\\8.2\\mx.edu.iton.potros.practica5.app-main-33:\\drawable-xxhdpi\\taco.png"
+    },
+    {
         "merged": "C:\\Users\\jesus\\.gradle\\daemon\\8.2\\mx.edu.iton.potros.practica5.app-merged_res-31:\\mipmap-mdpi_ic_launcher_round.webp.flat",
         "source": "C:\\Users\\jesus\\.gradle\\daemon\\8.2\\mx.edu.iton.potros.practica5.app-main-33:\\mipmap-mdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "mx.edu.iton.potros.practica5.app-merged_res-31:/drawable-mdpi_drinks.png.flat",
+        "source": "mx.edu.iton.potros.practica5.app-main-33:/drawable-mdpi/drinks.png"
+    },
+    {
+        "merged": "mx.edu.iton.potros.practica5.app-merged_res-31:/drawable-ldpi_mojarra.png.flat",
+        "source": "mx.edu.iton.potros.practica5.app-main-33:/drawable-ldpi/mojarra.png"
+    },
+    {
+        "merged": "mx.edu.iton.potros.practica5.app-merged_res-31:/drawable-ldpi_caguama.png.flat",
+        "source": "mx.edu.iton.potros.practica5.app-main-33:/drawable-ldpi/caguama.png"
+    },
+    {
+        "merged": "mx.edu.iton.potros.practica5.app-merged_res-31:/drawable-xxhdpi_cubetazo.png.flat",
+        "source": "mx.edu.iton.potros.practica5.app-main-33:/drawable-xxhdpi/cubetazo.png"
+    },
+    {
+        "merged": "mx.edu.iton.potros.practica5.app-merged_res-31:/drawable-mdpi_michelada.png.flat",
+        "source": "mx.edu.iton.potros.practica5.app-main-33:/drawable-mdpi/michelada.png"
+    },
+    {
+        "merged": "mx.edu.iton.potros.practica5.app-merged_res-31:/drawable-xhdpi_burritos.png.flat",
+        "source": "mx.edu.iton.potros.practica5.app-main-33:/drawable-xhdpi/burritos.png"
+    },
+    {
+        "merged": "mx.edu.iton.potros.practica5.app-merged_res-31:/drawable-hdpi_sopes.png.flat",
+        "source": "mx.edu.iton.potros.practica5.app-main-33:/drawable-hdpi/sopes.png"
+    },
+    {
+        "merged": "mx.edu.iton.potros.practica5.app-merged_res-31:/drawable-ldpi_caguamamichelada.png.flat",
+        "source": "mx.edu.iton.potros.practica5.app-main-33:/drawable-ldpi/caguamamichelada.png"
+    },
+    {
+        "merged": "mx.edu.iton.potros.practica5.app-merged_res-31:/drawable-xxxhdpi_mexicanbeer.png.flat",
+        "source": "mx.edu.iton.potros.practica5.app-main-33:/drawable-xxxhdpi/mexicanbeer.png"
+    },
+    {
+        "merged": "mx.edu.iton.potros.practica5.app-merged_res-31:/drawable-xxhdpi_domesticbeer.png.flat",
+        "source": "mx.edu.iton.potros.practica5.app-main-33:/drawable-xxhdpi/domesticbeer.png"
+    },
+    {
+        "merged": "mx.edu.iton.potros.practica5.app-merged_res-31:/drawable-mdpi_botanacamarones.png.flat",
+        "source": "mx.edu.iton.potros.practica5.app-main-33:/drawable-mdpi/botanacamarones.png"
+    },
+    {
+        "merged": "mx.edu.iton.potros.practica5.app-merged_res-31:/drawable-mdpi_sodas.png.flat",
+        "source": "mx.edu.iton.potros.practica5.app-main-33:/drawable-mdpi/sodas.png"
+    },
+    {
+        "merged": "mx.edu.iton.potros.practica5.app-merged_res-31:/drawable-ldpi_sopes.png.flat",
+        "source": "mx.edu.iton.potros.practica5.app-main-33:/drawable-ldpi/sopes.png"
+    },
+    {
+        "merged": "C:\\Users\\jesus\\.gradle\\daemon\\8.2\\mx.edu.iton.potros.practica5.app-merged_res-31:\\drawable_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\jesus\\.gradle\\daemon\\8.2\\mx.edu.iton.potros.practica5.app-main-33:\\drawable\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "mx.edu.iton.potros.practica5.app-merged_res-31:/drawable-xxhdpi_burritos.png.flat",
+        "source": "mx.edu.iton.potros.practica5.app-main-33:/drawable-xxhdpi/burritos.png"
+    },
+    {
+        "merged": "C:\\Users\\jesus\\.gradle\\daemon\\8.2\\mx.edu.iton.potros.practica5.app-merged_res-31:\\layout_activity_register.xml.flat",
+        "source": "C:\\Users\\jesus\\.gradle\\daemon\\8.2\\mx.edu.iton.potros.practica5.app-main-33:\\layout\\activity_register.xml"
+    },
+    {
+        "merged": "mx.edu.iton.potros.practica5.app-merged_res-31:/drawable-xhdpi_cubetazo.png.flat",
+        "source": "mx.edu.iton.potros.practica5.app-main-33:/drawable-xhdpi/cubetazo.png"
+    },
+    {
+        "merged": "mx.edu.iton.potros.practica5.app-merged_res-31:/drawable-xhdpi_sopamariscos.png.flat",
+        "source": "mx.edu.iton.potros.practica5.app-main-33:/drawable-xhdpi/sopamariscos.png"
+    },
+    {
+        "merged": "C:\\Users\\jesus\\.gradle\\daemon\\8.2\\mx.edu.iton.potros.practica5.app-merged_res-31:\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\jesus\\.gradle\\daemon\\8.2\\mx.edu.iton.potros.practica5.app-main-33:\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "mx.edu.iton.potros.practica5.app-merged_res-31:/drawable-mdpi_sopas.png.flat",
+        "source": "mx.edu.iton.potros.practica5.app-main-33:/drawable-mdpi/sopas.png"
+    },
+    {
+        "merged": "mx.edu.iton.potros.practica5.app-merged_res-31:/drawable-xxhdpi_sopes.png.flat",
+        "source": "mx.edu.iton.potros.practica5.app-main-33:/drawable-xxhdpi/sopes.png"
+    },
+    {
+        "merged": "mx.edu.iton.potros.practica5.app-merged_res-31:/drawable-xxxhdpi_cubetazo.png.flat",
+        "source": "mx.edu.iton.potros.practica5.app-main-33:/drawable-xxxhdpi/cubetazo.png"
+    },
+    {
+        "merged": "mx.edu.iton.potros.practica5.app-merged_res-31:/drawable-hdpi_quesadillas.png.flat",
+        "source": "mx.edu.iton.potros.practica5.app-main-33:/drawable-hdpi/quesadillas.png"
+    },
+    {
+        "merged": "C:\\Users\\jesus\\.gradle\\daemon\\8.2\\mx.edu.iton.potros.practica5.app-merged_res-31:\\drawable-xxxhdpi_imagen1.png.flat",
+        "source": "C:\\Users\\jesus\\.gradle\\daemon\\8.2\\mx.edu.iton.potros.practica5.app-main-33:\\drawable-xxxhdpi\\imagen1.png"
+    },
+    {
+        "merged": "mx.edu.iton.potros.practica5.app-merged_res-31:/drawable-xhdpi_caguama.png.flat",
+        "source": "mx.edu.iton.potros.practica5.app-main-33:/drawable-xhdpi/caguama.png"
+    },
+    {
+        "merged": "mx.edu.iton.potros.practica5.app-merged_res-31:/drawable-hdpi_huaraches.png.flat",
+        "source": "mx.edu.iton.potros.practica5.app-main-33:/drawable-hdpi/huaraches.png"
+    },
+    {
+        "merged": "mx.edu.iton.potros.practica5.app-merged_res-31:/drawable-ldpi_drinks.png.flat",
+        "source": "mx.edu.iton.potros.practica5.app-main-33:/drawable-ldpi/drinks.png"
+    },
+    {
+        "merged": "mx.edu.iton.potros.practica5.app-merged_res-31:/drawable-xxxhdpi_coctel.png.flat",
+        "source": "mx.edu.iton.potros.practica5.app-main-33:/drawable-xxxhdpi/coctel.png"
+    },
+    {
+        "merged": "mx.edu.iton.potros.practica5.app-merged_res-31:/drawable-mdpi_menudo.png.flat",
+        "source": "mx.edu.iton.potros.practica5.app-main-33:/drawable-mdpi/menudo.png"
+    },
+    {
+        "merged": "mx.edu.iton.potros.practica5.app-merged_res-31:/drawable-xxhdpi_especialidades.png.flat",
+        "source": "mx.edu.iton.potros.practica5.app-main-33:/drawable-xxhdpi/especialidades.png"
+    },
+    {
+        "merged": "C:\\Users\\jesus\\.gradle\\daemon\\8.2\\mx.edu.iton.potros.practica5.app-merged_res-31:\\drawable-xxxhdpi_portales.png.flat",
+        "source": "C:\\Users\\jesus\\.gradle\\daemon\\8.2\\mx.edu.iton.potros.practica5.app-main-33:\\drawable-xxxhdpi\\portales.png"
+    },
+    {
+        "merged": "mx.edu.iton.potros.practica5.app-merged_res-31:/drawable-xxxhdpi_dosamigos.png.flat",
+        "source": "mx.edu.iton.potros.practica5.app-main-33:/drawable-xxxhdpi/dosamigos.png"
+    },
+    {
+        "merged": "C:\\Users\\jesus\\.gradle\\daemon\\8.2\\mx.edu.iton.potros.practica5.app-merged_res-31:\\drawable-xxhdpi_portales.png.flat",
+        "source": "C:\\Users\\jesus\\.gradle\\daemon\\8.2\\mx.edu.iton.potros.practica5.app-main-33:\\drawable-xxhdpi\\portales.png"
+    },
+    {
+        "merged": "mx.edu.iton.potros.practica5.app-merged_res-31:/drawable-xhdpi_domesticbeer.png.flat",
+        "source": "mx.edu.iton.potros.practica5.app-main-33:/drawable-xhdpi/domesticbeer.png"
+    },
+    {
+        "merged": "mx.edu.iton.potros.practica5.app-merged_res-31:/drawable-xxhdpi_quesadillas.png.flat",
+        "source": "mx.edu.iton.potros.practica5.app-main-33:/drawable-xxhdpi/quesadillas.png"
+    },
+    {
+        "merged": "mx.edu.iton.potros.practica5.app-merged_res-31:/drawable-xxxhdpi_burritos.png.flat",
+        "source": "mx.edu.iton.potros.practica5.app-main-33:/drawable-xxxhdpi/burritos.png"
+    },
+    {
+        "merged": "mx.edu.iton.potros.practica5.app-merged_res-31:/drawable-xxxhdpi_domesticbeer.png.flat",
+        "source": "mx.edu.iton.potros.practica5.app-main-33:/drawable-xxxhdpi/domesticbeer.png"
+    },
+    {
+        "merged": "mx.edu.iton.potros.practica5.app-merged_res-31:/drawable-ldpi_quesadillas.png.flat",
+        "source": "mx.edu.iton.potros.practica5.app-main-33:/drawable-ldpi/quesadillas.png"
+    },
+    {
+        "merged": "mx.edu.iton.potros.practica5.app-merged_res-31:/drawable-xhdpi_gringas.png.flat",
+        "source": "mx.edu.iton.potros.practica5.app-main-33:/drawable-xhdpi/gringas.png"
+    },
+    {
+        "merged": "mx.edu.iton.potros.practica5.app-merged_res-31:/drawable-xhdpi_coctel.png.flat",
+        "source": "mx.edu.iton.potros.practica5.app-main-33:/drawable-xhdpi/coctel.png"
+    },
+    {
+        "merged": "mx.edu.iton.potros.practica5.app-merged_res-31:/drawable-xhdpi_burritosportales.png.flat",
+        "source": "mx.edu.iton.potros.practica5.app-main-33:/drawable-xhdpi/burritosportales.png"
+    },
+    {
+        "merged": "mx.edu.iton.potros.practica5.app-merged_res-31:/drawable-xxhdpi_huaraches.png.flat",
+        "source": "mx.edu.iton.potros.practica5.app-main-33:/drawable-xxhdpi/huaraches.png"
+    },
+    {
+        "merged": "C:\\Users\\jesus\\.gradle\\daemon\\8.2\\mx.edu.iton.potros.practica5.app-merged_res-31:\\mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\jesus\\.gradle\\daemon\\8.2\\mx.edu.iton.potros.practica5.app-main-33:\\mipmap-xxxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "mx.edu.iton.potros.practica5.app-merged_res-31:/drawable-xhdpi_mojarra.png.flat",
+        "source": "mx.edu.iton.potros.practica5.app-main-33:/drawable-xhdpi/mojarra.png"
+    },
+    {
+        "merged": "mx.edu.iton.potros.practica5.app-merged_res-31:/drawable-mdpi_huaraches.png.flat",
+        "source": "mx.edu.iton.potros.practica5.app-main-33:/drawable-mdpi/huaraches.png"
+    },
+    {
+        "merged": "mx.edu.iton.potros.practica5.app-merged_res-31:/drawable-xhdpi_tortacubana.png.flat",
+        "source": "mx.edu.iton.potros.practica5.app-main-33:/drawable-xhdpi/tortacubana.png"
+    },
+    {
+        "merged": "mx.edu.iton.potros.practica5.app-merged_res-31:/drawable-xhdpi_fajitaquesadilla.png.flat",
+        "source": "mx.edu.iton.potros.practica5.app-main-33:/drawable-xhdpi/fajitaquesadilla.png"
+    },
+    {
+        "merged": "mx.edu.iton.potros.practica5.app-merged_res-31:/drawable-ldpi_botanacamarones.png.flat",
+        "source": "mx.edu.iton.potros.practica5.app-main-33:/drawable-ldpi/botanacamarones.png"
+    },
+    {
+        "merged": "mx.edu.iton.potros.practica5.app-merged_res-31:/drawable-xxxhdpi_charolazo.png.flat",
+        "source": "mx.edu.iton.potros.practica5.app-main-33:/drawable-xxxhdpi/charolazo.png"
+    },
+    {
+        "merged": "mx.edu.iton.potros.practica5.app-merged_res-31:/drawable-mdpi_charolazo.png.flat",
+        "source": "mx.edu.iton.potros.practica5.app-main-33:/drawable-mdpi/charolazo.png"
+    },
+    {
+        "merged": "mx.edu.iton.potros.practica5.app-merged_res-31:/drawable-mdpi_cominationburros.png.flat",
+        "source": "mx.edu.iton.potros.practica5.app-main-33:/drawable-mdpi/cominationburros.png"
+    },
+    {
+        "merged": "mx.edu.iton.potros.practica5.app-merged_res-31:/drawable-xxhdpi_sopas.png.flat",
+        "source": "mx.edu.iton.potros.practica5.app-main-33:/drawable-xxhdpi/sopas.png"
+    },
+    {
+        "merged": "C:\\Users\\jesus\\.gradle\\daemon\\8.2\\mx.edu.iton.potros.practica5.app-merged_res-31:\\mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\jesus\\.gradle\\daemon\\8.2\\mx.edu.iton.potros.practica5.app-main-33:\\mipmap-xhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "mx.edu.iton.potros.practica5.app-merged_res-31:/drawable-hdpi_caldocamaron.png.flat",
+        "source": "mx.edu.iton.potros.practica5.app-main-33:/drawable-hdpi/caldocamaron.png"
+    },
+    {
+        "merged": "mx.edu.iton.potros.practica5.app-merged_res-31:/drawable-mdpi_ceviche.png.flat",
+        "source": "mx.edu.iton.potros.practica5.app-main-33:/drawable-mdpi/ceviche.png"
+    },
+    {
+        "merged": "mx.edu.iton.potros.practica5.app-merged_res-31:/drawable-ldpi_sopas.png.flat",
+        "source": "mx.edu.iton.potros.practica5.app-main-33:/drawable-ldpi/sopas.png"
+    },
+    {
+        "merged": "mx.edu.iton.potros.practica5.app-merged_res-31:/drawable-hdpi_tortacubana.png.flat",
+        "source": "mx.edu.iton.potros.practica5.app-main-33:/drawable-hdpi/tortacubana.png"
+    },
+    {
+        "merged": "mx.edu.iton.potros.practica5.app-merged_res-31:/drawable-xxxhdpi_michelada.png.flat",
+        "source": "mx.edu.iton.potros.practica5.app-main-33:/drawable-xxxhdpi/michelada.png"
+    },
+    {
+        "merged": "mx.edu.iton.potros.practica5.app-merged_res-31:/drawable-hdpi_sopas.png.flat",
+        "source": "mx.edu.iton.potros.practica5.app-main-33:/drawable-hdpi/sopas.png"
+    },
+    {
+        "merged": "mx.edu.iton.potros.practica5.app-merged_res-31:/drawable-hdpi_antojitos.png.flat",
+        "source": "mx.edu.iton.potros.practica5.app-main-33:/drawable-hdpi/antojitos.png"
+    },
+    {
+        "merged": "mx.edu.iton.potros.practica5.app-merged_res-31:/drawable-hdpi_mexicanbeer.png.flat",
+        "source": "mx.edu.iton.potros.practica5.app-main-33:/drawable-hdpi/mexicanbeer.png"
+    },
+    {
+        "merged": "mx.edu.iton.potros.practica5.app-merged_res-31:/drawable-xxhdpi_antojitos.png.flat",
+        "source": "mx.edu.iton.potros.practica5.app-main-33:/drawable-xxhdpi/antojitos.png"
+    },
+    {
+        "merged": "mx.edu.iton.potros.practica5.app-merged_res-31:/drawable-xxxhdpi_quesadillas.png.flat",
+        "source": "mx.edu.iton.potros.practica5.app-main-33:/drawable-xxxhdpi/quesadillas.png"
+    },
+    {
+        "merged": "C:\\Users\\jesus\\.gradle\\daemon\\8.2\\mx.edu.iton.potros.practica5.app-merged_res-31:\\drawable-hdpi_grupo1.png.flat",
+        "source": "C:\\Users\\jesus\\.gradle\\daemon\\8.2\\mx.edu.iton.potros.practica5.app-main-33:\\drawable-hdpi\\grupo1.png"
+    },
+    {
+        "merged": "mx.edu.iton.potros.practica5.app-merged_res-31:/drawable-xhdpi_huaraches.png.flat",
+        "source": "mx.edu.iton.potros.practica5.app-main-33:/drawable-xhdpi/huaraches.png"
+    },
+    {
+        "merged": "mx.edu.iton.potros.practica5.app-merged_res-31:/drawable-xxxhdpi_jarritos.png.flat",
+        "source": "mx.edu.iton.potros.practica5.app-main-33:/drawable-xxxhdpi/jarritos.png"
+    },
+    {
+        "merged": "mx.edu.iton.potros.practica5.app-merged_res-31:/drawable-ldpi_sodas.png.flat",
+        "source": "mx.edu.iton.potros.practica5.app-main-33:/drawable-ldpi/sodas.png"
+    },
+    {
+        "merged": "mx.edu.iton.potros.practica5.app-merged_res-31:/drawable-mdpi_sincronizadas.png.flat",
+        "source": "mx.edu.iton.potros.practica5.app-main-33:/drawable-mdpi/sincronizadas.png"
+    },
+    {
+        "merged": "mx.edu.iton.potros.practica5.app-merged_res-31:/drawable-xhdpi_burritopepe.png.flat",
+        "source": "mx.edu.iton.potros.practica5.app-main-33:/drawable-xhdpi/burritopepe.png"
+    },
+    {
+        "merged": "mx.edu.iton.potros.practica5.app-merged_res-31:/drawable-mdpi_cubetasix.png.flat",
+        "source": "mx.edu.iton.potros.practica5.app-main-33:/drawable-mdpi/cubetasix.png"
+    },
+    {
+        "merged": "mx.edu.iton.potros.practica5.app-merged_res-31:/drawable-xxxhdpi_pozole.png.flat",
+        "source": "mx.edu.iton.potros.practica5.app-main-33:/drawable-xxxhdpi/pozole.png"
+    },
+    {
+        "merged": "C:\\Users\\jesus\\.gradle\\daemon\\8.2\\mx.edu.iton.potros.practica5.app-merged_res-31:\\drawable-ldpi_portales.png.flat",
+        "source": "C:\\Users\\jesus\\.gradle\\daemon\\8.2\\mx.edu.iton.potros.practica5.app-main-33:\\drawable-ldpi\\portales.png"
+    },
+    {
+        "merged": "mx.edu.iton.potros.practica5.app-merged_res-31:/drawable-hdpi_sodas.png.flat",
+        "source": "mx.edu.iton.potros.practica5.app-main-33:/drawable-hdpi/sodas.png"
+    },
+    {
+        "merged": "mx.edu.iton.potros.practica5.app-merged_res-31:/drawable-mdpi_fajitaquesadilla.png.flat",
+        "source": "mx.edu.iton.potros.practica5.app-main-33:/drawable-mdpi/fajitaquesadilla.png"
+    },
+    {
+        "merged": "mx.edu.iton.potros.practica5.app-merged_res-31:/drawable-xxhdpi_sodas.png.flat",
+        "source": "mx.edu.iton.potros.practica5.app-main-33:/drawable-xxhdpi/sodas.png"
+    },
+    {
+        "merged": "mx.edu.iton.potros.practica5.app-merged_res-31:/drawable-xhdpi_jarritos.png.flat",
+        "source": "mx.edu.iton.potros.practica5.app-main-33:/drawable-xhdpi/jarritos.png"
+    },
+    {
+        "merged": "mx.edu.iton.potros.practica5.app-merged_res-31:/drawable-xhdpi_pozole.png.flat",
+        "source": "mx.edu.iton.potros.practica5.app-main-33:/drawable-xhdpi/pozole.png"
+    },
+    {
+        "merged": "mx.edu.iton.potros.practica5.app-merged_res-31:/drawable-xxhdpi_mexicanbeer.png.flat",
+        "source": "mx.edu.iton.potros.practica5.app-main-33:/drawable-xxhdpi/mexicanbeer.png"
+    },
+    {
+        "merged": "C:\\Users\\jesus\\.gradle\\daemon\\8.2\\mx.edu.iton.potros.practica5.app-merged_res-31:\\drawable-hdpi_portales.png.flat",
+        "source": "C:\\Users\\jesus\\.gradle\\daemon\\8.2\\mx.edu.iton.potros.practica5.app-main-33:\\drawable-hdpi\\portales.png"
+    },
+    {
+        "merged": "mx.edu.iton.potros.practica5.app-merged_res-31:/drawable-mdpi_jarritos.png.flat",
+        "source": "mx.edu.iton.potros.practica5.app-main-33:/drawable-mdpi/jarritos.png"
+    },
+    {
+        "merged": "C:\\Users\\jesus\\.gradle\\daemon\\8.2\\mx.edu.iton.potros.practica5.app-merged_res-31:\\drawable-hdpi_taco.png.flat",
+        "source": "C:\\Users\\jesus\\.gradle\\daemon\\8.2\\mx.edu.iton.potros.practica5.app-main-33:\\drawable-hdpi\\taco.png"
+    },
+    {
+        "merged": "C:\\Users\\jesus\\.gradle\\daemon\\8.2\\mx.edu.iton.potros.practica5.app-merged_res-31:\\drawable-mdpi_grupo2.png.flat",
+        "source": "C:\\Users\\jesus\\.gradle\\daemon\\8.2\\mx.edu.iton.potros.practica5.app-main-33:\\drawable-mdpi\\grupo2.png"
+    },
+    {
+        "merged": "mx.edu.iton.potros.practica5.app-merged_res-31:/drawable-ldpi_mexicanbeer.png.flat",
+        "source": "mx.edu.iton.potros.practica5.app-main-33:/drawable-ldpi/mexicanbeer.png"
+    },
+    {
+        "merged": "mx.edu.iton.potros.practica5.app-merged_res-31:/drawable-ldpi_sincronizadas.png.flat",
+        "source": "mx.edu.iton.potros.practica5.app-main-33:/drawable-ldpi/sincronizadas.png"
+    },
+    {
+        "merged": "C:\\Users\\jesus\\.gradle\\daemon\\8.2\\mx.edu.iton.potros.practica5.app-merged_res-31:\\drawable-ldpi_grupo2.png.flat",
+        "source": "C:\\Users\\jesus\\.gradle\\daemon\\8.2\\mx.edu.iton.potros.practica5.app-main-33:\\drawable-ldpi\\grupo2.png"
+    },
+    {
+        "merged": "C:\\Users\\jesus\\.gradle\\daemon\\8.2\\mx.edu.iton.potros.practica5.app-merged_res-31:\\drawable-xhdpi_grupo1.png.flat",
+        "source": "C:\\Users\\jesus\\.gradle\\daemon\\8.2\\mx.edu.iton.potros.practica5.app-main-33:\\drawable-xhdpi\\grupo1.png"
+    },
+    {
+        "merged": "mx.edu.iton.potros.practica5.app-merged_res-31:/drawable-hdpi_caldores.png.flat",
+        "source": "mx.edu.iton.potros.practica5.app-main-33:/drawable-hdpi/caldores.png"
+    },
+    {
+        "merged": "mx.edu.iton.potros.practica5.app-merged_res-31:/drawable-xxhdpi_jarritos.png.flat",
+        "source": "mx.edu.iton.potros.practica5.app-main-33:/drawable-xxhdpi/jarritos.png"
+    },
+    {
+        "merged": "mx.edu.iton.potros.practica5.app-merged_res-31:/drawable-ldpi_gringas.png.flat",
+        "source": "mx.edu.iton.potros.practica5.app-main-33:/drawable-ldpi/gringas.png"
+    },
+    {
+        "merged": "mx.edu.iton.potros.practica5.app-merged_res-31:/drawable-xxxhdpi_sopamariscos.png.flat",
+        "source": "mx.edu.iton.potros.practica5.app-main-33:/drawable-xxxhdpi/sopamariscos.png"
+    },
+    {
+        "merged": "mx.edu.iton.potros.practica5.app-merged_res-31:/drawable-xxhdpi_sopamariscos.png.flat",
+        "source": "mx.edu.iton.potros.practica5.app-main-33:/drawable-xxhdpi/sopamariscos.png"
     }
 ]
