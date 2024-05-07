@@ -5,8 +5,20 @@
     <color name="mainText">#C5C5C5</color>
     <color name="white">#FFFFFFFF</color>
     <color name="yellow">#FFD501</color>
+    <dimen name="buttonText">20sp</dimen>
+    <dimen name="descText">15sp</dimen>
+    <dimen name="hmrb">3dp</dimen>
+    <dimen name="hpradiogroup">10dp</dimen>
+    <dimen name="marginTopRadioGroup">30dp</dimen>
+    <dimen name="paddingButton">15dp</dimen>
+    <dimen name="radiobutton">60dp</dimen>
+    <dimen name="rbtext">20sp</dimen>
+    <dimen name="regText">14sp</dimen>
+    <dimen name="title">25sp</dimen>
+    <dimen name="titleSize">20sp</dimen>
     <string name="app_name">Practica6</string>
     <string name="getMeIn">GET ME IN!</string>
+    <string name="movies">Movies</string>
     <string name="welcome">Welcome to Popcorn Factory, home of the best series and movies. Just lay down, make some popcorn and enjoy!</string>
     <style name="Base.Theme.Practica6" parent="Theme.Material3.DayNight.NoActionBar">
         

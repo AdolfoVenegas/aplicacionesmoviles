@@ -10,7 +10,7 @@
 
     <LinearLayout
         android:layout_width="match_parent"
-        android:layout_height="match_parent"
+        android:layout_height="wrap_content"
         android:orientation="vertical">
 
         <ImageView
@@ -26,7 +26,7 @@
             android:text="HALO"
             android:textSize="20sp"
             android:textColor="@color/yellow"
-            android:layout_gravity="center "/>
+            android:layout_gravity="center"/>
         <TextView
             android:id="@+id/tv_pelicula_desc"
             android:layout_marginTop="18dp"
@@ -37,7 +37,25 @@
             android:text="aqui va la descripcion de la peli"
             android:textColor="@color/yellow"
             android:gravity="center"/>
-
+        <Button
+            android:id="@+id/buyTickets"
+            android:text="Buy my tickets!"
+            android:textAllCaps="true"
+            android:layout_marginTop="30dp"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"/>
+        <TextView
+            android:id="@+id/seatLeft"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="10dp"
+            android:layout_marginHorizontal="30dp"
+            android:text="0"
+            android:textSize="14sp"
+            android:layout_gravity="center"
+            android:textColor="@color/yellow"
+            />
     </LinearLayout>
 
 </LinearLayout>

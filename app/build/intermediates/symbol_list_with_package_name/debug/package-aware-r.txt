@@ -2188,6 +2188,7 @@ dimen abc_text_size_subtitle_material_toolbar
 dimen abc_text_size_title_material
 dimen abc_text_size_title_material_toolbar
 dimen appcompat_dialog_background_inset
+dimen buttonText
 dimen cardview_compat_inset_shadow
 dimen cardview_default_elevation
 dimen cardview_default_radius
@@ -2200,6 +2201,7 @@ dimen compat_control_corner_material
 dimen compat_notification_large_icon_max_height
 dimen compat_notification_large_icon_max_width
 dimen def_drawer_elevation
+dimen descText
 dimen design_appbar_elevation
 dimen design_bottom_navigation_active_item_max_width
 dimen design_bottom_navigation_active_item_min_width
@@ -2260,6 +2262,8 @@ dimen hint_alpha_material_dark
 dimen hint_alpha_material_light
 dimen hint_pressed_alpha_material_dark
 dimen hint_pressed_alpha_material_light
+dimen hmrb
+dimen hpradiogroup
 dimen item_touch_helper_max_drag_scroll_per_frame
 dimen item_touch_helper_swipe_escape_max_velocity
 dimen item_touch_helper_swipe_escape_velocity
@@ -2651,6 +2655,7 @@ dimen m3_sys_state_pressed_state_layer_opacity
 dimen m3_timepicker_display_stroke_width
 dimen m3_timepicker_window_elevation
 dimen m3_toolbar_text_size_title
+dimen marginTopRadioGroup
 dimen material_bottom_sheet_max_width
 dimen material_clock_display_height
 dimen material_clock_display_padding
@@ -2901,6 +2906,12 @@ dimen notification_small_icon_size_as_large
 dimen notification_subtext_size
 dimen notification_top_pad
 dimen notification_top_pad_large_text
+dimen paddingButton
+dimen radiobutton
+dimen rbtext
+dimen regText
+dimen title
+dimen titleSize
 dimen tooltip_corner_radius
 dimen tooltip_horizontal_padding
 dimen tooltip_margin
@@ -3115,6 +3126,10 @@ drawable notification_template_icon_low_bg
 drawable notification_tile_bg
 drawable notify_panel_notification_icon_bg
 drawable popcorn
+drawable radio_disabled
+drawable radio_normal
+drawable radio_selectable
+drawable radio_selected
 drawable round_button
 drawable sololeveling
 drawable sololevelings
@@ -3225,6 +3240,7 @@ id bounceBoth
 id bounceEnd
 id bounceStart
 id buttonPanel
+id buyTickets
 id cache_measures
 id callMeasure
 id cancel_button
@@ -3248,6 +3264,7 @@ id clockwise
 id closest
 id collapseActionView
 id compress
+id confirm
 id confirm_button
 id constraint
 id container
@@ -3496,6 +3513,10 @@ id rightToLeft
 id right_icon
 id right_side
 id rounded
+id row1
+id row2
+id row3
+id row4
 id row_index_key
 id save_non_transition_alpha
 id save_overlay_view
@@ -3517,6 +3538,7 @@ id search_mag_icon
 id search_plate
 id search_src_text
 id search_voice_btn
+id seatLeft
 id select_dialog_listview
 id selected
 id selection_type
@@ -3592,6 +3614,7 @@ id textinput_suffix_text
 id time
 id title
 id titleDividerNoCustom
+id titleSeats
 id title_template
 id toggle
 id top
@@ -3749,6 +3772,7 @@ layout abc_select_dialog_material
 layout abc_tooltip
 layout activity_catalago
 layout activity_main
+layout activity_seat_selection
 layout custom_dialog
 layout design_bottom_navigation_item
 layout design_bottom_sheet_dialog
@@ -3927,6 +3951,7 @@ string material_timepicker_minute
 string material_timepicker_pm
 string material_timepicker_select_time
 string material_timepicker_text_input_mode_description
+string movies
 string mtrl_badge_numberless_content_description
 string mtrl_checkbox_button_icon_path_checked
 string mtrl_checkbox_button_icon_path_group_name

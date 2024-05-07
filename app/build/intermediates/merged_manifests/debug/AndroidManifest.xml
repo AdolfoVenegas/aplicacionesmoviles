@@ -27,6 +27,9 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.Practica6" >
         <activity
+            android:name="mx.edu.iton.potros.practica6.SeatSelection"
+            android:exported="false" />
+        <activity
             android:name="mx.edu.iton.potros.practica6.catalago"
             android:exported="false" />
         <activity
