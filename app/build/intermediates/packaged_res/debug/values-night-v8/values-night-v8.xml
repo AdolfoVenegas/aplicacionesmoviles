@@ -1,7 +1,17 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <color name="colorPrimary">#916E63</color>
+    <color name="colorSecondary">#291B16</color>
     <style name="Base.Theme.Practica10" parent="Theme.Material3.DayNight.NoActionBar">
         
         
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryVariant">@color/colorSecondary</item>
+        <item name="colorOnPrimary">@color/white</item>
+
+        <item name="colorSecondary">@color/colorSecondary</item>
+        <item name="colorSecondaryVariant">@color/colorPrimary</item>
+        <item name="colorOnSecondary">@color/white</item>
     </style>
+    <style name="Theme.Practica10" parent="Base.Theme.Practica10"/>
 </resources>

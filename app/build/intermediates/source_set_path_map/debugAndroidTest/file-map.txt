@@ -1,6 +1,6 @@
-mx.edu.iton.potros.practica10.test.app-annotation-experimental-1.4.0-0 C:\Users\jesus\.gradle\caches\transforms-3\012c776a7aae6a370a87774dddd9a067\transformed\annotation-experimental-1.4.0\res
-mx.edu.iton.potros.practica10.test.app-core-1.5.0-1 C:\Users\jesus\.gradle\caches\transforms-3\e48254175bc0f5a8b1c10a8d94647188\transformed\core-1.5.0\res
-mx.edu.iton.potros.practica10.test.app-androidTest-2 E:\ENE-MAY 2024\Aplicaciones moviles\Practicas\Practica10\app\build\generated\res\resValues\androidTest\debug
-mx.edu.iton.potros.practica10.test.app-mergeDebugAndroidTestResources-3 E:\ENE-MAY 2024\Aplicaciones moviles\Practicas\Practica10\app\build\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\merged.dir
-mx.edu.iton.potros.practica10.test.app-mergeDebugAndroidTestResources-4 E:\ENE-MAY 2024\Aplicaciones moviles\Practicas\Practica10\app\build\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\stripped.dir
-mx.edu.iton.potros.practica10.test.app-merged_res-5 E:\ENE-MAY 2024\Aplicaciones moviles\Practicas\Practica10\app\build\intermediates\merged_res\debugAndroidTest
+mx.edu.iton.potros.practica10.test.app-annotation-experimental-1.4.0-0 C:\Users\Usuario\.gradle\caches\transforms-3\012c776a7aae6a370a87774dddd9a067\transformed\annotation-experimental-1.4.0\res
+mx.edu.iton.potros.practica10.test.app-core-1.5.0-1 C:\Users\Usuario\.gradle\caches\transforms-3\e48254175bc0f5a8b1c10a8d94647188\transformed\core-1.5.0\res
+mx.edu.iton.potros.practica10.test.app-androidTest-2 C:\Users\Usuario\Desktop\ProyectoFinal\app\build\generated\res\resValues\androidTest\debug
+mx.edu.iton.potros.practica10.test.app-mergeDebugAndroidTestResources-3 C:\Users\Usuario\Desktop\ProyectoFinal\app\build\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\merged.dir
+mx.edu.iton.potros.practica10.test.app-mergeDebugAndroidTestResources-4 C:\Users\Usuario\Desktop\ProyectoFinal\app\build\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\stripped.dir
+mx.edu.iton.potros.practica10.test.app-merged_res-5 C:\Users\Usuario\Desktop\ProyectoFinal\app\build\intermediates\merged_res\debugAndroidTest

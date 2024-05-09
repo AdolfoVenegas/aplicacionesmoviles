@@ -5,9 +5,7 @@ import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
 import android.widget.EditText;
-import android.widget.ImageView;
 import android.widget.LinearLayout;
-import android.widget.TextView;
 import androidx.annotation.NonNull;
 import androidx.annotation.Nullable;
 import androidx.appcompat.widget.AppCompatButton;
@@ -27,13 +25,7 @@ public final class ActivitySignInBinding implements ViewBinding {
   public final EditText emailEditText;
 
   @NonNull
-  public final ImageView imageView2;
-
-  @NonNull
   public final LinearLayout linearLayout;
-
-  @NonNull
-  public final LinearLayout linearLayout2;
 
   @NonNull
   public final LinearLayout linearLayout3;
@@ -42,38 +34,17 @@ public final class ActivitySignInBinding implements ViewBinding {
   public final EditText passwordEditText;
 
   @NonNull
-  public final TextView recoveryAccountTextView;
-
-  @NonNull
   public final AppCompatButton signInAppCompatButton;
 
-  @NonNull
-  public final TextView signUpTextView;
-
-  @NonNull
-  public final TextView textView3;
-
-  @NonNull
-  public final TextView textView5;
-
   private ActivitySignInBinding(@NonNull ConstraintLayout rootView, @NonNull EditText emailEditText,
-      @NonNull ImageView imageView2, @NonNull LinearLayout linearLayout,
-      @NonNull LinearLayout linearLayout2, @NonNull LinearLayout linearLayout3,
-      @NonNull EditText passwordEditText, @NonNull TextView recoveryAccountTextView,
-      @NonNull AppCompatButton signInAppCompatButton, @NonNull TextView signUpTextView,
-      @NonNull TextView textView3, @NonNull TextView textView5) {
+      @NonNull LinearLayout linearLayout, @NonNull LinearLayout linearLayout3,
+      @NonNull EditText passwordEditText, @NonNull AppCompatButton signInAppCompatButton) {
     this.rootView = rootView;
     this.emailEditText = emailEditText;
-    this.imageView2 = imageView2;
     this.linearLayout = linearLayout;
-    this.linearLayout2 = linearLayout2;
     this.linearLayout3 = linearLayout3;
     this.passwordEditText = passwordEditText;
-    this.recoveryAccountTextView = recoveryAccountTextView;
     this.signInAppCompatButton = signInAppCompatButton;
-    this.signUpTextView = signUpTextView;
-    this.textView3 = textView3;
-    this.textView5 = textView5;
   }
 
   @Override
@@ -109,21 +80,9 @@ public final class ActivitySignInBinding implements ViewBinding {
         break missingId;
       }
 
-      id = R.id.imageView2;
-      ImageView imageView2 = ViewBindings.findChildViewById(rootView, id);
-      if (imageView2 == null) {
-        break missingId;
-      }
-
       id = R.id.linearLayout;
       LinearLayout linearLayout = ViewBindings.findChildViewById(rootView, id);
       if (linearLayout == null) {
-        break missingId;
-      }
-
-      id = R.id.linearLayout2;
-      LinearLayout linearLayout2 = ViewBindings.findChildViewById(rootView, id);
-      if (linearLayout2 == null) {
         break missingId;
       }
 
@@ -139,39 +98,14 @@ public final class ActivitySignInBinding implements ViewBinding {
         break missingId;
       }
 
-      id = R.id.recoveryAccountTextView;
-      TextView recoveryAccountTextView = ViewBindings.findChildViewById(rootView, id);
-      if (recoveryAccountTextView == null) {
-        break missingId;
-      }
-
       id = R.id.signInAppCompatButton;
       AppCompatButton signInAppCompatButton = ViewBindings.findChildViewById(rootView, id);
       if (signInAppCompatButton == null) {
         break missingId;
       }
 
-      id = R.id.signUpTextView;
-      TextView signUpTextView = ViewBindings.findChildViewById(rootView, id);
-      if (signUpTextView == null) {
-        break missingId;
-      }
-
-      id = R.id.textView3;
-      TextView textView3 = ViewBindings.findChildViewById(rootView, id);
-      if (textView3 == null) {
-        break missingId;
-      }
-
-      id = R.id.textView5;
-      TextView textView5 = ViewBindings.findChildViewById(rootView, id);
-      if (textView5 == null) {
-        break missingId;
-      }
-
-      return new ActivitySignInBinding((ConstraintLayout) rootView, emailEditText, imageView2,
-          linearLayout, linearLayout2, linearLayout3, passwordEditText, recoveryAccountTextView,
-          signInAppCompatButton, signUpTextView, textView3, textView5);
+      return new ActivitySignInBinding((ConstraintLayout) rootView, emailEditText, linearLayout,
+          linearLayout3, passwordEditText, signInAppCompatButton);
     }
     String missingId = rootView.getResources().getResourceName(id);
     throw new NullPointerException("Missing required view with ID: ".concat(missingId));

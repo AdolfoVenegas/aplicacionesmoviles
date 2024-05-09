@@ -4,7 +4,8 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    tools:context=".SignInActivity">
+    tools:context=".SignInActivity"
+    android:background="@drawable/background">
     <LinearLayout
         android:id="@+id/linearLayout3"
         android:layout_width="match_parent"
@@ -15,25 +16,7 @@
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent"
-        tools:ignore="UseCompoundDrawables">
-
-        <ImageView
-            android:id="@+id/imageView2"
-            android:layout_width="100dp"
-            android:layout_height="100dp"
-            android:contentDescription="@string/all"
-            app:srcCompat="@drawable/ic_logo"
-            tools:ignore="VectorDrawableCompat" />
-
-        <TextView
-            android:id="@+id/textView5"
-            android:layout_width="match_parent"
-            android:layout_height="wrap_content"
-            android:gravity="center"
-            android:text="@string/title_active_login"
-            android:textColor="@color/black"
-            android:textSize="24sp" />
-    </LinearLayout>
+        tools:ignore="UseCompoundDrawables"/>
 
     <LinearLayout
         android:id="@+id/linearLayout"
@@ -41,11 +24,13 @@
         android:layout_height="wrap_content"
         android:gravity="center"
         android:orientation="vertical"
-        app:layout_constraintBottom_toTopOf="@+id/linearLayout2"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toBottomOf="@+id/linearLayout3">
-
+        <ImageView
+            android:src="@drawable/logo"
+            android:layout_width="match_parent"
+            android:layout_height="200dp"/>
         <EditText
             android:id="@+id/emailEditText"
             android:layout_width="match_parent"
@@ -79,60 +64,16 @@
             android:inputType="textPassword"
             android:padding="16dp" />
 
-        <TextView
-            android:id="@+id/recoveryAccountTextView"
-            android:layout_width="match_parent"
-            android:layout_height="wrap_content"
-            android:layout_marginTop="24dp"
-            android:layout_marginEnd="32dp"
-            android:layout_marginStart="24dp"
-            android:textSize="16sp"
-            android:text="@string/forget_password"
-            android:gravity="end"
-            android:layout_marginRight="32dp"
-            android:layout_marginLeft="24dp" />
-
         <androidx.appcompat.widget.AppCompatButton
             android:id="@+id/signInAppCompatButton"
             android:layout_width="wrap_content"
-            android:layout_height="40dp"
+            android:layout_height="50dp"
             android:layout_marginTop="32dp"
-            android:background="@drawable/ic_buttom"
+            android:background="@color/buttons"
             android:paddingLeft="64dp"
             android:paddingRight="64dp"
             android:text="@string/login"
             android:textColor="@color/white" />
-    </LinearLayout>
-
-    <LinearLayout
-        android:id="@+id/linearLayout2"
-        android:layout_width="match_parent"
-        android:layout_height="wrap_content"
-        android:layout_marginBottom="28dp"
-        android:gravity="center"
-        android:orientation="horizontal"
-        app:layout_constraintBottom_toBottomOf="parent"
-        app:layout_constraintEnd_toEndOf="parent"
-        app:layout_constraintStart_toStartOf="parent">
-
-        <TextView
-            android:id="@+id/textView3"
-            android:layout_width="wrap_content"
-            android:layout_height="wrap_content"
-            android:layout_weight="0"
-            android:text="@string/text_signup"
-            android:textSize="20sp" />
-
-        <TextView
-            android:id="@+id/signUpTextView"
-            android:layout_width="wrap_content"
-            android:layout_height="wrap_content"
-            android:layout_marginLeft="16dp"
-            android:layout_marginRight="16dp"
-            android:layout_weight="0"
-            android:text="@string/link_signup"
-            android:textColor="#ff9900"
-            android:textSize="24sp" />
     </LinearLayout>
 
 </androidx.constraintlayout.widget.ConstraintLayout>

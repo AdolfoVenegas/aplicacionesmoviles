@@ -1,10 +1,30 @@
 [
     {
-        "merged": "mx.edu.iton.potros.practica10.app-mergeDebugResources-38:/layout/activity_main.xml",
-        "source": "mx.edu.iton.potros.practica10.app-main-41:/layout/activity_main.xml"
+        "merged": "mx.edu.iton.potros.practica10.app-mergeDebugResources-38:/layout/item.xml",
+        "source": "mx.edu.iton.potros.practica10.app-main-41:/layout/item.xml"
     },
     {
-        "merged": "mx.edu.iton.potros.practica10.app-mergeDebugResources-38:/layout/activity_sign_in.xml",
-        "source": "mx.edu.iton.potros.practica10.app-main-41:/layout/activity_sign_in.xml"
+        "merged": "mx.edu.iton.potros.practica10.app-mergeDebugResources-38:/layout/activity_manage_items.xml",
+        "source": "mx.edu.iton.potros.practica10.app-main-41:/layout/activity_manage_items.xml"
+    },
+    {
+        "merged": "C:\\Users\\Usuario\\.gradle\\daemon\\8.2\\mx.edu.iton.potros.practica10.app-mergeDebugResources-38:\\layout\\activity_main.xml",
+        "source": "C:\\Users\\Usuario\\.gradle\\daemon\\8.2\\mx.edu.iton.potros.practica10.app-main-41:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\Usuario\\.gradle\\daemon\\8.2\\mx.edu.iton.potros.practica10.app-mergeDebugResources-38:\\layout\\item.xml",
+        "source": "C:\\Users\\Usuario\\.gradle\\daemon\\8.2\\mx.edu.iton.potros.practica10.app-main-41:\\layout\\item.xml"
+    },
+    {
+        "merged": "C:\\Users\\Usuario\\.gradle\\daemon\\8.2\\mx.edu.iton.potros.practica10.app-mergeDebugResources-38:\\layout\\activity_menu_grid.xml",
+        "source": "C:\\Users\\Usuario\\.gradle\\daemon\\8.2\\mx.edu.iton.potros.practica10.app-main-41:\\layout\\activity_menu_grid.xml"
+    },
+    {
+        "merged": "C:\\Users\\Usuario\\.gradle\\daemon\\8.2\\mx.edu.iton.potros.practica10.app-mergeDebugResources-38:\\layout\\activity_manage_items.xml",
+        "source": "C:\\Users\\Usuario\\.gradle\\daemon\\8.2\\mx.edu.iton.potros.practica10.app-main-41:\\layout\\activity_manage_items.xml"
+    },
+    {
+        "merged": "C:\\Users\\Usuario\\.gradle\\daemon\\8.2\\mx.edu.iton.potros.practica10.app-mergeDebugResources-38:\\layout\\activity_sign_in.xml",
+        "source": "C:\\Users\\Usuario\\.gradle\\daemon\\8.2\\mx.edu.iton.potros.practica10.app-main-41:\\layout\\activity_sign_in.xml"
     }
 ]

@@ -4,7 +4,7 @@
             "outputFile": "mx.edu.iton.potros.practica10.test.app-mergeDebugAndroidTestResources-3:/values-v18/values-v18.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\jesus\\.gradle\\caches\\transforms-3\\e48254175bc0f5a8b1c10a8d94647188\\transformed\\core-1.5.0\\res\\values-v18\\values.xml",
+                    "source": "C:\\Users\\Usuario\\.gradle\\caches\\transforms-3\\e48254175bc0f5a8b1c10a8d94647188\\transformed\\core-1.5.0\\res\\values-v18\\values.xml",
                     "from": {
                         "startLines": "4,12",
                         "startColumns": "0,0",

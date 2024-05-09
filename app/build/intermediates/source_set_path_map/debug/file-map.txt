@@ -1,42 +1,42 @@
-mx.edu.iton.potros.practica10.app-annotation-experimental-1.4.0-0 C:\Users\jesus\.gradle\caches\transforms-3\012c776a7aae6a370a87774dddd9a067\transformed\annotation-experimental-1.4.0\res
-mx.edu.iton.potros.practica10.app-credentials-play-services-auth-1.2.0-rc01-1 C:\Users\jesus\.gradle\caches\transforms-3\02810eb08372403380c8b30a5483049f\transformed\credentials-play-services-auth-1.2.0-rc01\res
-mx.edu.iton.potros.practica10.app-lifecycle-runtime-2.6.2-2 C:\Users\jesus\.gradle\caches\transforms-3\045fb7f5161ca70c623f3e7e34da8015\transformed\lifecycle-runtime-2.6.2\res
-mx.edu.iton.potros.practica10.app-profileinstaller-1.3.0-3 C:\Users\jesus\.gradle\caches\transforms-3\049b32537d18db14e9710410c893ce61\transformed\profileinstaller-1.3.0\res
-mx.edu.iton.potros.practica10.app-core-runtime-2.2.0-4 C:\Users\jesus\.gradle\caches\transforms-3\0caea795bdee05d4a7aa19bd8648527f\transformed\core-runtime-2.2.0\res
-mx.edu.iton.potros.practica10.app-play-services-basement-18.3.0-5 C:\Users\jesus\.gradle\caches\transforms-3\0cfa5d72e929f6a292f89310e217eda3\transformed\play-services-basement-18.3.0\res
-mx.edu.iton.potros.practica10.app-credentials-1.2.0-rc01-6 C:\Users\jesus\.gradle\caches\transforms-3\1a4877d7e8d3d287aded896a6cf6af4b\transformed\credentials-1.2.0-rc01\res
-mx.edu.iton.potros.practica10.app-fragment-1.3.6-7 C:\Users\jesus\.gradle\caches\transforms-3\1ebd2bae9df3cc60806f12237c0a7780\transformed\fragment-1.3.6\res
-mx.edu.iton.potros.practica10.app-firebase-common-21.0.0-8 C:\Users\jesus\.gradle\caches\transforms-3\200b44684533de111747a9c802a435d0\transformed\firebase-common-21.0.0\res
-mx.edu.iton.potros.practica10.app-emoji2-1.2.0-9 C:\Users\jesus\.gradle\caches\transforms-3\2903b5c9feeda4495d036174d9842319\transformed\emoji2-1.2.0\res
-mx.edu.iton.potros.practica10.app-transition-1.5.0-10 C:\Users\jesus\.gradle\caches\transforms-3\2f2c0eadf9c67ce5ec78c064b3ed1054\transformed\transition-1.5.0\res
-mx.edu.iton.potros.practica10.app-activity-1.8.0-11 C:\Users\jesus\.gradle\caches\transforms-3\30b2a7a073332432a749d0acbf09e082\transformed\activity-1.8.0\res
-mx.edu.iton.potros.practica10.app-browser-1.4.0-12 C:\Users\jesus\.gradle\caches\transforms-3\3f3dedd532e72f79b0bbb0fe85177997\transformed\browser-1.4.0\res
-mx.edu.iton.potros.practica10.app-appcompat-1.6.1-13 C:\Users\jesus\.gradle\caches\transforms-3\56956d5365b597db3057af862f894709\transformed\appcompat-1.6.1\res
-mx.edu.iton.potros.practica10.app-lifecycle-viewmodel-savedstate-2.6.2-14 C:\Users\jesus\.gradle\caches\transforms-3\5ac7be966ee7a82c9a2fb862875857f7\transformed\lifecycle-viewmodel-savedstate-2.6.2\res
-mx.edu.iton.potros.practica10.app-coordinatorlayout-1.1.0-15 C:\Users\jesus\.gradle\caches\transforms-3\6287115023f33e92ed3340fbcedf4d13\transformed\coordinatorlayout-1.1.0\res
-mx.edu.iton.potros.practica10.app-lifecycle-livedata-2.6.2-16 C:\Users\jesus\.gradle\caches\transforms-3\68f84e2463b1faa622884b3cedc1c2ed\transformed\lifecycle-livedata-2.6.2\res
-mx.edu.iton.potros.practica10.app-recyclerview-1.1.0-17 C:\Users\jesus\.gradle\caches\transforms-3\6ee126f6d12c445ef99753e1e84b66ff\transformed\recyclerview-1.1.0\res
-mx.edu.iton.potros.practica10.app-lifecycle-viewmodel-2.6.2-18 C:\Users\jesus\.gradle\caches\transforms-3\75731a3d9a34a3882fb123e60285b419\transformed\lifecycle-viewmodel-2.6.2\res
-mx.edu.iton.potros.practica10.app-appcompat-resources-1.6.1-19 C:\Users\jesus\.gradle\caches\transforms-3\8c014c8b4aebe50febbd1f94efe12ee9\transformed\appcompat-resources-1.6.1\res
-mx.edu.iton.potros.practica10.app-startup-runtime-1.1.1-20 C:\Users\jesus\.gradle\caches\transforms-3\8ea6126d004aa2f5d5bf60ff9f6fbe80\transformed\startup-runtime-1.1.1\res
-mx.edu.iton.potros.practica10.app-material-1.12.0-21 C:\Users\jesus\.gradle\caches\transforms-3\90043224f5eb0cef5d1a0a36b694e57d\transformed\material-1.12.0\res
-mx.edu.iton.potros.practica10.app-lifecycle-livedata-core-2.6.2-22 C:\Users\jesus\.gradle\caches\transforms-3\948cec5597f7ae040ba3d943bf962c99\transformed\lifecycle-livedata-core-2.6.2\res
-mx.edu.iton.potros.practica10.app-drawerlayout-1.1.1-23 C:\Users\jesus\.gradle\caches\transforms-3\9599d32ec7c5369d251e556a661069f2\transformed\drawerlayout-1.1.1\res
-mx.edu.iton.potros.practica10.app-viewpager2-1.0.0-24 C:\Users\jesus\.gradle\caches\transforms-3\9bf5ead2b7d9ce0a4923e9a0d5ecff3f\transformed\viewpager2-1.0.0\res
-mx.edu.iton.potros.practica10.app-core-1.13.1-25 C:\Users\jesus\.gradle\caches\transforms-3\b0a73654a78e6c5847b47746c6b019df\transformed\core-1.13.1\res
-mx.edu.iton.potros.practica10.app-cardview-1.0.0-26 C:\Users\jesus\.gradle\caches\transforms-3\b72b8b57566e4c66b4e6687aef3d391c\transformed\cardview-1.0.0\res
-mx.edu.iton.potros.practica10.app-play-services-auth-20.7.0-27 C:\Users\jesus\.gradle\caches\transforms-3\c06c3f856290faabc2e7a7d7def0d0ae\transformed\play-services-auth-20.7.0\res
-mx.edu.iton.potros.practica10.app-play-services-base-18.0.1-28 C:\Users\jesus\.gradle\caches\transforms-3\c0d16428d9bb6c684049347a63f26460\transformed\play-services-base-18.0.1\res
-mx.edu.iton.potros.practica10.app-core-ktx-1.13.1-29 C:\Users\jesus\.gradle\caches\transforms-3\d725e2d866f1fdfd2c747efee6a663cd\transformed\core-ktx-1.13.1\res
-mx.edu.iton.potros.practica10.app-constraintlayout-2.1.4-30 C:\Users\jesus\.gradle\caches\transforms-3\e8619fba180b562b20c682cfcf7b32eb\transformed\constraintlayout-2.1.4\res
-mx.edu.iton.potros.practica10.app-emoji2-views-helper-1.2.0-31 C:\Users\jesus\.gradle\caches\transforms-3\f3181c4aabfa7edc49b74a88ecd0356f\transformed\emoji2-views-helper-1.2.0\res
-mx.edu.iton.potros.practica10.app-lifecycle-process-2.6.2-32 C:\Users\jesus\.gradle\caches\transforms-3\f500b755667920a7b9a5fa843c7a4ba5\transformed\lifecycle-process-2.6.2\res
-mx.edu.iton.potros.practica10.app-savedstate-1.2.1-33 C:\Users\jesus\.gradle\caches\transforms-3\fbb1631e3e0011abcfee7e2665fe7244\transformed\savedstate-1.2.1\res
-mx.edu.iton.potros.practica10.app-pngs-34 E:\ENE-MAY 2024\Aplicaciones moviles\Practicas\Practica10\app\build\generated\res\pngs\debug
-mx.edu.iton.potros.practica10.app-res-35 E:\ENE-MAY 2024\Aplicaciones moviles\Practicas\Practica10\app\build\generated\res\processDebugGoogleServices
-mx.edu.iton.potros.practica10.app-resValues-36 E:\ENE-MAY 2024\Aplicaciones moviles\Practicas\Practica10\app\build\generated\res\resValues\debug
-mx.edu.iton.potros.practica10.app-packageDebugResources-37 E:\ENE-MAY 2024\Aplicaciones moviles\Practicas\Practica10\app\build\intermediates\incremental\debug\packageDebugResources\merged.dir
-mx.edu.iton.potros.practica10.app-packageDebugResources-38 E:\ENE-MAY 2024\Aplicaciones moviles\Practicas\Practica10\app\build\intermediates\incremental\debug\packageDebugResources\stripped.dir
-mx.edu.iton.potros.practica10.app-merged_res-39 E:\ENE-MAY 2024\Aplicaciones moviles\Practicas\Practica10\app\build\intermediates\merged_res\debug
-mx.edu.iton.potros.practica10.app-debug-40 E:\ENE-MAY 2024\Aplicaciones moviles\Practicas\Practica10\app\src\debug\res
-mx.edu.iton.potros.practica10.app-main-41 E:\ENE-MAY 2024\Aplicaciones moviles\Practicas\Practica10\app\src\main\res
+mx.edu.iton.potros.practica10.app-annotation-experimental-1.4.0-0 C:\Users\Usuario\.gradle\caches\transforms-3\012c776a7aae6a370a87774dddd9a067\transformed\annotation-experimental-1.4.0\res
+mx.edu.iton.potros.practica10.app-credentials-play-services-auth-1.2.0-rc01-1 C:\Users\Usuario\.gradle\caches\transforms-3\02810eb08372403380c8b30a5483049f\transformed\credentials-play-services-auth-1.2.0-rc01\res
+mx.edu.iton.potros.practica10.app-lifecycle-runtime-2.6.2-2 C:\Users\Usuario\.gradle\caches\transforms-3\045fb7f5161ca70c623f3e7e34da8015\transformed\lifecycle-runtime-2.6.2\res
+mx.edu.iton.potros.practica10.app-core-runtime-2.2.0-3 C:\Users\Usuario\.gradle\caches\transforms-3\0caea795bdee05d4a7aa19bd8648527f\transformed\core-runtime-2.2.0\res
+mx.edu.iton.potros.practica10.app-play-services-basement-18.3.0-4 C:\Users\Usuario\.gradle\caches\transforms-3\0cfa5d72e929f6a292f89310e217eda3\transformed\play-services-basement-18.3.0\res
+mx.edu.iton.potros.practica10.app-credentials-1.2.0-rc01-5 C:\Users\Usuario\.gradle\caches\transforms-3\1a4877d7e8d3d287aded896a6cf6af4b\transformed\credentials-1.2.0-rc01\res
+mx.edu.iton.potros.practica10.app-fragment-1.3.6-6 C:\Users\Usuario\.gradle\caches\transforms-3\1ebd2bae9df3cc60806f12237c0a7780\transformed\fragment-1.3.6\res
+mx.edu.iton.potros.practica10.app-firebase-common-21.0.0-7 C:\Users\Usuario\.gradle\caches\transforms-3\200b44684533de111747a9c802a435d0\transformed\firebase-common-21.0.0\res
+mx.edu.iton.potros.practica10.app-emoji2-1.2.0-8 C:\Users\Usuario\.gradle\caches\transforms-3\2903b5c9feeda4495d036174d9842319\transformed\emoji2-1.2.0\res
+mx.edu.iton.potros.practica10.app-transition-1.5.0-9 C:\Users\Usuario\.gradle\caches\transforms-3\2f2c0eadf9c67ce5ec78c064b3ed1054\transformed\transition-1.5.0\res
+mx.edu.iton.potros.practica10.app-browser-1.4.0-10 C:\Users\Usuario\.gradle\caches\transforms-3\3f3dedd532e72f79b0bbb0fe85177997\transformed\browser-1.4.0\res
+mx.edu.iton.potros.practica10.app-appcompat-1.6.1-11 C:\Users\Usuario\.gradle\caches\transforms-3\56956d5365b597db3057af862f894709\transformed\appcompat-1.6.1\res
+mx.edu.iton.potros.practica10.app-profileinstaller-1.3.1-12 C:\Users\Usuario\.gradle\caches\transforms-3\585f95f055493549f3a45bd4a496b0ce\transformed\profileinstaller-1.3.1\res
+mx.edu.iton.potros.practica10.app-lifecycle-viewmodel-savedstate-2.6.2-13 C:\Users\Usuario\.gradle\caches\transforms-3\5ac7be966ee7a82c9a2fb862875857f7\transformed\lifecycle-viewmodel-savedstate-2.6.2\res
+mx.edu.iton.potros.practica10.app-coordinatorlayout-1.1.0-14 C:\Users\Usuario\.gradle\caches\transforms-3\6287115023f33e92ed3340fbcedf4d13\transformed\coordinatorlayout-1.1.0\res
+mx.edu.iton.potros.practica10.app-play-services-base-18.1.0-15 C:\Users\Usuario\.gradle\caches\transforms-3\65bc641168e3472577b4e6d186eb6f44\transformed\play-services-base-18.1.0\res
+mx.edu.iton.potros.practica10.app-lifecycle-livedata-2.6.2-16 C:\Users\Usuario\.gradle\caches\transforms-3\68f84e2463b1faa622884b3cedc1c2ed\transformed\lifecycle-livedata-2.6.2\res
+mx.edu.iton.potros.practica10.app-recyclerview-1.1.0-17 C:\Users\Usuario\.gradle\caches\transforms-3\6ee126f6d12c445ef99753e1e84b66ff\transformed\recyclerview-1.1.0\res
+mx.edu.iton.potros.practica10.app-lifecycle-viewmodel-2.6.2-18 C:\Users\Usuario\.gradle\caches\transforms-3\75731a3d9a34a3882fb123e60285b419\transformed\lifecycle-viewmodel-2.6.2\res
+mx.edu.iton.potros.practica10.app-activity-1.9.0-19 C:\Users\Usuario\.gradle\caches\transforms-3\82424d40e5083c0e80e7ab1e1fe9076a\transformed\activity-1.9.0\res
+mx.edu.iton.potros.practica10.app-appcompat-resources-1.6.1-20 C:\Users\Usuario\.gradle\caches\transforms-3\8c014c8b4aebe50febbd1f94efe12ee9\transformed\appcompat-resources-1.6.1\res
+mx.edu.iton.potros.practica10.app-startup-runtime-1.1.1-21 C:\Users\Usuario\.gradle\caches\transforms-3\8ea6126d004aa2f5d5bf60ff9f6fbe80\transformed\startup-runtime-1.1.1\res
+mx.edu.iton.potros.practica10.app-material-1.12.0-22 C:\Users\Usuario\.gradle\caches\transforms-3\90043224f5eb0cef5d1a0a36b694e57d\transformed\material-1.12.0\res
+mx.edu.iton.potros.practica10.app-lifecycle-livedata-core-2.6.2-23 C:\Users\Usuario\.gradle\caches\transforms-3\948cec5597f7ae040ba3d943bf962c99\transformed\lifecycle-livedata-core-2.6.2\res
+mx.edu.iton.potros.practica10.app-drawerlayout-1.1.1-24 C:\Users\Usuario\.gradle\caches\transforms-3\9599d32ec7c5369d251e556a661069f2\transformed\drawerlayout-1.1.1\res
+mx.edu.iton.potros.practica10.app-viewpager2-1.0.0-25 C:\Users\Usuario\.gradle\caches\transforms-3\9bf5ead2b7d9ce0a4923e9a0d5ecff3f\transformed\viewpager2-1.0.0\res
+mx.edu.iton.potros.practica10.app-core-1.13.1-26 C:\Users\Usuario\.gradle\caches\transforms-3\b0a73654a78e6c5847b47746c6b019df\transformed\core-1.13.1\res
+mx.edu.iton.potros.practica10.app-cardview-1.0.0-27 C:\Users\Usuario\.gradle\caches\transforms-3\b72b8b57566e4c66b4e6687aef3d391c\transformed\cardview-1.0.0\res
+mx.edu.iton.potros.practica10.app-play-services-auth-20.7.0-28 C:\Users\Usuario\.gradle\caches\transforms-3\c06c3f856290faabc2e7a7d7def0d0ae\transformed\play-services-auth-20.7.0\res
+mx.edu.iton.potros.practica10.app-core-ktx-1.13.1-29 C:\Users\Usuario\.gradle\caches\transforms-3\d725e2d866f1fdfd2c747efee6a663cd\transformed\core-ktx-1.13.1\res
+mx.edu.iton.potros.practica10.app-constraintlayout-2.1.4-30 C:\Users\Usuario\.gradle\caches\transforms-3\e8619fba180b562b20c682cfcf7b32eb\transformed\constraintlayout-2.1.4\res
+mx.edu.iton.potros.practica10.app-emoji2-views-helper-1.2.0-31 C:\Users\Usuario\.gradle\caches\transforms-3\f3181c4aabfa7edc49b74a88ecd0356f\transformed\emoji2-views-helper-1.2.0\res
+mx.edu.iton.potros.practica10.app-lifecycle-process-2.6.2-32 C:\Users\Usuario\.gradle\caches\transforms-3\f500b755667920a7b9a5fa843c7a4ba5\transformed\lifecycle-process-2.6.2\res
+mx.edu.iton.potros.practica10.app-savedstate-1.2.1-33 C:\Users\Usuario\.gradle\caches\transforms-3\fbb1631e3e0011abcfee7e2665fe7244\transformed\savedstate-1.2.1\res
+mx.edu.iton.potros.practica10.app-pngs-34 C:\Users\Usuario\Desktop\ProyectoFinal\app\build\generated\res\pngs\debug
+mx.edu.iton.potros.practica10.app-res-35 C:\Users\Usuario\Desktop\ProyectoFinal\app\build\generated\res\processDebugGoogleServices
+mx.edu.iton.potros.practica10.app-resValues-36 C:\Users\Usuario\Desktop\ProyectoFinal\app\build\generated\res\resValues\debug
+mx.edu.iton.potros.practica10.app-packageDebugResources-37 C:\Users\Usuario\Desktop\ProyectoFinal\app\build\intermediates\incremental\debug\packageDebugResources\merged.dir
+mx.edu.iton.potros.practica10.app-packageDebugResources-38 C:\Users\Usuario\Desktop\ProyectoFinal\app\build\intermediates\incremental\debug\packageDebugResources\stripped.dir
+mx.edu.iton.potros.practica10.app-merged_res-39 C:\Users\Usuario\Desktop\ProyectoFinal\app\build\intermediates\merged_res\debug
+mx.edu.iton.potros.practica10.app-debug-40 C:\Users\Usuario\Desktop\ProyectoFinal\app\src\debug\res
+mx.edu.iton.potros.practica10.app-main-41 C:\Users\Usuario\Desktop\ProyectoFinal\app\src\main\res

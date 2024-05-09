@@ -1,15 +1,23 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <color name="black">#FF000000</color>
+    <color name="buttons">#291B16</color>
+    <color name="colorPrimary">#916E63</color>
+    <color name="colorSecondary">#291B16</color>
+    <color name="primary">#916E63</color>
+    <color name="secondary">#592E21</color>
     <color name="white">#FFFFFFFF</color>
+    <string name="add">manage items</string>
     <string name="all">TODO</string>
-    <string name="app_name">Practica10</string>
+    <string name="app_name">Anesthesia Coffee</string>
     <string name="change_password">Cambiar contraseña</string>
     <string name="continue_check_email">Continuar</string>
     <string name="current_password">Contraseña actual</string>
+    <string name="del">detele item</string>
     <string name="delete">Eliminar</string>
     <string name="delete_account">Eliminar cuenta</string>
     <string name="email">Email</string>
+    <string name="enter">enter</string>
     <string name="forget_password">¿olvidaste tu contraseña?</string>
     <string name="gcm_defaultSenderId" translatable="false">392887049591</string>
     <string name="google_api_key" translatable="false">AIzaSyCGrcgZl8NObmck1BFv8hwcXvPQWWrw8tI</string>
@@ -24,7 +32,9 @@
     <string name="project_id" translatable="false">fir-login-dd101</string>
     <string name="recovery_account">Enviar</string>
     <string name="repeat_password">Confirma la contraseña</string>
+    <string name="see">see menu</string>
     <string name="signup">Sign Up</string>
+    <string name="sku">sku</string>
     <string name="subtitle_account_recovery">Ingresa tu email para que se te pueda enviar un correo con los pasos para cambiar tu contraseña.</string>
     <string name="subtitle_check_email">Para completar su registro. ¡Por favor! verifica su correo y después de clic en continuar.</string>
     <string name="subtitle_delete_account">Por motivos de seguridad para eliminar tu cuenta por completo, debes de ingresar tu contraseña.</string>
@@ -35,12 +45,21 @@
     <string name="title_check_email">Verificacion de Email</string>
     <string name="title_delete_account">Eliminar cuenta</string>
     <string name="title_update_password">Cambio de contraseña</string>
+    <string name="update">update item</string>
     <string name="update_profile">Guardar</string>
     <string name="user_email">userdefault@gmail.com</string>
     <string name="user_name">User Default</string>
+    <string name="welcome">welcome to</string>
     <style name="Base.Theme.Practica10" parent="Theme.Material3.DayNight.NoActionBar">
         
         
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryVariant">@color/colorSecondary</item>
+        <item name="colorOnPrimary">@color/white</item>
+
+        <item name="colorSecondary">@color/colorSecondary</item>
+        <item name="colorSecondaryVariant">@color/colorPrimary</item>
+        <item name="colorOnSecondary">@color/white</item>
     </style>
     <style name="Theme.Practica10" parent="Base.Theme.Practica10"/>
 </resources>

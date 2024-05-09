@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">Practica10</string>
+    <string name="app_name">Anesthesia Coffee</string>
     <string name="title_active_login">Firebase Login</string>
     <string name="password">Contraseña</string>
     <string name="new_password">Nueva contraseña</string>
@@ -29,4 +29,12 @@
     <string name="title_delete_account">Eliminar cuenta</string>
     <string name="subtitle_delete_account">Por motivos de seguridad para eliminar tu cuenta por completo, debes de ingresar tu contraseña.</string>
     <string name="delete">Eliminar</string>
+
+    <string name="welcome">welcome to</string>
+    <string name="add">manage items</string>
+    <string name="del">detele item</string>
+    <string name="update">update item</string>
+    <string name="see">see menu</string>
+    <string name="sku">sku</string>
+    <string name="enter">enter</string>
 </resources>
