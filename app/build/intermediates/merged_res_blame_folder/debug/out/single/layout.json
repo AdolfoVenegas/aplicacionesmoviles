@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "mx.edu.iton.potros.practica10.app-mergeDebugResources-38:/layout/activity_main.xml",
+        "source": "mx.edu.iton.potros.practica10.app-main-41:/layout/activity_main.xml"
+    },
+    {
+        "merged": "mx.edu.iton.potros.practica10.app-mergeDebugResources-38:/layout/activity_sign_in.xml",
+        "source": "mx.edu.iton.potros.practica10.app-main-41:/layout/activity_sign_in.xml"
+    }
+]

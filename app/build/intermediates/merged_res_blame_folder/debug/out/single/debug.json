@@ -1,0 +1,114 @@
+[
+    {
+        "merged": "mx.edu.iton.potros.practica10.app-merged_res-39:/layout_activity_main.xml.flat",
+        "source": "mx.edu.iton.potros.practica10.app-main-41:/layout/activity_main.xml"
+    },
+    {
+        "merged": "mx.edu.iton.potros.practica10.app-merged_res-39:/drawable_ic_lock.xml.flat",
+        "source": "mx.edu.iton.potros.practica10.app-main-41:/drawable/ic_lock.xml"
+    },
+    {
+        "merged": "mx.edu.iton.potros.practica10.app-merged_res-39:/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "mx.edu.iton.potros.practica10.app-main-41:/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "mx.edu.iton.potros.practica10.app-merged_res-39:/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "mx.edu.iton.potros.practica10.app-main-41:/mipmap-anydpi-v26/ic_launcher_round.xml"
+    },
+    {
+        "merged": "mx.edu.iton.potros.practica10.app-merged_res-39:/drawable_ic_sign_out.xml.flat",
+        "source": "mx.edu.iton.potros.practica10.app-main-41:/drawable/ic_sign_out.xml"
+    },
+    {
+        "merged": "mx.edu.iton.potros.practica10.app-merged_res-39:/drawable_ic_email.xml.flat",
+        "source": "mx.edu.iton.potros.practica10.app-main-41:/drawable/ic_email.xml"
+    },
+    {
+        "merged": "mx.edu.iton.potros.practica10.app-merged_res-39:/mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "mx.edu.iton.potros.practica10.app-main-41:/mipmap-xhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "mx.edu.iton.potros.practica10.app-merged_res-39:/mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "mx.edu.iton.potros.practica10.app-main-41:/mipmap-mdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "mx.edu.iton.potros.practica10.app-merged_res-39:/xml_backup_rules.xml.flat",
+        "source": "mx.edu.iton.potros.practica10.app-main-41:/xml/backup_rules.xml"
+    },
+    {
+        "merged": "mx.edu.iton.potros.practica10.app-merged_res-39:/drawable_ic_buttom.xml.flat",
+        "source": "mx.edu.iton.potros.practica10.app-main-41:/drawable/ic_buttom.xml"
+    },
+    {
+        "merged": "mx.edu.iton.potros.practica10.app-merged_res-39:/drawable_ic_bg.xml.flat",
+        "source": "mx.edu.iton.potros.practica10.app-main-41:/drawable/ic_bg.xml"
+    },
+    {
+        "merged": "mx.edu.iton.potros.practica10.app-merged_res-39:/mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "mx.edu.iton.potros.practica10.app-main-41:/mipmap-xxxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "mx.edu.iton.potros.practica10.app-merged_res-39:/mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "mx.edu.iton.potros.practica10.app-main-41:/mipmap-xhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "mx.edu.iton.potros.practica10.app-merged_res-39:/mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "mx.edu.iton.potros.practica10.app-main-41:/mipmap-hdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "mx.edu.iton.potros.practica10.app-merged_res-39:/drawable_profile_photo.png.flat",
+        "source": "mx.edu.iton.potros.practica10.app-main-41:/drawable/profile_photo.png"
+    },
+    {
+        "merged": "mx.edu.iton.potros.practica10.app-merged_res-39:/drawable_ic_user.xml.flat",
+        "source": "mx.edu.iton.potros.practica10.app-main-41:/drawable/ic_user.xml"
+    },
+    {
+        "merged": "mx.edu.iton.potros.practica10.app-merged_res-39:/mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "mx.edu.iton.potros.practica10.app-main-41:/mipmap-xxxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "mx.edu.iton.potros.practica10.app-merged_res-39:/drawable_ic_logo.xml.flat",
+        "source": "mx.edu.iton.potros.practica10.app-main-41:/drawable/ic_logo.xml"
+    },
+    {
+        "merged": "mx.edu.iton.potros.practica10.app-merged_res-39:/drawable_ic_field.xml.flat",
+        "source": "mx.edu.iton.potros.practica10.app-main-41:/drawable/ic_field.xml"
+    },
+    {
+        "merged": "mx.edu.iton.potros.practica10.app-merged_res-39:/mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "mx.edu.iton.potros.practica10.app-main-41:/mipmap-mdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "mx.edu.iton.potros.practica10.app-merged_res-39:/layout_activity_sign_in.xml.flat",
+        "source": "mx.edu.iton.potros.practica10.app-main-41:/layout/activity_sign_in.xml"
+    },
+    {
+        "merged": "mx.edu.iton.potros.practica10.app-merged_res-39:/xml_data_extraction_rules.xml.flat",
+        "source": "mx.edu.iton.potros.practica10.app-main-41:/xml/data_extraction_rules.xml"
+    },
+    {
+        "merged": "mx.edu.iton.potros.practica10.app-merged_res-39:/drawable_ic_launcher_background.xml.flat",
+        "source": "mx.edu.iton.potros.practica10.app-main-41:/drawable/ic_launcher_background.xml"
+    },
+    {
+        "merged": "mx.edu.iton.potros.practica10.app-merged_res-39:/drawable_ic_launcher_foreground.xml.flat",
+        "source": "mx.edu.iton.potros.practica10.app-main-41:/drawable/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "mx.edu.iton.potros.practica10.app-merged_res-39:/mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "mx.edu.iton.potros.practica10.app-main-41:/mipmap-xxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "mx.edu.iton.potros.practica10.app-merged_res-39:/mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "mx.edu.iton.potros.practica10.app-main-41:/mipmap-xxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "mx.edu.iton.potros.practica10.app-merged_res-39:/drawable_ic_back.xml.flat",
+        "source": "mx.edu.iton.potros.practica10.app-main-41:/drawable/ic_back.xml"
+    },
+    {
+        "merged": "mx.edu.iton.potros.practica10.app-merged_res-39:/mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "mx.edu.iton.potros.practica10.app-main-41:/mipmap-hdpi/ic_launcher.webp"
+    }
+]
